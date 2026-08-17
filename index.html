@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Goa Top 20 News</title>
+    <title>Goa Top 50 Daily News</title>
     <style>
         :root {
             --bg: #ffffff;
@@ -31,25 +31,58 @@
             background-color: var(--bg);
             color: var(--text);
             line-height: 1.6;
-            padding: 20px 16px;
+            padding: 16px;
             max-width: 680px;
             margin: 0 auto;
         }
         header {
             border-bottom: 2px solid var(--border);
             padding-bottom: 12px;
-            margin-bottom: 20px;
+            margin-bottom: 14px;
         }
-        h1 { font-size: 1.5rem; font-weight: 800; }
+        h1 { font-size: 1.6rem; font-weight: 800; }
         .subtitle { font-size: 0.85rem; color: var(--muted); }
+        
+        .filter-bar {
+            display: flex;
+            gap: 8px;
+            overflow-x: auto;
+            padding-bottom: 12px;
+            margin-bottom: 16px;
+            -webkit-overflow-scrolling: touch;
+            scrollbar-width: none;
+        }
+        .filter-bar::-webkit-scrollbar { display: none; }
+        
+        .pill {
+            background: var(--badge-bg);
+            color: var(--badge-text);
+            border: 1px solid var(--border);
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            cursor: pointer;
+            white-space: nowrap;
+            transition: 0.2s ease;
+        }
+        .pill.active {
+            background: var(--text);
+            color: var(--bg);
+            border-color: var(--text);
+        }
+        
         .item {
             padding: 16px 0;
             border-bottom: 1px solid var(--border);
         }
+        .item.hidden {
+            display: none;
+        }
         .tag {
             display: inline-block;
-            font-size: 0.75rem;
-            font-weight: 600;
+            font-size: 0.72rem;
+            font-weight: 700;
             background: var(--badge-bg);
             color: var(--badge-text);
             padding: 2px 8px;
@@ -57,6 +90,12 @@
             margin-bottom: 6px;
             text-transform: uppercase;
         }
+        .tag-sports { background: #dcfce7; color: #15803d; }
+        .tag-politics { background: #fee2e2; color: #b91c1c; }
+        .tag-tourism { background: #e0f2fe; color: #0369a1; }
+        .tag-weather { background: #fef9c3; color: #a16207; }
+        .tag-crime { background: #f3e8ff; color: #6b21a8; }
+        
         .headline {
             font-size: 1.05rem;
             font-weight: 700;
@@ -71,71 +110,339 @@
 </head>
 <body>
     <header>
-        <h1>Goa Top 20</h1>
-        <p class="subtitle">Daily Automated Text Digest</p>
+        <h1>Goa Top 50</h1>
+        <p class="subtitle">Daily Automated Digest &middot; Fast Text News</p>
     </header>
-    <main>
 
-        <article class="item">
-            <span class="tag">Politics</span>
-            <h2 class="headline">Kharge Addresses Goa Workers as Vande Mataram Controversy Triggers BJP Criticism</h2>
-            <p class="summary">Congress President Mallikarjun Kharge visited Goa to rally party cadres, but the event drew political sharp-shooting after only two stanzas of Vande Mataram were recited during the program.</p>
+    <div class="filter-bar">
+        <button class="pill active" onclick="filterNews('All')">All</button><button class="pill " onclick="filterNews('Sports')">Sports</button><button class="pill " onclick="filterNews('Politics')">Politics</button><button class="pill " onclick="filterNews('Tourism')">Tourism</button><button class="pill " onclick="filterNews('Weather')">Weather</button><button class="pill " onclick="filterNews('Crime')">Crime</button><button class="pill " onclick="filterNews('Civic')">Civic</button><button class="pill " onclick="filterNews('Entertainment')">Entertainment</button><button class="pill " onclick="filterNews('Business')">Business</button>
+    </div>
+
+    <main id="news-container">
+        
+        <article class="item" data-category="Politics">
+            <span class="tag tag-politics">Politics</span>
+            <h2 class="headline">Controversy Erupts Over Vande Mataram Recital at Goa Congress Event</h2>
+            <p class="summary">A political row has broken out after the full version of Vande Mataram was not sung at a Congress event in Goa. The incident occurred in the presence of national party president Mallikarjun Kharge.</p>
         </article>
     
-        <article class="item">
-            <span class="tag">Politics</span>
-            <h2 class="headline">Goa Opposition Coalition Seeks Strategy to Challenge Ruling BJP in 2027</h2>
-            <p class="summary">Political analysts are assessing whether the newly aligned opposition bloc in Goa can build enough momentum and unity to disrupt the BJP's dominance in the upcoming 2027 assembly polls.</p>
+        <article class="item" data-category="Politics">
+            <span class="tag tag-politics">Politics</span>
+            <h2 class="headline">Kharge Rebuffs BJP Criticism Over Vande Mataram Singing Protocol</h2>
+            <p class="summary">Congress chief Mallikarjun Kharge hit back at BJP attacks after his party sang only two stanzas of Vande Mataram at a Goa function. He defended the action, citing standard parliamentary and historical protocols.</p>
         </article>
     
-        <article class="item">
-            <span class="tag">Crime</span>
-            <h2 class="headline">Actor Ashwin Mushran Booked Following Car-Scooter Collision in Goa</h2>
-            <p class="summary">Goa Police registered a case against actor Ashwin Mushran after his car allegedly struck a scooter carrying a father and son, leaving both riders injured.</p>
+        <article class="item" data-category="Politics">
+            <span class="tag tag-politics">Politics</span>
+            <h2 class="headline">Can a United Opposition Stand Against the BJP in 2027?</h2>
+            <p class="summary">Analysts are debating whether a consolidated coalition of opposition parties can successfully halt the ruling BJP's momentum in the upcoming 2027 Goa assembly elections.</p>
         </article>
     
-        <article class="item">
-            <span class="tag">Tourism</span>
-            <h2 class="headline">Goa Records Over 61 Lakh Tourists in First Seven Months of the Year</h2>
-            <p class="summary">Tourism numbers in Goa reached 61.38 lakh visitors between January and July, demonstrating steady growth and strong demand even through the rainy monsoon months.</p>
+        <article class="item" data-category="Crime">
+            <span class="tag tag-crime">Crime</span>
+            <h2 class="headline">Actor Ashwin Mushran's Driver Booked After Scooter Collision in Goa</h2>
+            <p class="summary">A police case has been registered against actor Ashwin Mushran's driver following a road accident in Goa. The crash resulted in injuries to two people on a scooter.</p>
         </article>
     
-        <article class="item">
-            <span class="tag">Agriculture</span>
-            <h2 class="headline">Goa Partners with Israel to Boost Crop Yields and Launch 'Goa Fresh' QR Tracking</h2>
-            <p class="summary">Chief Minister Pramod Sawant announced an Indo-Israel farming initiative aimed at high-quality seedlings, alongside QR-coded 'Goa Fresh' labels allowing consumers to trace farm produce from field to market.</p>
+        <article class="item" data-category="Crime">
+            <span class="tag tag-crime">Crime</span>
+            <h2 class="headline">Two Injured After Actor Ashwin Mushran's Car Crashes into Scooter</h2>
+            <p class="summary">An accident involving actor Ashwin Mushran's car has left two people injured in Goa. The local police are investigating the incident and have booked the driver.</p>
         </article>
     
-        <article class="item">
-            <span class="tag">Health</span>
-            <h2 class="headline">Artificial Intelligence Tools Help Goa Detect and Treat Oral Cancer Early</h2>
-            <p class="summary">Goa's medical facilities are leveraging AI technology to improve early screening, diagnosis, and personalized treatment mapping for patients suffering from oral cancer.</p>
+        <article class="item" data-category="Crime">
+            <span class="tag tag-crime">Crime</span>
+            <h2 class="headline">Father and Son Injured in Road Mishap Involving Actor Ashwin Mushran's Car</h2>
+            <p class="summary">A father-son duo sustained injuries in Goa after their scooter was allegedly hit by actor Ashwin Mushran's vehicle. The driver is currently facing charges for negligent driving.</p>
         </article>
     
-        <article class="item">
-            <span class="tag">Sports</span>
-            <h2 class="headline">AIFF Unlikely to Grant Extended Timeline to Diamond Harbour</h2>
-            <p class="summary">The All India Football Federation is expected to stick to strict scheduling parameters despite Diamond Harbour seeking extra time for administrative procedures.</p>
+        <article class="item" data-category="Tourism">
+            <span class="tag tag-tourism">Tourism</span>
+            <h2 class="headline">Monsoon Tourism Booms in Goa as Visitor Numbers Surge</h2>
+            <p class="summary">Goa's tourism sector is successfully shedding its "off-season" tag during the monsoons due to a substantial increase in tourist footfall. Visitors are increasingly drawn to the scenic green landscapes and rain-soaked vibes.</p>
         </article>
     
-        <article class="item">
-            <span class="tag">Tech</span>
-            <h2 class="headline">Goa Resident Uses ChatGPT to Retrieve Lost Shoes at Ujjain Temple</h2>
-            <p class="summary">A tourist from Goa successfully tracked down missing footwear outside a crowded temple complex in Ujjain by using ChatGPT to analyze landmark details and visual cues.</p>
+        <article class="item" data-category="Tourism">
+            <span class="tag tag-tourism">Tourism</span>
+            <h2 class="headline">Goa Welcomes Over 60 Lakh Travelers in First Seven Months of 2026</h2>
+            <p class="summary">Official data reveals that Goa registered a record 61 lakh tourists between January and July 2026. This impressive turnout highlights the state's enduring appeal as a year-round destination.</p>
         </article>
     
-        <article class="item">
-            <span class="tag">Culture</span>
-            <h2 class="headline">Goan Parishes Celebrate Independence Day with Youth and Heritage Focus</h2>
-            <p class="summary">Catholic parishes across Goa hosted 'FREEDOM 4.0' events around Independence Day to engage local youth, preserve cultural heritage, and promote community unity.</p>
+        <article class="item" data-category="Tourism">
+            <span class="tag tag-tourism">Tourism</span>
+            <h2 class="headline">Tourism Registers Strong Growth as Over 6 Million Visit Goa</h2>
+            <p class="summary">Goa has clocked an impressive 6.14 million tourist arrivals during the first seven months of 2026. Both domestic and international travel markets contributed heavily to this milestone.</p>
         </article>
     
-        <article class="item">
-            <span class="tag">Lifestyle</span>
-            <h2 class="headline">Goa Restaurants Launch Special Monsoon Menus Celebrating Rainy Season Flavours</h2>
-            <p class="summary">Eateries across Goa and key metropolitan cities are introducing curated rainy-season dining menus that highlight comforting local ingredients and seasonal recipes.</p>
+        <article class="item" data-category="Business">
+            <span class="tag tag-business">Business</span>
+            <h2 class="headline">Goa Aims for Agricultural Self-Reliance Through Partnership with Israel</h2>
+            <p class="summary">Chief Minister Pramod Sawant announced a new Indo-Israel collaboration designed to boost the local production of vegetables and flowers. The state aims to achieve complete self-sufficiency in high-demand crops.</p>
+        </article>
+    
+        <article class="item" data-category="Business">
+            <span class="tag tag-business">Business</span>
+            <h2 class="headline">QR Codes to Help Consumers Trace Local Farm Produce in Goa</h2>
+            <p class="summary">The Goa government will soon launch 'Goa Fresh' and 'Goa Organic' QR codes to bring transparency to the agricultural market. Consumers will be able to trace their vegetables directly back to local farms.</p>
+        </article>
+    
+        <article class="item" data-category="Business">
+            <span class="tag tag-business">Business</span>
+            <h2 class="headline">New Indo-Israel Center to Enhance Farming Yields in Goa</h2>
+            <p class="summary">A state-of-the-art agricultural center set up under the Indo-Israel partnership is expected to supply quality seedlings to local farmers. Chief Minister Pramod Sawant hopes this initiative will substantially increase Goan farm revenues.</p>
+        </article>
+    
+        <article class="item" data-category="Sports">
+            <span class="tag tag-sports">Sports</span>
+            <h2 class="headline">AIFF Unlikely to Extend Licensing Deadline for Diamond Harbour</h2>
+            <p class="summary">The All India Football Federation is expected to reject Diamond Harbour's request for additional time to complete their club licensing process. The federation aims to keep upcoming league schedules on track.</p>
+        </article>
+    
+        <article class="item" data-category="Entertainment">
+            <span class="tag tag-entertainment">Entertainment</span>
+            <h2 class="headline">Lost in Ujjain: Goan Visitor Uses ChatGPT to Retrieve His Shoes</h2>
+            <p class="summary">A Goan man managed to find his lost footwear outside a crowded temple in Ujjain with the help of ChatGPT. The artificial intelligence tool successfully identified his distinct clogs from a massive pile.</p>
+        </article>
+    
+        <article class="item" data-category="Civic">
+            <span class="tag tag-civic">Civic</span>
+            <h2 class="headline">Goan Parish Celebrates Youth and Heritage with 'FREEDOM 4.0'</h2>
+            <p class="summary">A local parish in Goa hosted the 'FREEDOM 4.0' event to engage local youth and foster community unity. The celebration focused heavily on preserving Goan cultural traditions and history.</p>
+        </article>
+    
+        <article class="item" data-category="Civic">
+            <span class="tag tag-civic">Civic</span>
+            <h2 class="headline">AI Technology Helps Goa Detect and Manage Oral Cancer Patients</h2>
+            <p class="summary">Goa's medical sector is integrating artificial intelligence to assist in the early screening and treatment of oral cancer. This technology aims to make healthcare diagnostics more accurate and accessible.</p>
+        </article>
+    
+        <article class="item" data-category="Politics">
+            <span class="tag tag-politics">Politics</span>
+            <h2 class="headline">Congress President Mallikarjun Kharge to Address Goa Cadres on August 17</h2>
+            <p class="summary">National Congress President Mallikarjun Kharge is scheduled to travel to Goa to boost the morale of party workers. He will address a major gathering of booth-level workers during his visit.</p>
+        </article>
+    
+        <article class="item" data-category="Civic">
+            <span class="tag tag-civic">Civic</span>
+            <h2 class="headline">Goa Parishes Mark Independence Day with Cultural Heritage Events</h2>
+            <p class="summary">Parishes across the state celebrated India's Independence Day by holding programs that blended patriotic zeal with Goan faith traditions. The initiatives aimed to strengthen community bonds.</p>
+        </article>
+    
+        <article class="item" data-category="Tourism">
+            <span class="tag tag-tourism">Tourism</span>
+            <h2 class="headline">Goa Defies Monsoon Slump with 61 Lakh Tourist Arrivals</h2>
+            <p class="summary">Showing a steady rise in holidaymakers, Goa recorded over 61.38 lakh visitors in just seven months. The month of July alone witnessed a notable 2.27 percent growth in traveler numbers.</p>
+        </article>
+    
+        <article class="item" data-category="Tourism">
+            <span class="tag tag-tourism">Tourism</span>
+            <h2 class="headline">Restaurants Across India Introduce Creative Monsoon-Themed Menus</h2>
+            <p class="summary">Dining establishments in major hubs, including Goa, are celebrating the rainy season with specialized food menus. These curated dishes pay culinary homage to traditional monsoon flavors.</p>
+        </article>
+    
+        <article class="item" data-category="Politics">
+            <span class="tag tag-politics">Politics</span>
+            <h2 class="headline">CM Pramod Sawant Defends FCRA Laws Amid Catholic Association Concerns</h2>
+            <p class="summary">Chief Minister Pramod Sawant has questioned the opposition's stance on foreign funding regulations. Meanwhile, a prominent Catholic association has raised concerns about threats to local properties.</p>
+        </article>
+    
+        <article class="item" data-category="Civic">
+            <span class="tag tag-civic">Civic</span>
+            <h2 class="headline">Uninvited Guest: Crocodile Strays into Goa Residential Backyard</h2>
+            <p class="summary">A residential home in Goa received a surprise visit from a crocodile, causing immediate concern in the neighborhood. Alert domestic dogs managed to keep the reptile at bay until rescue teams arrived.</p>
+        </article>
+    
+        <article class="item" data-category="Politics">
+            <span class="tag tag-politics">Politics</span>
+            <h2 class="headline">Goa Governor Meets PM Modi to Invite Him to Simhachalam Temple</h2>
+            <p class="summary">Goa Governor P.S. Sreedharan Pillai recently held a meeting with Prime Minister Narendra Modi in New Delhi. During the session, the Governor formally invited the Prime Minister to visit the historic Simhachalam shrine.</p>
+        </article>
+    
+        <article class="item" data-category="Crime">
+            <span class="tag tag-crime">Crime</span>
+            <h2 class="headline">Amit Palekar Warns of Extortion Threat to Goa's Tourism Industry</h2>
+            <p class="summary">Political leader Amit Palekar has sounded an alarm over alleged illegal extortion schemes targeting club and restaurant owners in coastal Goa. He warned that such mafia-like activities could severely damage the state's tourism brand.</p>
+        </article>
+    
+        <article class="item" data-category="Civic">
+            <span class="tag tag-civic">Civic</span>
+            <h2 class="headline">Watch: Viral Video Shows Crocodile Entering Goa Home Compound</h2>
+            <p class="summary">A fascinating video capturing a crocodile entering a Goan house yard has gone viral across social media. The household dogs kept a watchful eye on the predator until it was safely managed.</p>
+        </article>
+    
+        <article class="item" data-category="Tourism">
+            <span class="tag tag-tourism">Tourism</span>
+            <h2 class="headline">Over 61 Lakh Holidaymakers Flock to Goa from January to July</h2>
+            <p class="summary">Goa's latest tourism statistics confirm a highly successful seven-month run with over 61.38 lakh arrivals. The figures indicate that the state is rapidly evolving into an all-season global holiday destination.</p>
+        </article>
+    
+        <article class="item" data-category="Entertainment">
+            <span class="tag tag-entertainment">Entertainment</span>
+            <h2 class="headline">AI to the Rescue: Goan Man Recovers Lost Clogs at Temple Using ChatGPT</h2>
+            <p class="summary">A Goan tourist successfully retrieved his lost footwear at a busy Ujjain temple by describing the shoes to ChatGPT. The AI helped him narrow down and spot his specific pair among hundreds of others.</p>
+        </article>
+    
+        <article class="item" data-category="Crime">
+            <span class="tag tag-crime">Crime</span>
+            <h2 class="headline">Actor Ashwin Mushran's Car Collides with Scooter in Goa</h2>
+            <p class="summary">An accident involving actor Ashwin Mushran's vehicle on a Goan road has left two scooter riders injured. Authorities have registered a case against the driver of the car for negligent driving.</p>
+        </article>
+    
+        <article class="item" data-category="Civic">
+            <span class="tag tag-civic">Civic</span>
+            <h2 class="headline">Report Reveals Only 14% of Goa Schools Have Disabled-Friendly Toilets</h2>
+            <p class="summary">A worrying study has revealed that only a small fraction of schools in Goa are equipped with toilets suitable for children with special needs. This highlights a significant infrastructural gap.</p>
+        </article>
+    
+        <article class="item" data-category="Civic">
+            <span class="tag tag-civic">Civic</span>
+            <h2 class="headline">MLA Borkar Raises Red Flags Over Coastal Regulation Violations at Bambolim</h2>
+            <p class="summary">St Andre MLA Viresh Borkar has formally pointed out serious Coastal Regulation Zone (CRZ) violations along the Bambolim beach belt. He has demanded strict action against unauthorized commercial constructions.</p>
+        </article>
+    
+        <article class="item" data-category="Politics">
+            <span class="tag tag-politics">Politics</span>
+            <h2 class="headline">Gun Owners of America Members Complete Historic Suppressor Transfers</h2>
+            <p class="summary">Members of the Gun Owners of America (GOA) have completed the first suppressor transfers without NFA registration since 1934. The historic move comes amidst ongoing legal battles over weapon rights in the US.</p>
+        </article>
+    
+        <article class="item" data-category="Politics">
+            <span class="tag tag-politics">Politics</span>
+            <h2 class="headline">Federal Court Strikes Down Key National Firearms Act Rules in GOA Suit</h2>
+            <p class="summary">In a landmark US ruling, a federal court has declared major provisions of the National Firearms Act unconstitutional. The decision follows a highly publicized lawsuit spearheaded by the Gun Owners of America.</p>
+        </article>
+    
+        <article class="item" data-category="Entertainment">
+            <span class="tag tag-entertainment">Entertainment</span>
+            <h2 class="headline">Tech Twist: How a Goa Man Tracked Down Lost Footwear Using ChatGPT</h2>
+            <p class="summary">A tourist from Goa utilized ChatGPT to locate his missing shoes amidst a massive pile at the Mahakal Temple in Ujjain. The unique application of AI has since become a popular topic on social media.</p>
+        </article>
+    
+        <article class="item" data-category="Sports">
+            <span class="tag tag-sports">Sports</span>
+            <h2 class="headline">Sadanand Tanavade Elected as President of Goa Olympic Association</h2>
+            <p class="summary">Sadanand Tanavade has been officially declared the new president of the Goa Olympic Association, with Sandeep Heble taking charge as secretary. The new leadership aims to boost sports infrastructure across the state.</p>
+        </article>
+    
+        <article class="item" data-category="Politics">
+            <span class="tag tag-politics">Politics</span>
+            <h2 class="headline">Vijai Sardesai Rules Out Future Alliance Talks with Congress</h2>
+            <p class="summary">Goa Forward Party chief Vijai Sardesai accused the Congress of repeatedly breaking political promises and alliances. He stated there is nothing left to negotiate with the party ahead of future elections.</p>
+        </article>
+    
+        <article class="item" data-category="Politics">
+            <span class="tag tag-politics">Politics</span>
+            <h2 class="headline">Over 100 Congress Agents Resign in Goa Just Before Kharge's Arrival</h2>
+            <p class="summary">In a major setback for the opposition party, more than 100 booth-level agents tendered their resignations right before Mallikarjun Kharge's visit to Goa. The massive exodus has exposed deep internal rifts.</p>
+        </article>
+    
+        <article class="item" data-category="Sports">
+            <span class="tag tag-sports">Sports</span>
+            <h2 class="headline">Churchill Brothers Focus Entirely on Winning Rather Than Finances, Says Valanka</h2>
+            <p class="summary">Club official Valanka Alemao emphasized that the historic Churchill Brothers FC prioritizes winning trophies over financial constraints. The management remains committed to maintaining Goan football's competitive legacy.</p>
+        </article>
+    
+        <article class="item" data-category="Politics">
+            <span class="tag tag-politics">Politics</span>
+            <h2 class="headline">Mass Resignations Hit Goa Congress Ahead of National President's Visit</h2>
+            <p class="summary">The Goa unit of the Congress party faced a severe blow as 108 booth-level agents stepped down from their roles. The resignations took place just hours before national president Mallikarjun Kharge's state-level tour.</p>
+        </article>
+    
+        <article class="item" data-category="Sports">
+            <span class="tag tag-sports">Sports</span>
+            <h2 class="headline">Churchill Brothers' Entry into ISL Will Rejuvenate Goan Football, Says FC Goa CEO</h2>
+            <p class="summary">FC Goa CEO Ravi Puskur stated that having Churchill Brothers join the Indian Super League would be a massive boost for local sports. The move is expected to reignite intense local football rivalries.</p>
+        </article>
+    
+        <article class="item" data-category="Entertainment">
+            <span class="tag tag-entertainment">Entertainment</span>
+            <h2 class="headline">Bizarre Tech Fix: ChatGPT Helps Goa Tourist Recover Lost Temple Shoes</h2>
+            <p class="summary">A creative traveler from Goa managed to navigate a sea of footwear outside Ujjain's Mahakal Temple using ChatGPT. By using targeted AI prompts, he was able to successfully locate his specific clogs.</p>
+        </article>
+    
+        <article class="item" data-category="Business">
+            <span class="tag tag-business">Business</span>
+            <h2 class="headline">Women Form the Most Vulnerable Group in Goa's Informal Job Market</h2>
+            <p class="summary">A recent economic study highlights that female workers in Goa face the highest risks in informal employments. The report calls for urgent policy interventions to provide them with basic social security.</p>
+        </article>
+    
+        <article class="item" data-category="Civic">
+            <span class="tag tag-civic">Civic</span>
+            <h2 class="headline">Bhoma Elevated Highway Will Protect Temple and Lake, Goa Govt Tells Court</h2>
+            <p class="summary">The state government assured the High Court that the proposed Bhoma elevated road project is carefully designed to preserve local ecology. They guaranteed it will not impact the village temple or the neighboring lake.</p>
+        </article>
+    
+        <article class="item" data-category="Crime">
+            <span class="tag tag-crime">Crime</span>
+            <h2 class="headline">Goa Police Step Up Strict Enforcement Against Narcotics Cartels</h2>
+            <p class="summary">Local police forces have launched aggressive campaigns to intercept drug shipments and cripple smuggling networks in Goa. The operations are aimed at cleansing the coastal tourism hub of illegal drug activities.</p>
+        </article>
+    
+        <article class="item" data-category="Politics">
+            <span class="tag tag-politics">Politics</span>
+            <h2 class="headline">Congress Restricts Vande Mataram Recital at Kharge's Goa Event</h2>
+            <p class="summary">The Congress party opted to sing only the first two stanzas of Vande Mataram during a political event in Goa with Mallikarjun Kharge. The decision has sparked a heated debate over national protocols with the rival BJP.</p>
+        </article>
+    
+        <article class="item" data-category="Politics">
+            <span class="tag tag-politics">Politics</span>
+            <h2 class="headline">Mallikarjun Kharge Appeals to Public to Oust Leaders 'Looting Goa'</h2>
+            <p class="summary">During his high-profile visit, Congress President Mallikarjun Kharge launched a sharp attack against the ruling BJP government. He urged voters to reject leaders who are allegedly exploiting Goa's natural resources.</p>
+        </article>
+    
+        <article class="item" data-category="Crime">
+            <span class="tag tag-crime">Crime</span>
+            <h2 class="headline">Amit Palekar Accuses Extortion Gangs of Threatening Goa's Shack Owners</h2>
+            <p class="summary">Congress leader Amit Palekar has publicly alleged that organized extortion syndicates are harassing club and restaurant owners along Goa's beaches. He urged immediate police intervention to protect the local business ecosystem.</p>
+        </article>
+    
+        <article class="item" data-category="Politics">
+            <span class="tag tag-politics">Politics</span>
+            <h2 class="headline">Kharge Promises a Drug-Free Goa, Jobs, and Cultural Protection</h2>
+            <p class="summary">During a major address to party cadres, Mallikarjun Kharge vowed that a Congress administration would deliver a drug-free Goa. He also promised robust employment schemes and the protection of the state's unique identity.</p>
+        </article>
+    
+        <article class="item" data-category="Politics">
+            <span class="tag tag-politics">Politics</span>
+            <h2 class="headline">Churchill Alemao Admits Past Mistakes, Campaigns for Daughter Valanka</h2>
+            <p class="summary">Veteran politician Churchill Alemao has publicly confessed to previous political missteps. He is now actively pitching his daughter Valanka Alemao to represent the Navelim constituency in future polls.</p>
+        </article>
+    
+        <article class="item" data-category="Crime">
+            <span class="tag tag-crime">Crime</span>
+            <h2 class="headline">Smugglers Increasingly Using Postal Mail to Ship Drugs into Goa, Say Police</h2>
+            <p class="summary">Goa Police have warned that drug traffickers are shifting to postal services to smuggle illicit substances into the state. Authorities are working closely with postal departments to step up screening measures.</p>
+        </article>
+    
+        <article class="item" data-category="Politics">
+            <span class="tag tag-politics">Politics</span>
+            <h2 class="headline">39 Protesters Summoned to Court Over 2021 Melaulim IIT Clashes</h2>
+            <p class="summary">A sessions court in Goa has ordered 39 individuals to appear in connection with the violent 2021 protests at Melaulim. The protests had erupted over land acquisition for a proposed IIT campus.</p>
         </article>
     
     </main>
+
+    <script>
+        function filterNews(selectedCategory) {
+            const buttons = document.querySelectorAll('.pill');
+            buttons.forEach(btn => {
+                if (btn.innerText === selectedCategory) {
+                    btn.classList.add('active');
+                } else {
+                    btn.classList.remove('active');
+                }
+            });
+
+            const items = document.querySelectorAll('.item');
+            items.forEach(item => {
+                const itemCat = item.getAttribute('data-category');
+                if (selectedCategory === 'All' || itemCat.toLowerCase() === selectedCategory.toLowerCase()) {
+                    item.classList.remove('hidden');
+                } else {
+                    item.classList.add('hidden');
+                }
+            });
+        }
+    </script>
 </body>
 </html>
