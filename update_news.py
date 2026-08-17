@@ -1,5 +1,6 @@
 import os
 import json
+import time
 import feedparser
 from google import genai
 
@@ -33,7 +34,7 @@ for idx, entry in enumerate(raw_articles, 1):
 
 combined_text = "\n\n".join(news_input)
 
-# 2. AI Summarization & Categorization
+# 2. AI Summarization with Fallback & Retry Logic
 client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
 
 prompt = f"""
@@ -55,15 +56,33 @@ News items to process:
 {combined_text}
 """
 
-response = client.models.generate_content(
-    model="gemini-3.6-flash",
-    contents=prompt,
-    config={"response_mime_type": "application/json"}
-)
+# Models to try in order if one experiences high traffic
+candidate_models = ["gemini-3.5-flash", "gemini-3.5-flash-lite", "gemini-3.6-flash"]
+response = None
+
+for model_name in candidate_models:
+    for attempt in range(2):
+        try:
+            print(f"Trying model: {model_name} (Attempt {attempt + 1})...")
+            response = client.models.generate_content(
+                model=model_name,
+                contents=prompt,
+                config={"response_mime_type": "application/json"}
+            )
+            break
+        except Exception as e:
+            print(f"Failed with {model_name}: {e}")
+            time.sleep(3)
+    if response:
+        print(f"Successfully generated using {model_name}!")
+        break
+
+if not response:
+    raise RuntimeError("All models are currently experiencing high demand. Please retry.")
 
 news_data = json.loads(response.text)
 
-# 3. Generate HTML with interactive Category Filter Tabs
+# 3. Generate HTML with Interactive Filter Tabs
 categories = ["All", "Sports", "Politics", "Tourism", "Weather", "Crime", "Civic", "Entertainment", "Business"]
 
 category_pills_html = "".join([
@@ -238,4 +257,4 @@ html_content = f"""<!DOCTYPE html>
 with open("index.html", "w", encoding="utf-8") as f:
     f.write(html_content)
 
-print("index.html with Top 50 and category filters generated successfully!")
+print("index.html updated successfully!")
