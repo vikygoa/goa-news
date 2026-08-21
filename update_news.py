@@ -981,4 +981,50 @@ print("========================================")
 print("Website : index.html")
 print("Android : news.json")
 print("Articles:", len(android_news))
+
+
 print("========================================")
+
+
+# =========================================================
+# CREATE NEWS.JSON FOR ANDROID APP
+# =========================================================
+
+android_news = []
+
+for index, item in enumerate(news_data[:50], 1):
+
+    android_news.append({
+        "rank": index,
+        "category": str(
+            item.get("category", "General")
+        ).strip(),
+        "headline": str(
+            item.get("headline", "")
+        ).strip(),
+        "summary": str(
+            item.get("summary", "")
+        ).strip()
+    })
+
+
+with open(
+    "news.json",
+    "w",
+    encoding="utf-8"
+) as f:
+
+    json.dump(
+        android_news,
+        f,
+        ensure_ascii=False,
+        indent=2
+    )
+
+
+print("================================")
+print("GOA NEWS UPDATE COMPLETE")
+print("================================")
+print("index.html created")
+print("news.json created")
+print("Articles:", len(android_news))
