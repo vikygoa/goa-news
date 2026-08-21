@@ -1,0 +1,242 @@
+[
+  {
+    "rank": 1,
+    "category": "Crime",
+    "headline": "State Seeks Life Sentence for Tarun Tejpal in Supreme Court",
+    "summary": "The Goa government has petitioned the Supreme Court to enhance the punishment of journalist Tarun Tejpal to life imprisonment. The state argued that the current sentence is insufficient given the nature of the sexual assault charges."
+  },
+  {
+    "rank": 2,
+    "category": "Crime",
+    "headline": "High Court Cancels Bail for Goa Nightclub Owners Following Fatal Fire",
+    "summary": "The Bombay High Court has revoked the bail granted to the owners of a Goa nightclub where a devastating fire claimed 25 lives last year. The court ruled that the lower court overlooked critical evidence when initially approving their release."
+  },
+  {
+    "rank": 3,
+    "category": "Civic",
+    "headline": "Goa to Launch New Affordable Housing Scheme During Diwali",
+    "summary": "The state government announced plans to roll out a specialized housing scheme during the Diwali festival. The initiative aims to provide shelter and support to local residents who do not own a home."
+  },
+  {
+    "rank": 4,
+    "category": "Civic",
+    "headline": "Four Calangute Businesses Shut Down Over Lack of Permits",
+    "summary": "Local authorities in Calangute have sealed four commercial establishments for operating without the necessary legal permissions. The action is part of an ongoing drive to enforce municipal regulatory compliance."
+  },
+  {
+    "rank": 5,
+    "category": "General",
+    "headline": "Goan Citizen's Passport Battle Offers Hope to Thousands",
+    "summary": "A local resident's successful legal struggle to acquire Overseas Citizen of India status has set a promising precedent. This development offers renewed hope to thousands of Goans facing similar bureaucratic hurdles."
+  },
+  {
+    "rank": 6,
+    "category": "General",
+    "headline": "Goa to Test School Self-Evaluation Under National Education Policy",
+    "summary": "The state is launching a pilot project to introduce school self-evaluation systems across selected educational institutions. The program aligns with the guidelines of the National Education Policy to improve academic standards."
+  },
+  {
+    "rank": 7,
+    "category": "General",
+    "headline": "Schools to Issue Certificates for National Student ID Generation",
+    "summary": "Educational institutions in Goa will begin providing bonafide certificates to students to facilitate the creation of their APAAR IDs. This digital identification system aims to streamline student academic records nationwide."
+  },
+  {
+    "rank": 8,
+    "category": "General",
+    "headline": "Aldona Collective Prepares Neurodiverse Artists for Professional Careers",
+    "summary": "A creative group based in Aldona is conducting specialized training programs to help neurodiverse artists build sustainable careers. The initiative focuses on equipping participants with practical skills for the modern art market."
+  },
+  {
+    "rank": 9,
+    "category": "Business",
+    "headline": "ITC Hotels Signs Storii Assagao to Expand Luxury Presence in Goa",
+    "summary": "ITC Hotels has expanded its premium hospitality footprint in Goa by signing the boutique resort Storii Assagao. This partnership aims to cater to the growing demand for luxury, offbeat vacation experiences in the state."
+  },
+  {
+    "rank": 10,
+    "category": "Civic",
+    "headline": "Colvale Tower Construction Halted by Local Sarpanch Intercession",
+    "summary": "Work on a new tower in Colvale was brought to a standstill after the local sarpanch physically blocked construction machinery. The stoppage was prompted by local objections regarding the development project."
+  },
+  {
+    "rank": 11,
+    "category": "Civic",
+    "headline": "High Power Bills Excite Public Concern Despite Waived Penalties",
+    "summary": "While the Goa government has waived late-payment penalties, residents continue to report heavily inflated electricity bills. Consumers are demanding greater clarity and relief regarding the high utility charges."
+  },
+  {
+    "rank": 12,
+    "category": "Tourism",
+    "headline": "Goa Leads Booking Searches for Upcoming Festive Long Weekends",
+    "summary": "According to Agoda, Goa is the most sought-after travel destination in India for the Rakshabandhan and Janmashtami long weekends. The data highlights the state's enduring appeal for quick leisure getaways."
+  },
+  {
+    "rank": 13,
+    "category": "Politics",
+    "headline": "Youth Congress Protests Rising Dengue Cases and Poor Facilities in Margao",
+    "summary": "Youth Congress workers held protests in Margao to highlight a sharp rise in local dengue cases. The demonstrators criticized the lack of proper medical equipment and patient care facilities at the South Goa District Hospital."
+  },
+  {
+    "rank": 14,
+    "category": "Politics",
+    "headline": "Congress Alleges Political Protection in Goa's Drug Operations",
+    "summary": "The Congress party has accused local politicians of shielding influential drug trafficking networks in the state. They have demanded a transparent investigation to break the alleged nexus between dealers and political figures."
+  },
+  {
+    "rank": 15,
+    "category": "Politics",
+    "headline": "BJP Accuses Opposition of Disrespecting National Song",
+    "summary": "The BJP has launched a political attack against the Congress party, accusing its members of showing disrespect to Vande Mataram. The controversy arose during a public event held in Goa."
+  },
+  {
+    "rank": 16,
+    "category": "Politics",
+    "headline": "Academic Draws Parallels Between 1946 Goan Revolution and Current Climate",
+    "summary": "Dr. Peter de Souza suggested that the civil liberties struggle during Goa's 1946 revolution remains highly relevant today. He emphasized the importance of remembering historical struggles to navigate contemporary political challenges."
+  },
+  {
+    "rank": 17,
+    "category": "General",
+    "headline": "Goan Farmers Rejoice After Successful Bumper Harvest",
+    "summary": "Local agricultural communities are celebrating an exceptionally successful harvest season. Favorable weather conditions have resulted in a high yield, boosting the spirits of local farmers."
+  },
+  {
+    "rank": 18,
+    "category": "Entertainment",
+    "headline": "Goa Continues to Anchor Western Classical Music Traditions",
+    "summary": "A deep dive into the state's cultural landscape reveals how Goa remains a premier venue for nurturing Western classical music. Local academies and communities continue to preserve and amplify this unique musical heritage."
+  },
+  {
+    "rank": 19,
+    "category": "Politics",
+    "headline": "Land, Employment, and Tribal Quotas Set Stage for Goa's 2027 Polls",
+    "summary": "Public debates on land conservation, jobs, and tribal representation are quickly becoming key election issues for 2027. Early assessments suggest that the ruling BJP holds a strategic advantage despite these rising challenges."
+  },
+  {
+    "rank": 20,
+    "category": "General",
+    "headline": "Five Dead, Including Three Students, in Goa-Bengaluru Bus Accident",
+    "summary": "A major accident near Aimangala involving a tourist bus bound for Bengaluru from Goa claimed five lives and injured 20 others. The deceased included three young students returning from their travels."
+  },
+  {
+    "rank": 21,
+    "category": "Weather",
+    "headline": "Meteorological Department Forecasts Rain for Konkan-Goa Region",
+    "summary": "The India Meteorological Department has predicted moderate to heavy showers for the Konkan-Goa region, along with parts of Mumbai and Delhi. Travelers and residents are advised to plan accordingly for wet conditions."
+  },
+  {
+    "rank": 22,
+    "category": "Tourism",
+    "headline": "Inland Resorts Emerge as Goa's Fresh Vacation Trend",
+    "summary": "Tourists are increasingly choosing quiet, interior retreats over crowded beach locations for their Goan holidays. This shift is driving interest toward eco-resorts and boutique properties in the state's hinterlands."
+  },
+  {
+    "rank": 23,
+    "category": "General",
+    "headline": "Celebrity Marriage Highlights Goa's Unique Joint Property Laws",
+    "summary": "The marriage of Cristiano Ronaldo and Georgina Rodríguez has drawn international attention to Goa's unique matrimonial laws. Derived from Portuguese civil codes, these rules automatically guarantee spouses equal rights to all assets."
+  },
+  {
+    "rank": 24,
+    "category": "Civic",
+    "headline": "Aging Infrastructures Pose Threat in Goa Amid Lack of Audits",
+    "summary": "Experts are raising safety concerns over the growing number of old, uninspected buildings across the state. The absence of regular structural audits has left several public and private properties vulnerable to damage."
+  },
+  {
+    "rank": 25,
+    "category": "Sports",
+    "headline": "Prominent Table Tennis Coach Ulhas Passes Away",
+    "summary": "The sports community is mourning the loss of Ulhas, a legendary coach who nurtured several top-tier table tennis players in Goa. His contributions to the sport's local growth have left a lasting legacy."
+  },
+  {
+    "rank": 26,
+    "category": "Sports",
+    "headline": "FC Goa Must Clinch Quarterfinal Berth in Champions League",
+    "summary": "FC Goa faces high-stakes matches as they push for a mandatory quarterfinal spot in the AFC Champions League. The management emphasizes that qualifying for the knockout stage remains the team's primary objective."
+  },
+  {
+    "rank": 27,
+    "category": "Business",
+    "headline": "Expert Recommends Strategic Reforms to Revive Goa's Fisheries Sector",
+    "summary": "A research scientist has suggested several structural reforms to tackle ongoing challenges in Goa's fisheries industry. The recommendations emphasize sustainable fishing techniques and improved market logistics."
+  },
+  {
+    "rank": 28,
+    "category": "Tourism",
+    "headline": "Tourism Department Budgets Rs 7.7 Crore for Global Promotional Tours",
+    "summary": "The state's tourism board has allocated a budget of Rs 7.7 crore to organize promotional roadshows in eight foreign nations. The initiative is aimed at reviving international tourist footfall to Goa."
+  },
+  {
+    "rank": 29,
+    "category": "Civic",
+    "headline": "Excess Moisture Found in Government Wheat Reserves",
+    "summary": "Officials detected elevated moisture levels in civil supplies wheat stocks during routine inspections. The civil supplies department is addressing the storage issues to prevent the spoilage of essential rations."
+  },
+  {
+    "rank": 30,
+    "category": "Civic",
+    "headline": "Panchayat Official Fined by Court Over Delayed Demolition Order",
+    "summary": "A local court has imposed a financial penalty on the Camurlim panchayat secretary for delaying a sanctioned demolition drive. The ruling serves as a warning against administrative negligence regarding court directives."
+  },
+  {
+    "rank": 31,
+    "category": "Politics",
+    "headline": "Fresh Corruption Allegations Emerge Over Corlim Infrastructure Projects",
+    "summary": "The Goa Industrial Development Corporation has come under scrutiny following new allegations of financial mismanagement in Corlim's road construction. Local activists have called for a transparent probe into the bidding process."
+  },
+  {
+    "rank": 32,
+    "category": "Civic",
+    "headline": "Panaji Pay-Parking Contract Extended Until 2027",
+    "summary": "The Corporation of the City of Panaji has decided to extend its pay-parking fee collection system until January 2027. This extension aims to maintain order and generate revenue from city parking spots."
+  },
+  {
+    "rank": 33,
+    "category": "Politics",
+    "headline": "Police Arrest Two Goa Forward Party Leaders in Sanguem",
+    "summary": "Sanguem police have arrested two prominent officials from the Goa Forward Party, leading to allegations of political harassment. Party members have strongly condemned the police action, calling it politically motivated."
+  },
+  {
+    "rank": 34,
+    "category": "Civic",
+    "headline": "Repair Work Begins on Damaged Rs 27 Crore Seraulim-Colva Highway",
+    "summary": "The Public Works Department has initiated pothole repairs along the Rs 27 crore Seraulim-Colva road stretch. The project aims to improve safety and ease travel conditions for daily commuters."
+  },
+  {
+    "rank": 35,
+    "category": "General",
+    "headline": "Vasco Saptah Concludes with Traditional Coconut Immersion Ritual",
+    "summary": "The famous annual Saptah festival came to an end with the traditional immersion of the 'srifal' (sacred coconut). Thousands of devotees gathered to participate in the concluding prayers and rituals."
+  },
+  {
+    "rank": 36,
+    "category": "Sports",
+    "headline": "Government Names 20 Sports Disciplines for Upcoming Mini Olympics",
+    "summary": "The state sports department has approved 20 unique athletic disciplines for the upcoming Mini Olympics Goa. The event is designed to identify and support talented youth athletes across the state."
+  },
+  {
+    "rank": 37,
+    "category": "Civic",
+    "headline": "Valpoi Urban Infrastructure Receives Rs 9 Crore Central Boost",
+    "summary": "The central government has sanctioned Rs 9 crore to carry out comprehensive developmental and modernization works in Valpoi. The funds will be utilized to improve town infrastructure and public spaces."
+  },
+  {
+    "rank": 38,
+    "category": "Civic",
+    "headline": "Essential Infrastructure Projects Launched in Goa's Industrial Hubs",
+    "summary": "The government has kicked off several road, drainage, and water network projects across various industrial estates. These enhancements aim to support local manufacturing and improve business operations."
+  },
+  {
+    "rank": 39,
+    "category": "Civic",
+    "headline": "Strict Penalties Enforced for Parking in Spaces Reserved for PwDs",
+    "summary": "Authorities have begun strictly penalizing drivers who park in designated spots reserved for Persons with Disabilities. The initiative intends to protect accessibility rights and improve civic discipline."
+  },
+  {
+    "rank": 40,
+    "category": "General",
+    "headline": "Shiroda Village Celebrates Three Years Without a Single TB Case",
+    "summary": "Shiroda has successfully completed three consecutive years without recording any new cases of Tuberculosis. Community health workers and residents were praised for their collaborative efforts to eradicate the disease."
+  }
+]
