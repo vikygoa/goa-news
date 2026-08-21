@@ -318,7 +318,40 @@ html_content = f"""<!DOCTYPE html>
 </html>
 """
 
+# ---------------------------------------------------------
+# SAVE HTML WEBSITE
+# ---------------------------------------------------------
+
 with open("index.html", "w", encoding="utf-8") as f:
     f.write(html_content)
 
-print("index.html with colorful cards and bold headlines generated successfully!")
+
+# ---------------------------------------------------------
+# SAVE JSON FOR ANDROID APP
+# ---------------------------------------------------------
+
+android_news = []
+
+for index, item in enumerate(news_data[:50], 1):
+
+    android_news.append({
+        "rank": index,
+        "category": item.get("category", "General"),
+        "headline": item.get("headline", "").strip(),
+        "summary": item.get("summary", "").strip()
+    })
+
+
+with open("news.json", "w", encoding="utf-8") as f:
+
+    json.dump(
+        android_news,
+        f,
+        ensure_ascii=False,
+        indent=2
+    )
+
+
+print(
+    "Website index.html and Android news.json generated successfully!"
+)
