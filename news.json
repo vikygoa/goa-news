@@ -1,302 +1,194 @@
 [
   {
     "rank": 1,
-    "category": "Politics",
-    "headline": "Goa's Proposed Anti-Conversion Law Alarms Catholics",
-    "summary": "Local Catholics have expressed concern over a proposed anti-conversion law in Goa. Church groups and community members are alarmed by the planned legislation."
+    "category": "Crime",
+    "headline": "Casino Director Escapes Unhurt in Porvorim Shooting",
+    "summary": "A casino group director and a guard escaped unharmed after being fired upon by two individuals in Porvorim. Police suspect the incident stems from an ongoing business rivalry."
   },
   {
     "rank": 2,
     "category": "Politics",
-    "headline": "Cabinet Approves Goa Anti-Conversion Bill",
-    "summary": "The Goa Cabinet has cleared the anti-conversion Bill for introduction in the state legislative Assembly. The legislation will be tabled during the upcoming Assembly session."
+    "headline": "High Court Sets Jan 2 Deadline for Municipal Elections",
+    "summary": "The Bombay High Court has directed that elections for 11 municipalities in Goa must be completed by January 2. The court emphasized that the government cannot delay polls for political convenience, leading the State Election Commission to begin ward delimitation."
   },
   {
     "rank": 3,
     "category": "Politics",
-    "headline": "Anti-Conversion Bill Discussion Only in Assembly: CM",
-    "summary": "Chief Minister Pramod Sawant stated that the proposed anti-conversion bill will only be discussed in the state assembly. This announcement comes amid debates surrounding the legislation."
+    "headline": "Goa Cabinet Clears Controversial Anti-Conversion Bill",
+    "summary": "The Goa cabinet approved a strict anti-conversion bill proposing life imprisonment and heavy fines, which will be tabled in the upcoming assembly session. The move has sparked a political storm and drawn heavy criticism from Catholic groups who label it an election stunt."
   },
   {
     "rank": 4,
     "category": "Civic",
-    "headline": "FDA Shuts Three Government Canteens",
-    "summary": "The Food and Drugs Administration has shut down three canteens in government offices across Goa. The closures were ordered following the discovery of structural and hygiene lapses."
+    "headline": "FDA Shuts Three Government Canteens Over Poor Hygiene",
+    "summary": "The Food and Drugs Administration has ordered three government office canteens in Goa to stop operations. The closures follow the discovery of major structural flaws and kitchen hygiene lapses."
   },
   {
     "rank": 5,
     "category": "Civic",
-    "headline": "Three Government Canteens Closed Over Hygiene Issues",
-    "summary": "The FDA has ordered the closure of three government canteens in Goa after detecting poor hygiene and structural flaws during inspections. The step was taken to ensure food safety standards."
+    "headline": "CM Defends Drug-Free School Zone Directive Amid Criticism",
+    "summary": "Chief Minister Pramod Sawant stated that the directive to create 500-metre drug-free zones around schools is for awareness, not active policing. However, opposition leaders and critics have questioned the practicality and enforcement of the rule."
   },
   {
     "rank": 6,
     "category": "Civic",
-    "headline": "Food Safety Checks Halt Operations at Three Canteens",
-    "summary": "Three government canteens in Goa have been ordered to suspend their operations following food safety inspections. The FDA initiated the action after identifying critical lapses in hygiene and infrastructure."
+    "headline": "SC Orders Regularisation of Long-Serving Goa PWD Workers",
+    "summary": "The Supreme Court has cleared the regularisation of long-serving Goa Public Works Department workers, stating that the government cannot exploit labor."
   },
   {
     "rank": 7,
-    "category": "Crime",
-    "headline": "Two Hit-and-Run Victims Receive Compensation in Goa",
-    "summary": "Two victims of hit-and-run incidents in Goa have been granted compensation. This financial assistance aims to support the victims or their families after the accidents."
+    "category": "Politics",
+    "headline": "AAP MLA Meets Karnataka Minister Over Mhadei Issue",
+    "summary": "A Goa AAP MLA met with Karnataka's Water Resources Department chief to discuss concerns over the Mhadei river diversion."
   },
   {
     "rank": 8,
-    "category": "Civic",
-    "headline": "Critics Question Goa's 500m Drug-Free School Zone Rule",
-    "summary": "The Goa government's directive establishing a 500-meter drug-free zone around schools has sparked criticism. Detractors have questioned the arbitrary nature of the boundary limit."
+    "category": "Business",
+    "headline": "Banks Disburse ₹468 Crore in Loans to Goa SHGs",
+    "summary": "Chief Minister Pramod Sawant announced that nationalised banks have extended over ₹468 crore in loans to support Self-Help Groups in the state."
   },
   {
     "rank": 9,
     "category": "Politics",
-    "headline": "High Court Warns Government Against Delaying Elections",
-    "summary": "The Bombay High Court ruled that governments cannot choose politically convenient dates for holding elections. The court has established a strict timeline for conducting elections in 11 bodies."
+    "headline": "Activists Seek Meeting on Ballot Paper Voting in Goa",
+    "summary": "NGOs and activists in Goa are seeking a meeting with the Chief Election Commissioner to demand the use of ballot papers instead of electronic voting machines."
   },
   {
     "rank": 10,
     "category": "Politics",
-    "headline": "Prohibitory Orders Imposed Ahead of Goa Assembly Session",
-    "summary": "Prohibitory curbs will be enforced in Goa starting August 31 in view of the upcoming state legislative assembly session. The measures are intended to maintain law and order around the assembly venue."
+    "headline": "Kejriwal Promises to Ban E20 Petrol If AAP Wins Goa",
+    "summary": "AAP leader Arvind Kejriwal vowed to ban E20 petrol in Goa within five days of taking office if his party wins the 2027 state elections."
   },
   {
     "rank": 11,
-    "category": "Business",
-    "headline": "Banks Extend Rs 468 Crore in Loans to Self-Help Groups",
-    "summary": "Nationalized banks have disbursed loans worth over Rs 468 crore to Self-Help Groups (SHGs) in Goa. Chief Minister Pramod Sawant shared this development, highlighting financial support for grassroots communities."
+    "category": "General",
+    "headline": "Raksha Mantri Inaugurates Re-developed Memorial at Patradevi",
+    "summary": "Union Defence Minister Rajnath Singh inaugurated the re-developed Hutatma Smruti Smarak at Patradevi to pay tribute to Goa's liberation satyagrahis."
   },
   {
     "rank": 12,
-    "category": "Business",
-    "headline": "Goa EDC Records Rs 128 Crore Revenue",
-    "summary": "The Economic Development Corporation (EDC) of Goa has registered a revenue of Rs 128 crore. This financial performance is expected to further boost local entrepreneurship and economic initiatives."
+    "category": "Crime",
+    "headline": "Three Arrested for Alleged Theft Lynching in Nuvem",
+    "summary": "Police arrested three individuals after a man was allegedly lynched to death in Nuvem on suspicion of committing a theft."
   },
   {
     "rank": 13,
-    "category": "Politics",
-    "headline": "Kejriwal Promises to Ban E20 Petrol in Goa If AAP Wins",
-    "summary": "AAP leader Arvind Kejriwal has promised to ban E20 petrol in Goa within five days if his party wins the 2027 assembly elections. He made this vow during a political campaign event."
+    "category": "Crime",
+    "headline": "Major Liquor Smuggling Attempt Foiled at Patradevi",
+    "summary": "Officials seized 400 boxes of illegal liquor hidden beneath onions and potatoes inside a vehicle at the Patradevi border check post."
   },
   {
     "rank": 14,
-    "category": "General",
-    "headline": "Defense Minister Inaugurates Re-Developed Memorial at Patradevi",
-    "summary": "Defence Minister Rajnath Singh inaugurated the newly re-developed Hutatma Smruti Smarak at Patradevi. The memorial serves as a tribute to the satyagrahis of the Goa Liberation movement."
+    "category": "Entertainment",
+    "headline": "Photography Exhibition Showcases 20-Year-Old Daily Life Portraits",
+    "summary": "A new exhibition in Goa features a photographer's collection of 20-year-old portraits capturing everyday life scenes."
   },
   {
     "rank": 15,
-    "category": "Politics",
-    "headline": "Police Book BJYM Members for Protest Against Kharge",
-    "summary": "Goa Police have registered a case against members of the Bharatiya Janata Yuva Morcha (BJYM). The action was taken after they staged a black-flag protest against Congress President Mallikarjun Kharge."
+    "category": "Sports",
+    "headline": "India Set for Historic Football Match Against Uruguay",
+    "summary": "The Indian national football team is scheduled to face Uruguay in an upcoming international fixture."
   },
   {
     "rank": 16,
-    "category": "General",
-    "headline": "MHA Transfers IPS Officer from Jammu & Kashmir to Goa",
-    "summary": "The Ministry of Home Affairs has ordered the immediate transfer of an IPS officer from Jammu & Kashmir to Goa. The transfer directive was issued with immediate effect."
+    "category": "Civic",
+    "headline": "Two Hit-and-Run Victims Receive Compensation in Goa",
+    "summary": "Financial compensation has been granted to two victims of hit-and-run accidents in the state."
   },
   {
     "rank": 17,
     "category": "General",
-    "headline": "Fire Destroys Three Vehicles in Navelim",
-    "summary": "A fire incident in Navelim has resulted in the destruction of three vehicles. Emergency services responded to the scene to extinguish the flames."
+    "headline": "Goa University Introduces AI Elective for PG Students",
+    "summary": "Goa University has introduced artificial intelligence as an elective course across all postgraduate programmes."
   },
   {
     "rank": 18,
     "category": "General",
-    "headline": "Devotees Offer Coconuts to Sea Deities on Narali Poornima",
-    "summary": "On the occasion of Narali Poornima, traditional offerings of coconuts were made to appease sea deities in Goa. The festival marks the beginning of the new fishing season for local communities."
+    "headline": "Fire Destroys Three Vehicles in Navelim",
+    "summary": "A major fire incident in Navelim resulted in the complete destruction of three vehicles."
   },
   {
     "rank": 19,
     "category": "Civic",
-    "headline": "Tillari CAD Board Defers Dhargalim Denotification",
-    "summary": "The Tillari Command Area Development board has postponed the denotification of Dhargalim due to incomplete documentation. The decision was taken after necessary paperwork was found to be missing."
+    "headline": "Relief for Unauthorised Structures in Goa CRZ Areas",
+    "summary": "Owners of unauthorised structures located in Coastal Regulation Zone (CRZ) areas have received major relief under new updates."
   },
   {
     "rank": 20,
     "category": "Tourism",
-    "headline": "Goa Launches Temple Darshan Circuit with Senior Discounts",
-    "summary": "The Goa government has introduced an eleven-temple darshan circuit for pilgrims. Senior citizens will receive a 50% concession on the tour costs under this initiative."
+    "headline": "Goa Launches Eleven-Temple Tour with Senior Citizen Discount",
+    "summary": "The Goa government has launched a religious tourism initiative featuring an eleven-temple darshan circuit, offering a 50% fare concession for senior citizens."
   },
   {
     "rank": 21,
-    "category": "Politics",
-    "headline": "Cabinet Approves Anti-Conversion Bill with Life Imprisonment",
-    "summary": "The Goa cabinet has approved an anti-conversion bill that includes strict punishments like life imprisonment. The bill aims to penalize illegal religious conversions in the state."
+    "category": "General",
+    "headline": "Sea Deities Appeased with Coconuts on Narali Poornima",
+    "summary": "Devotees in Goa offered coconuts to the sea to appease marine deities on the auspicious occasion of Narali Poornima."
   },
   {
     "rank": 22,
-    "category": "Tourism",
-    "headline": "Lords Hotels to Open New Premium Property in Goa",
-    "summary": "Lords Hotels & Resorts has announced plans to launch a new premium leisure property in Goa. The hospitality brand aims to cater to the growing demand from travelers in the state."
+    "category": "General",
+    "headline": "Goa University Expands Campus Infrastructure with ₹100Cr Grant",
+    "summary": "Goa University has utilized ₹100 crore in PM-Usha funds to build a 500-seater auditorium, new student hostels, and a futsal ground."
   },
   {
     "rank": 23,
     "category": "Politics",
-    "headline": "Goa Police Bill Revived Ahead of Assembly Session",
-    "summary": "The state government has revived the pending Goa Police Bill ahead of the upcoming legislative assembly session. The legislation aims to introduce reforms and structural updates to the local police force."
+    "headline": "Government Revives Goa Police Bill Ahead of Assembly Session",
+    "summary": "The long-pending Goa Police Bill has been revived and is expected to be discussed in the upcoming state assembly session."
   },
   {
     "rank": 24,
     "category": "Civic",
-    "headline": "Old Buildings Remain a Fire Safety Challenge in Goa",
-    "summary": "While fire safety compliance has become stricter following a major fire incident, old buildings remain a blind spot. The fire department highlighted the ongoing challenges in enforcing safety measures in older structures."
+    "headline": "Tillari CAD Board Defers Dhargalim Denotification",
+    "summary": "The Tillari Command Area Development board has postponed the denotification of Dhargalim due to incomplete documentation."
   },
   {
     "rank": 25,
-    "category": "Politics",
-    "headline": "Anti-Conversion Bill Sparks Political Friction",
-    "summary": "The proposed anti-conversion bill in Goa has faced objections from both the opposition and a ruling party MLA. The draft legislation has sparked intense political discussions in the state."
+    "category": "Civic",
+    "headline": "Health Minister Initiates Strict Surprise Checks on Facilities",
+    "summary": "The Goa Health Minister has adopted a swift, pro-active approach to address administrative lapses and inspect healthcare facilities."
   },
   {
     "rank": 26,
-    "category": "Civic",
-    "headline": "High Court Demands Stray Dog Census Data in Goa",
-    "summary": "The High Court has demanded data from a stray dog census after reports showed the stray dog ratio in Goa has quadrupled to 9%. The order highlights growing concerns over stray animal management in the state."
+    "category": "Tourism",
+    "headline": "Lords Hotels to Open New Premium Leisure Property in Goa",
+    "summary": "Lords Hotels & Resorts has announced plans to soon launch a new premium leisure property catering to tourists in Goa."
   },
   {
     "rank": 27,
-    "category": "Entertainment",
-    "headline": "Four Baga Clubs Receive Desealing Orders",
-    "summary": "Authorities have issued desealing orders for four out of eight clubs located in the Baga area. The clubs were previously sealed for operational or regulatory compliance issues."
+    "category": "Civic",
+    "headline": "Fire Department Warns of Safety Risks in Old Goa Buildings",
+    "summary": "While fire safety compliance has become much stricter following the Birch incident, the fire department flagged older buildings as a major blind spot."
   },
   {
     "rank": 28,
-    "category": "Crime",
-    "headline": "Activist Couple's House Ransacked, Gold Stolen",
-    "summary": "A house belonging to an activist couple was burgled and gold ornaments were stolen in Goa. The police have initiated an investigation into the ransacking incident."
+    "category": "Civic",
+    "headline": "HC Orders Stray Dog Census as Population Ratio Soars",
+    "summary": "The Bombay High Court has demanded census data on stray dogs in Goa after reports revealed that the stray animal ratio has quadrupled to nine percent."
   },
   {
     "rank": 29,
-    "category": "Politics",
-    "headline": "Congress Promises to Scrap Key Decisions If Elected in 2027",
-    "summary": "Congress leader Yuri Alemao has promised that the party will scrap specific policies once they form the government in 2027. The assurance is part of the opposition's pre-election strategy."
+    "category": "Sports",
+    "headline": "CM Flags Lack of Sports Awareness Among Students",
+    "summary": "Chief Minister Pramod Sawant raised concerns about poor sports awareness among students and questioned the role of physical education teachers in schools."
   },
   {
     "rank": 30,
-    "category": "General",
-    "headline": "Rajnath Singh Pays Tribute to Goa Liberation Heroes",
-    "summary": "Union Minister Rajnath Singh inaugurated the re-developed Hutatma Smruti Smarak in Patradevi to honor Goa’s liberation struggle heroes. The event commemorated the sacrifices of the satyagrahis."
+    "category": "Politics",
+    "headline": "Congress Demands Probe into Alleged ₹2,100Cr FAR Revenue Loss",
+    "summary": "The Congress party has demanded an investigation into an alleged ₹2,100 crore loss in state revenue related to Floor Area Ratio (FAR) regulations."
   },
   {
     "rank": 31,
-    "category": "Weather",
-    "headline": "Fallen Trees Disrupt Traffic in Sattari",
-    "summary": "Traffic movement in Sattari was severely disrupted after trees fell at two separate locations. Emergency crews worked to clear the blockages and restore regular traffic flow."
+    "category": "Civic",
+    "headline": "Demolition of Temple Shed Deferred Due to Law-and-Order Risks",
+    "summary": "The demolition of the ‘Mormugao Cha Raja’ shed was postponed by authorities due to concerns over potential law-and-order disruptions."
   },
   {
     "rank": 32,
-    "category": "General",
-    "headline": "Native Fish Revived via Ranching at Goa's Ramsar Site",
-    "summary": "Goa has launched a 'fish ranching' initiative to restore native fish populations at the state's sole Ramsar wetland site. The move is aimed at preserving local aquatic biodiversity."
-  },
-  {
-    "rank": 33,
-    "category": "Sports",
-    "headline": "GOA Urges Review to Secure Asian Games Spot for Dayne",
-    "summary": "The Goa Olympic Association (GOA) has requested a review of selection after a Singaporean sailor withdrew from the Asian Games. The withdrawal has brought a ray of hope for local sailor Dayne Coelho's participation."
-  },
-  {
-    "rank": 34,
-    "category": "General",
-    "headline": "Goa Farmers Build Confidence Through Crop Diversification",
-    "summary": "Farmers in Goa are experiencing a boost in confidence as they cultivate new crops and adopt modern agricultural practices. The initiative aims to improve local farming yields and self-sufficiency."
-  },
-  {
-    "rank": 35,
-    "category": "General",
-    "headline": "Freedom for Youth Means Exercising Responsibility: Rajnath",
-    "summary": "Speaking at an event, Defence Minister Rajnath Singh stated that freedom for the younger generation must come with a sense of responsibility. He emphasized the importance of using liberty to build a strong nation."
-  },
-  {
-    "rank": 36,
-    "category": "Sports",
-    "headline": "Goa Urged to Bid for 2036 Olympic Events",
-    "summary": "BJP state president Sadanand Shet Tanavade stated that Goa must aspire to host an event for the 2036 Olympics. He emphasized the state's growing capacity to manage international sporting events."
-  },
-  {
-    "rank": 37,
-    "category": "General",
-    "headline": "ICAR Tests Biochar Pilot Project in Ponda",
-    "summary": "The Indian Council of Agricultural Research (ICAR) has launched a pilot project utilizing biochar in Keri and Priol villages of Ponda. The project explores eco-friendly soil enhancement methods for local farming."
-  },
-  {
-    "rank": 38,
     "category": "Politics",
-    "headline": "Church Groups Protest Anti-Conversion Bill",
-    "summary": "Church groups in Goa are escalating their opposition against the proposed Anti-Conversion Bill. They have raised significant concerns regarding the impact of the draft legislation."
-  },
-  {
-    "rank": 39,
-    "category": "Civic",
-    "headline": "Tillari Canal to Close for Three Months for Repairs",
-    "summary": "The Tillari canal will be shut down for three months to undergo necessary repair work. During this period, water supply will be maintained using an alternative pipeline."
-  },
-  {
-    "rank": 40,
-    "category": "Civic",
-    "headline": "Relief Provided to Unauthorised Structures in CRZ Zones",
-    "summary": "Owners of unauthorised structures located within Coastal Regulation Zone (CRZ) areas have received significant relief. The decision is expected to impact several property owners along Goa's coastline."
-  },
-  {
-    "rank": 41,
-    "category": "Civic",
-    "headline": "Shirodkar Sets Chaturthi Deadline for Ponda Civic Issues",
-    "summary": "Water Resources Minister Subhash Shirodkar has instructed authorities to resolve civic issues in Ponda before the Chaturthi festival. The directive focuses on completing pending infrastructure and repair works."
-  },
-  {
-    "rank": 42,
-    "category": "Civic",
-    "headline": "Hinterland Vegetable Vendors Seek Workspace in Margao",
-    "summary": "Vegetable vendors from the hinterlands remain in a state of uncertainty regarding their designated selling spaces in Margao. They are waiting for local authorities to finalize permanent seating arrangements."
-  },
-  {
-    "rank": 43,
-    "category": "Politics",
-    "headline": "Congress Commits to Building Opposition Unity in Goa",
-    "summary": "Congress leader Girish Chodankar stated that the party will put in all efforts to unite opposition forces in the state. This move aims to present a strong, consolidated front against the ruling government."
-  },
-  {
-    "rank": 44,
-    "category": "Politics",
-    "headline": "Goa Cabinet Clears Anti-Conversion Bill with Strict Penalties",
-    "summary": "The Goa cabinet has approved an anti-conversion bill that proposes heavy fines and jail sentences up to the end of one's natural life. The bill is set to be introduced in the assembly."
-  },
-  {
-    "rank": 45,
-    "category": "Politics",
-    "headline": "School Drug-Free Zone Circular is for Awareness: CM",
-    "summary": "Chief Minister Pramod Sawant clarified that the circular designating drug-free zones around schools is intended to build awareness. He emphasized that the initiative is not meant for policing."
-  },
-  {
-    "rank": 46,
-    "category": "Politics",
-    "headline": "BJP Leader’s Relative Faces Action Over Illegal Construction",
-    "summary": "A close relative of a prominent BJP leader has run into trouble over allegations of illegal construction. Authorities have initiated an investigation into the unauthorized building activity."
-  },
-  {
-    "rank": 47,
-    "category": "Crime",
-    "headline": "Man Abducted from Kesarval in Goa",
-    "summary": "A man was reportedly kidnapped from the Kesarval area, prompting immediate police intervention. Investigators are searching for the suspects involved in the abduction."
-  },
-  {
-    "rank": 48,
-    "category": "Civic",
-    "headline": "Demolition of Festivity Shed Deferred in Mormugao",
-    "summary": "The planned demolition of the 'Mormugao Cha Raja' temporary shed has been put on hold due to potential law-and-order concerns. Authorities decided to defer the action to prevent public unrest."
-  },
-  {
-    "rank": 49,
-    "category": "Crime",
-    "headline": "Gold Worth Rs 4 Lakh Stolen from Zuarinagar Hotel Room",
-    "summary": "A gold ornament valued at Rs 4 lakh was reported stolen from a hotel room in Zuarinagar. Police have registered a theft case and are currently investigating the matter."
-  },
-  {
-    "rank": 50,
-    "category": "Crime",
-    "headline": "Former Mapusa Councillor’s Police Custody Extended",
-    "summary": "A local court has extended the police custody of a former Mapusa municipal councillor by two more days. The extension was granted to allow investigators to conduct further questioning."
+    "headline": "Congress Promises to Scrap Controversial Policies If Elected",
+    "summary": "Congress leader Yuri Alemao announced that if the party forms the government in 2027, they will scrap several controversial state policies."
   }
 ]
