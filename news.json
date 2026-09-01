@@ -1,176 +1,140 @@
 [
   {
     "rank": 1,
-    "category": "Crime",
-    "headline": "SC Rejects Bail for Goa Nightclub Fire Accused",
-    "summary": "The Supreme Court has dismissed pleas challenging the High Court order that cancelled the bail of three accused in the Goa nightclub fire case. The accused, including the Luthra brothers and Ajay Gupta, have been directed to surrender within two weeks."
+    "category": "General",
+    "headline": "Delhi-Bound IndiGo Flight Makes Emergency Landing in Goa",
+    "summary": "An IndiGo flight heading to Delhi was forced to return to Manohar International Airport following a mid-air engine failure. All 229 passengers and crew members landed safely, though the incident caused brief panic onboard."
   },
   {
     "rank": 2,
     "category": "Politics",
-    "headline": "Goa Halts Anti-Conversion Bill Plans After Backlash",
-    "summary": "The Goa government has dropped its plan to table an anti-conversion bill during the assembly session. This decision follows significant pushback and backlash, including from minority MLAs."
+    "headline": "Goa Government Drops Proposed Anti-Conversion Bill",
+    "summary": "Chief Minister Pramod Sawant announced that the state will not introduce the controversial religious anti-conversion bill. The decision follows internal pushback and widespread public backlash."
   },
   {
     "rank": 3,
-    "category": "Politics",
-    "headline": "Chaos in Goa Assembly Over Disallowed Land Query",
-    "summary": "Opposition members disrupted the Goa assembly after a question regarding land conversion was disallowed, leading to three MLAs being marshalled out. The Speaker warned the opposition to maintain decorum in the House."
+    "category": "Crime",
+    "headline": "90% of Crimes in Goa Committed by Migrants, Claims CM",
+    "summary": "Chief Minister Pramod Sawant stated that the vast majority of crimes in the state are committed by migrant residents. He urged locals to verify the backgrounds of their tenants and domestic workers."
   },
   {
     "rank": 4,
-    "category": "Crime",
-    "headline": "Crime Branch to Probe Porvorim Casino Director Shootout",
-    "summary": "The investigation into the attempted murder of a casino group director outside a Porvorim hotel has been handed over to the Crime Branch. The director escaped safely after his bodyguard retaliated against the shooters."
+    "category": "Civic",
+    "headline": "FDA to Re-Inspect Canteens and Eateries Across Goa",
+    "summary": "Chief Minister Pramod Sawant announced that the Food and Drugs Administration will conduct fresh safety and hygiene audits of food establishments in the state. The move aims to ensure strict compliance with health standards."
   },
   {
     "rank": 5,
     "category": "Crime",
-    "headline": "Two Goa Residents Booked for Rs 41 Lakh Realty Extortion",
-    "summary": "Mumbai police have booked two residents of Goa for allegedly extorting Rs 41 lakh from a real estate firm, The House of Abhinandan Lodha. The extortion was reportedly related to a township project in Goa."
+    "headline": "MLA Questions Low Conviction Rate Despite High Crime Detection",
+    "summary": "MLA Viresh Borkar questioned the state government over Goa's low crime conviction rate of 5.85 percent, contrasting it with a high detection rate of nearly 99 percent. He called for better police investigation and prosecution efforts."
   },
   {
     "rank": 6,
-    "category": "Tourism",
-    "headline": "Top Beach Destinations in India to Consider Instead of Goa",
-    "summary": "Travel experts have highlighted the best alternative beach destinations in India for travelers seeking options outside of Goa. These locations offer scenic beach breaks as alternatives to the popular coastal state."
+    "category": "Crime",
+    "headline": "Supreme Court Cancels Bail for Goa Nightclub Owners",
+    "summary": "The Supreme Court has ordered three owners of a Goa nightclub to surrender within two weeks after upholding a High Court decision to cancel their bail. The case relates to a devastating fire incident at their establishment."
   },
   {
     "rank": 7,
-    "category": "Entertainment",
-    "headline": "Rupali Ganguly Expresses Her Preference for Goa Over Maldives",
-    "summary": "While vacationing in the Maldives with her family, television actress Rupali Ganguly shared that she still prefers Goa."
+    "category": "Civic",
+    "headline": "E20 Petrol Rolled Out Safe and Violation-Free Across Goa",
+    "summary": "Ethanol-blended E20 petrol is now available at nearly 90 fuel stations across Goa, with the government reporting no compliance issues during inspections. Chief Minister Pramod Sawant assured that the fuel is safe and has received no widespread complaints."
   },
   {
     "rank": 8,
-    "category": "Tourism",
-    "headline": "Goa Tops Travel Searches for Upcoming Long Weekends",
-    "summary": "According to digital travel platform Agoda, Goa is the most searched destination for accommodation during the Rakshabandhan and Janmashtami long weekends."
+    "category": "Politics",
+    "headline": "New Bill to Fast-Track Land-Grabbing Cases in Goa",
+    "summary": "The state government has introduced a legislative bill in the Assembly to accelerate the resolution of land-grabbing cases. The move aims to protect property owners and deter fraudulent transactions."
   },
   {
     "rank": 9,
-    "category": "Business",
-    "headline": "Goa Repays Rs 1,103 Crore Debt, Says CM Sawant",
-    "summary": "Chief Minister Pramod Sawant announced that Goa has avoided the debt route and repaid Rs 1,103 crore in FY27."
+    "category": "Crime",
+    "headline": "Two Arrested for Extorting Goa Real Estate Firm",
+    "summary": "Police have arrested two individuals for allegedly attempting to extort money from a prominent real estate firm. The extortion attempt was connected to an upcoming township project in Goa."
   },
   {
     "rank": 10,
-    "category": "General",
-    "headline": "Mandovi Bridge Blocked as Marathi Language Protests Begin",
-    "summary": "Protesters demanding recognition for the Marathi language blocked the Mandovi Bridge ahead of the Goa Assembly session."
+    "category": "Tourism",
+    "headline": "Goa Tops Travel Searches for Upcoming Long Weekends",
+    "summary": "Travel platform Agoda revealed that Goa is the most-searched domestic destination for the Rakshabandhan and Janmashtami long weekends. The state continues to lead the country in holiday accommodation interest."
   },
   {
     "rank": 11,
-    "category": "Civic",
-    "headline": "Dilapidated Goa Govt Buildings to Relocate",
-    "summary": "Chief Minister Pramod Sawant announced that decaying government buildings in Goa will be moved to new locations."
+    "category": "Politics",
+    "headline": "Congress Leader Objects to 'Goa Congress' Name",
+    "summary": "A Congress leader has raised concerns over using the name 'Goa Congress' for political activities. The objection stems from a desire to maintain the official identity of the party."
   },
   {
     "rank": 12,
-    "category": "General",
-    "headline": "Commentary on the Changing State of Goa",
-    "summary": "A featured publication discusses the current state and transforming nature of Goa."
+    "category": "Business",
+    "headline": "Goa Repays Debt and Avoids Open Market Borrowing",
+    "summary": "Chief Minister Pramod Sawant announced that Goa has successfully repaid Rs 1,103 crore in debt and has not borrowed any money from the open market so far this fiscal year. This financial strategy aims to strengthen the state's economic health."
   },
   {
     "rank": 13,
-    "category": "General",
-    "headline": "Goa School Dropouts Opt for Vocational Courses and ITIs",
-    "summary": "Chief Minister Pramod Sawant stated that government school dropouts in Goa are increasingly choosing ITIs, vocational training, and direct employment."
+    "category": "Politics",
+    "headline": "Speaker Warns Opposition to Maintain Assembly Decorum",
+    "summary": "The Speaker of the Goa Legislative Assembly has cautioned opposition members to maintain proper conduct during the sessions. The warning follows disruptive exchanges and protests in the House."
   },
   {
     "rank": 14,
-    "category": "Tourism",
-    "headline": "Five Perfect Spots in Goa for a Relaxed Day Out",
-    "summary": "A guide highlights five locations in Goa ideal for family picnics or romantic couple dates. These spots offer a relaxing environment for visitors looking for a leisure day."
+    "category": "Crime",
+    "headline": "Porvorim Shootout Case Transferred to Crime Branch",
+    "summary": "Chief Minister Pramod Sawant confirmed that the investigation into the recent Porvorim shootout has been handed over to the Crime Branch. The transfer aims to ensure a thorough and specialized probe into the incident."
   },
   {
     "rank": 15,
-    "category": "General",
-    "headline": "Rising Dolphin and Porpoise Deaths Spark Marine Safety Concerns",
-    "summary": "A rise in dolphin and porpoise deaths along the coast of Goa has raised concerns over existing gaps in marine mammal protection."
+    "category": "Politics",
+    "headline": "Two Opposition MLAs Marshaled Out of Assembly After Protests",
+    "summary": "Opposition leaders Yuri Alemao and Viresh Borkar were forcibly removed from the Goa Assembly by marshals. The action was taken after they protested against the Speaker's decision to disallow a query."
   },
   {
     "rank": 16,
-    "category": "Politics",
-    "headline": "ST Reservation Rumors Cause Seat-Shift Scramble in South Goa",
-    "summary": "Rumors regarding Scheduled Tribe (ST) reservations have triggered political movement and seat-shifting strategies among politicians in South Goa."
+    "category": "Civic",
+    "headline": "Goa to Regularize Contractual Education Staff by October",
+    "summary": "The state government has announced plans to regularize contractual education employees who have completed 10 years of service. This process is expected to be finalized by October this year."
   },
   {
     "rank": 17,
     "category": "Politics",
-    "headline": "Goa Assembly Starts 3-Day Monsoon Session with 16 Bills",
-    "summary": "The three-day monsoon session of the Goa Assembly has commenced with 883 questions and 16 bills on the agenda."
+    "headline": "16 Bills Introduced on First Day of Goa Assembly Session",
+    "summary": "The Goa Legislative Assembly saw the introduction of 16 different legislative bills on the very first day of its session. These proposals cover various aspects of state governance and administration."
   },
   {
     "rank": 18,
-    "category": "Business",
-    "headline": "Goa Boat Owners Seek Crew Outside State Amid Shortage",
-    "summary": "A severe shortage of migrant crew members has forced Goa boat owners to search beyond state boundaries to staff their vessels."
+    "category": "Crime",
+    "headline": "Goa Cyber Fraud Money Converted to Foreign Currency",
+    "summary": "The Enforcement Directorate revealed that funds stolen through a major cyber fraud scheme in Goa were illegally converted into foreign currencies. The agency is tracking financial trails to uncover the full extent of the scam."
   },
   {
     "rank": 19,
     "category": "Civic",
-    "headline": "Cabinet Approves Housing Board Joint Ventures Bill",
-    "summary": "The Goa Cabinet has approved a new bill that permits the housing board to enter into joint venture agreements."
+    "headline": "Cabinet Approves Joint Ventures for Goa Housing Board",
+    "summary": "The Goa Cabinet has approved a bill that allows the Goa Housing Board to enter into joint venture agreements. This move is intended to boost development and housing projects in the state."
   },
   {
     "rank": 20,
     "category": "Civic",
-    "headline": "FDA to Re-Inspect Eateries and Canteens in Goa",
-    "summary": "Chief Minister Pramod Sawant announced that the Food and Drugs Administration (FDA) will conduct fresh inspections of canteens and eateries across Goa."
+    "headline": "Goa Seeks Rs 476 Crore for Rejuvenating Khazan Lands",
+    "summary": "The state government has requested Rs 476 crore from the central government to fund the restoration of its unique Khazan lands. The initiative aims to protect these traditional eco-cultural farming zones from degradation."
   },
   {
     "rank": 21,
-    "category": "Civic",
-    "headline": "Contractual Education Staff to Be Regularised by October",
-    "summary": "The Goa government will regularise contractual education department employees who have completed 10 years of service by October."
+    "category": "General",
+    "headline": "Rise in Dolphin and Porpoise Deaths Along Goa's Coast",
+    "summary": "A growing number of dolphin and porpoise carcasses found along the Goa coastline has raised alarms among environmentalists. The trend highlights critical gaps in current marine mammal conservation policies."
   },
   {
     "rank": 22,
-    "category": "General",
-    "headline": "E20 Petrol Now Available at 90 Pumps in Goa",
-    "summary": "Approximately 90 petrol pumps across Goa have started offering eco-friendly E20 petrol to consumers."
+    "category": "Entertainment",
+    "headline": "Actress Rupali Ganguly Expresses Her Preference for Goa",
+    "summary": "Television actress Rupali Ganguly shared that despite vacationing in the Maldives with her family, she still prefers Goa as a holiday destination. Her comments highlight the state's enduring appeal to top celebrities."
   },
   {
     "rank": 23,
-    "category": "Civic",
-    "headline": "Goa Requests Rs 476 Crore for Khazan Land Rejuvenation",
-    "summary": "The Goa government has requested funding of Rs 476 crore to support the rejuvenation and conservation of traditional Khazan lands."
-  },
-  {
-    "rank": 24,
-    "category": "Tourism",
-    "headline": "Early Charter Season to Bring Russian Tourists to Goa",
-    "summary": "Goa's tourist charter season is scheduled to start early this year, with flights from Russia resuming on September 30."
-  },
-  {
-    "rank": 25,
-    "category": "General",
-    "headline": "Whale Sharks to Receive Traditional Konkani Name",
-    "summary": "For the first time, whale sharks in Goa will be given a local Konkani name deeply rooted in Goan culture and heritage."
-  },
-  {
-    "rank": 26,
-    "category": "Civic",
-    "headline": "Porvorim Elevated Corridor to Open on September 11",
-    "summary": "The newly constructed elevated corridor in Porvorim is scheduled to open for public vehicular traffic starting September 11 at 4:00 PM."
-  },
-  {
-    "rank": 27,
-    "category": "Civic",
-    "headline": "Goa to Launch Pilot Project for Composite LPG Cylinders",
-    "summary": "Goa is set to initiate a pilot program introducing lightweight and modern composite LPG cylinders to consumers."
-  },
-  {
-    "rank": 28,
     "category": "Politics",
-    "headline": "Shavina Appointed State President of Revolutionary Goans",
-    "summary": "The Revolutionary Goans party has appointed 26-year-old Shavina as its new state president, shifting focus toward engaging Gen Z and women."
-  },
-  {
-    "rank": 29,
-    "category": "Sports",
-    "headline": "Churchill Brothers Retain Coach Dimitriou for ISL Debut",
-    "summary": "Churchill Brothers FC has chosen to retain coach Dimitriou to lead the team during their upcoming Indian Super League debut."
+    "headline": "ST Reservation Talk Sparks Seat Shifts in South Goa",
+    "summary": "Discussions surrounding Scheduled Tribe seat reservations have triggered political realignments in South Goa. Candidates and parties are adjusting their strategies in anticipation of shifting electoral boundaries."
   }
 ]
