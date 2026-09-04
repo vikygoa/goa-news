@@ -1,194 +1,86 @@
 [
   {
     "rank": 1,
-    "category": "Business",
-    "headline": "IAF Hero Abhinandan Varthaman Joins Goa-Based FLY91",
-    "summary": "Vir Chakra awardee Abhinandan Varthaman has joined the Goa-based regional airline FLY91 as a pilot. The airline operates out of Manohar International Airport in Mopa."
+    "category": "General",
+    "headline": "Abhinandan Varthaman Retires From IAF and Joins Goa Airline",
+    "summary": "Group Captain Abhinandan Varthaman has retired from the Indian Air Force and joined Goa-based carrier FLY91 as a commercial pilot. He is widely recognized for downing a Pakistani F-16 fighter jet in 2019."
   },
   {
     "rank": 2,
     "category": "Politics",
-    "headline": "Chief Election Commissioner Audits Goa's Electoral Readiness",
-    "summary": "Chief Election Commissioner Gyanesh Kumar visited Goa for an electoral awareness program and confirmed that the state's voting processes are fully audited. During his visit, he also toured the historic Basilica of Bom Jesus."
+    "headline": "Goa Announces Three Free LPG Cylinders Annually",
+    "summary": "The Goa government will provide citizens with three free LPG cylinders annually, ensuring beneficiaries receive Rs 3,000 under the scheme. Chief Minister Pramod Sawant stated that the reimbursement will be credited by September 10."
   },
   {
     "rank": 3,
-    "category": "General",
-    "headline": "Teenager Killed in Fatal Road Accident Near Sonsodo",
-    "summary": "A 16-year-old boy, identified as Abel Menezes, lost his life following a collision between a motorcycle and a car near Sonsodo in Gogol."
+    "category": "Civic",
+    "headline": "Ancient Relics Unearthed During Temple Restoration",
+    "summary": "Important archaeological items and stone relics dating back to the 14th-16th centuries have been discovered during restoration work at the Saptakoteshwar Temple and near the Koti Tirtha tank at Divar. Chief Minister Pramod Sawant highlighted the historical significance of the findings."
   },
   {
     "rank": 4,
-    "category": "General",
-    "headline": "Four Goa Police Personnel Suspended After Assembly Assurance",
-    "summary": "Following Chief Minister Pramod Sawant's assurance in the State Assembly, four police personnel, including a sub-inspector, were suspended. The disciplinary action stems from an incident of alleged misbehaviour and dispute over a restaurant bill in Porvorim."
+    "category": "Crime",
+    "headline": "Police Personnel Suspended Over Extortion Probe",
+    "summary": "Goa police cracked down on errant personnel following an extortion probe involving a controversial audio clip about a 'Rs 30 lakh payment'. Four officers have been suspended and a PSI transferred."
   },
   {
     "rank": 5,
-    "category": "Politics",
-    "headline": "CM Sawant to Meet Karapur Villagers Post Assembly Session",
-    "summary": "Chief Minister Pramod Sawant assured the State Assembly that he will meet with the protesting villagers of Karapur once the current legislative session concludes."
+    "category": "Civic",
+    "headline": "Goa to Shift Stray Dogs to Shelters Amid Rising Bite Cases",
+    "summary": "Amid reports of 53 dog-bite cases every day until mid-August, a Goa minister announced plans to shift stray dogs from public places to shelters. Meanwhile, the High Court has directed the Centre to submit the 2025 street dog census data by September 8."
   },
   {
     "rank": 6,
-    "category": "Politics",
-    "headline": "Goa Government to Provide Three Free LPG Cylinders Annually",
-    "summary": "The Goa government has announced a scheme to provide three free LPG cylinders every year to eligible citizens. Beneficiaries will receive Rs 3,000 directly under this initiative."
+    "category": "Civic",
+    "headline": "Goa Bans Fresh Contractual Appointments",
+    "summary": "The Goa government has banned fresh contractual appointments and introduced a one-time regularisation policy for staff who complete 10 years of service. This aims to overhaul employment practices across state departments."
   },
   {
     "rank": 7,
-    "category": "General",
-    "headline": "Delhi-Bound IndiGo Flight Makes Emergency Landing in Goa",
-    "summary": "An IndiGo flight heading to Delhi was forced to return to Goa's airport and make an emergency landing after suffering an engine malfunction mid-air. All passengers and crew members on board landed safely."
+    "category": "Tourism",
+    "headline": "Goan Pilgrims Safe After Nepal-Tibet Flash Floods",
+    "summary": "A group of Goan pilgrims successfully completed their Kailash yatra despite surviving a sudden flash flood in the Nepal-Tibet region. All members returned safely."
   },
   {
     "rank": 8,
-    "category": "Civic",
-    "headline": "Goa Reports 53 Daily Dog-Bite Cases Until Mid-August",
-    "summary": "Recent data reveals that Goa recorded an average of 53 dog-bite cases every day up to mid-August this year. This highlights growing concerns over stray animal management in the state."
+    "category": "Business",
+    "headline": "KMRL Prepares Detailed Project Report for Goa Water Metro",
+    "summary": "The Kochi Metro Rail Limited (KMRL) has prepared a Detailed Project Report for a Goa Water Metro encompassing nine routes and 111 kilometers of waterways. A feasibility study for the project has been successfully completed."
   },
   {
     "rank": 9,
-    "category": "Politics",
-    "headline": "CM Sawant and LoP Clash Over Migrant Crime Statistics",
-    "summary": "Chief Minister Pramod Sawant claimed in the Assembly that over 90 percent of crimes in Goa are committed by migrants, leading to a heated debate with Leader of Opposition Yuri Alemao over law and order."
+    "category": "Tourism",
+    "headline": "Travelers Share Realities of Remote Working and Living in Goa",
+    "summary": "Recent reports highlight the lifestyle and monthly expenses of individuals moving from cities like Delhi and Manali to work remotely from Goa. Meanwhile, tourism authorities are cracking down on improper behavior on beaches and tightening registration rules for private shacks."
   },
   {
     "rank": 10,
-    "category": "Civic",
-    "headline": "Smart Meter Rollout Paused but Remains Mandatory",
-    "summary": "Power Minister Ramkrishna Dhavalikar stated that while the immediate rollout of smart meters is on hold, their implementation remains mandatory in the long run."
+    "category": "Crime",
+    "headline": "Teenager Killed in Sonsodo Road Accident",
+    "summary": "A 17-year-old boy named Abel Menezes tragically lost his life in a road accident in Sonsodo. Local authorities are investigating the incident."
   },
   {
     "rank": 11,
-    "category": "General",
-    "headline": "Delhi Techie Shares Cost of Remote Working in Goa",
-    "summary": "A Delhi man working remotely from Goa shared his experience, detailing what a monthly budget of Rs 30,000 gets him in terms of lifestyle and accommodation."
+    "category": "Politics",
+    "headline": "Goa Assembly Clears Housing Board Joint Ventures Bill",
+    "summary": "The Goa Assembly has passed a bill enabling the Housing Board to enter into joint ventures. The legislative session also addressed various local infrastructure deadlines and project disputes."
   },
   {
     "rank": 12,
-    "category": "Tourism",
-    "headline": "Goa's Off-Season Fades as Tourism Becomes Year-Round",
-    "summary": "Industry experts note that Goa has transitioned into a year-round travel destination, effectively ending its traditional off-season. Tourists, including foreign travellers, continue to visit despite initial social media doubts."
+    "category": "Business",
+    "headline": "IndiGo Flight Makes Emergency Landing in Goa Due to Engine Snag",
+    "summary": "A Delhi-bound IndiGo flight from Goa made a safe emergency landing following a mid-air engine failure. Passengers were safely accommodated while technical teams inspected the aircraft."
   },
   {
     "rank": 13,
-    "category": "Politics",
-    "headline": "Assembly Clears Bill to Allow Housing Board Joint Ventures",
-    "summary": "The Goa Assembly has passed a bill enabling the Goa Housing Board to enter into joint ventures to build affordable homes. Priority for these newly planned housing units will be given to local Goans (Niz Goenkars)."
+    "category": "Business",
+    "headline": "E20 Petrol Available Across Goa With No Violations Found",
+    "summary": "E20 petrol has been made available across Goa following extensive inspections by Oil Marketing Companies. The government confirmed that 1,209 checks found zero violations."
   },
   {
     "rank": 14,
-    "category": "General",
-    "headline": "Historic Artefacts Found During Saptakoteshwar Temple Restoration",
-    "summary": "Chief Minister Pramod Sawant announced that several archaeologically significant items were unearthed during the restoration of the historic Saptakoteshwar Temple."
-  },
-  {
-    "rank": 15,
-    "category": "Politics",
-    "headline": "Enforcement Directorate Allotted Land for Curca Office",
-    "summary": "The Goa government has allotted a 4,000-square-meter plot of land in Curca to the Enforcement Directorate (ED) for constructing its new office."
-  },
-  {
-    "rank": 16,
     "category": "Civic",
-    "headline": "Power Minister Assures Compensation for Electrocuted Buffaloes",
-    "summary": "Power Minister Ramkrishna Dhavalikar has assured local farmers that they will receive financial relief and compensation following the tragic electrocution of their buffaloes."
-  },
-  {
-    "rank": 17,
-    "category": "Crime",
-    "headline": "Supreme Court Orders Goa Nightclub Fire Accused to Surrender",
-    "summary": "The Supreme Court has dismissed the bail pleas of the accused in the Goa nightclub fire case, ordering Saurabh Luthra, Gaurav Luthra, and Ajay Gupta to surrender within two weeks."
-  },
-  {
-    "rank": 18,
-    "category": "Politics",
-    "headline": "Goa Assembly Passes Advocate Protection Bill",
-    "summary": "The Goa Legislative Assembly has successfully passed the Advocate Protection Bill to ensure the safety and security of legal practitioners in the state."
-  },
-  {
-    "rank": 19,
-    "category": "General",
-    "headline": "Goa University Creates Visibility App for DRDO",
-    "summary": "Researchers at Goa University have developed a mobile application for the DRDO to measure and predict light visibility in estuarine waters."
-  },
-  {
-    "rank": 20,
-    "category": "Sports",
-    "headline": "GCA Implements 5-Year Domicile Rule for Local Players",
-    "summary": "The Goa Cricket Association (GCA) has introduced a mandatory five-year domicile rule to define and select local players for state representation."
-  },
-  {
-    "rank": 21,
-    "category": "Civic",
-    "headline": "CM Orders Fuel Verification Despite No E20 Petrol Complaints",
-    "summary": "Chief Minister Pramod Sawant stated that E20 petrol is safe and has received no widespread complaints, but he will still order a verification to ensure quality."
-  },
-  {
-    "rank": 22,
-    "category": "Politics",
-    "headline": "Goa Halts Plan to Introduce Anti-Conversion Bill",
-    "summary": "Chief Minister Pramod Sawant announced that the state government has shelved its plans to introduce an anti-conversion bill following internal resistance and pushback."
-  },
-  {
-    "rank": 23,
-    "category": "General",
-    "headline": "Horticulture Corporation to Sell Coconuts at Affordable Rates",
-    "summary": "In a bid to assist local consumers, the Goa Horticultural Corporation has stepped in to procure and sell coconuts at subsidized, affordable prices."
-  },
-  {
-    "rank": 24,
-    "category": "Civic",
-    "headline": "Long Queues in Margao After Apostrophe Glitch Fix",
-    "summary": "Citizens faced long waiting times and packed queues in Margao as officials worked to resolve an administrative software glitch involving apostrophes in names."
-  },
-  {
-    "rank": 25,
-    "category": "Civic",
-    "headline": "Rapid Urbanisation Puts South Goa Coast at High Risk",
-    "summary": "A recent scientific study warned that rapid urban development along the South Goa coastline has placed the region in a high-risk zone for environmental vulnerability."
-  },
-  {
-    "rank": 26,
-    "category": "Politics",
-    "headline": "16 New Bills Introduced on Day One of Assembly Session",
-    "summary": "The Goa Legislative Assembly got off to a busy start, with the state government introducing 16 different bills on the very first day of the current session."
-  },
-  {
-    "rank": 27,
-    "category": "Politics",
-    "headline": "Contractual Education Staff to be Regularised by October",
-    "summary": "The state government announced that contractual educational staff members who have completed 10 years of service will be regularised by October this year."
-  },
-  {
-    "rank": 28,
-    "category": "Civic",
-    "headline": "FDA to Re-Inspect Canteens and Eateries in Goa",
-    "summary": "Chief Minister Pramod Sawant announced that the Food and Drugs Administration (FDA) will conduct fresh rounds of inspections at local canteens and eateries to ensure health standards."
-  },
-  {
-    "rank": 29,
-    "category": "Civic",
-    "headline": "Goa Adapts Security Measures Amid Evolving Threats",
-    "summary": "An analysis of Goa's security systems highlights the state's ongoing efforts to update and test its law enforcement readiness to counter evolving modern threats."
-  },
-  {
-    "rank": 30,
-    "category": "Politics",
-    "headline": "Yuri Alemao Backs Tiger Reserve Status in Mhadei Dispute",
-    "summary": "Leader of Opposition Yuri Alemao has extended his support for declaring Mhadei a tiger reserve, while MLA Venzy Viegas demanded a firm deadline for project inspections."
-  },
-  {
-    "rank": 31,
-    "category": "Crime",
-    "headline": "Crime Branch Takes Over Porvorim Shootout Investigation",
-    "summary": "Chief Minister Pramod Sawant announced that the Crime Branch of the Goa Police has officially taken over the probe into the recent shootout incident in Porvorim."
-  },
-  {
-    "rank": 32,
-    "category": "Civic",
-    "headline": "Goa Fails to Achieve Electric Vehicle Adoption Target",
-    "summary": "The state government cited a lack of adequate charging infrastructure and high upfront vehicle acquisition costs as the main reasons for Goa missing its target for electric vehicle (EV) adoption."
+    "headline": "Goa Initiates Digital Crop Survey and Expands Water Supply",
+    "summary": "The Goa government has launched a digital survey to accurately map crops grown across the state. Additionally, authorities announced plans to double treated water supply to over 1,000 MLD."
   }
 ]
