@@ -1,206 +1,182 @@
 [
   {
     "rank": 1,
-    "category": "Politics",
-    "headline": "Amit Shah Begins Three-Day Goa Visit",
-    "summary": "Union Home Minister Amit Shah has arrived in Goa for a three-day official visit starting September 5. He will chair the Western Zonal Council meeting and discuss strategic plans for the 2027 assembly elections."
+    "category": "Civic",
+    "headline": "Goa Launches Ujjwala Scheme with LPG Subsidies",
+    "summary": "The Goa government has launched the Goa Ujjwala Yojana, providing three free LPG cylinders annually to eligible beneficiaries. Under this scheme, consumers will receive a reimbursement of Rs 3,000 directly into their accounts."
   },
   {
     "rank": 2,
-    "category": "General",
-    "headline": "Over 1,000 Temples Destroyed Under Portuguese Rule, Says CM",
-    "summary": "Chief Minister Pramod Sawant claimed that around 1,000 temples were destroyed in Goa during the Portuguese regime. He remarked that the state's historical temple heritage was once even richer than that of South India."
+    "category": "Politics",
+    "headline": "Amit Shah Begins Three-Day Goa Visit",
+    "summary": "Union Home Minister Amit Shah arrived in Goa to chair the 28th Western Zonal Council meeting in Panaji. During his three-day visit, he will also review home ministry affairs, lead an anti-narcotics drive, and discuss key state political strategies."
   },
   {
     "rank": 3,
-    "category": "Civic",
-    "headline": "Koti Tirtha Corridor to Be Ready Within a Year",
-    "summary": "Chief Minister Pramod Sawant announced that the construction of the Koti Tirtha Corridor will be completed within a year."
+    "category": "Crime",
+    "headline": "Man Dies After Self-Stabbing During Dispute in Siolim",
+    "summary": "A dispute in Siolim took a tragic turn after a man reportedly stabbed himself, leading to his death. Police are investigating the circumstances surrounding the altercation."
   },
   {
     "rank": 4,
-    "category": "Civic",
-    "headline": "Goa Bans New Contract Jobs, Offers Regularisation After 10 Years",
-    "summary": "The Goa government has banned fresh contractual appointments across its departments. However, it is offering a one-time regularisation pathway for contract workers who have completed 10 years of service."
+    "category": "Crime",
+    "headline": "Speeding Mercedes Driver Arrested After Fatal Crash",
+    "summary": "A speeding Mercedes in Goa rammed into a scooter, dragging it for nearly two kilometers and killing the rider while injuring the pillion. The driver has been arrested in connection with the tragic accident."
   },
   {
     "rank": 5,
-    "category": "Business",
-    "headline": "IAF Hero Abhinandan Varthaman Joins Goa-Based FLY91",
-    "summary": "Retired Indian Air Force Group Captain Abhinandan Varthaman has joined the Goa-based regional carrier FLY91 as a commercial pilot. This transition comes after his retirement from active military service."
+    "category": "General",
+    "headline": "CM Highlights Historic Temple Restorations in Goa",
+    "summary": "Chief Minister Pramod Sawant stated that around 1,000 temples were destroyed during Portuguese rule as he marked the beginning of the Saptakoteshwar temple restoration. He emphasized the government's commitment to reviving Goa's cultural heritage."
   },
   {
     "rank": 6,
-    "category": "Civic",
-    "headline": "Goa to Reimburse Rs 3,000 Annually for Free LPG Cylinders",
-    "summary": "The Goa government will provide Rs 3,000 annually to beneficiaries under its free LPG cylinder scheme. Chief Minister Pramod Sawant confirmed that consumers will receive their reimbursements by September 10."
+    "category": "Business",
+    "headline": "War Hero Abhinandan Varthaman Joins Goa-Based FLY91",
+    "summary": "Group Captain Abhinandan Varthaman, known for shooting down a Pakistani jet in 2019, has retired from the Indian Air Force. He has now joined Goa-based regional airline FLY91 as a commercial pilot."
   },
   {
     "rank": 7,
-    "category": "Sports",
-    "headline": "Jamshedpur Players Free to Sign With New Clubs",
-    "summary": "Jamshedpur FC players are now clear to seek new opportunities and sign with other clubs after receiving their complete financial payouts."
+    "category": "Civic",
+    "headline": "Goa Passes Advocates Protection Act with Jail Terms",
+    "summary": "The Goa Legislative Assembly has passed the Advocates Protection Act to deter violence against legal professionals. The new legislation prescribes up to seven years of imprisonment for assaulting lawyers."
   },
   {
     "rank": 8,
-    "category": "Politics",
-    "headline": "Goa Passes Advocates Protection Bill to Prevent Attacks on Lawyers",
-    "summary": "The Goa Assembly has passed the Advocates Protection Bill, introducing strict penalties including up to seven years of imprisonment for assaulting lawyers."
+    "category": "Tourism",
+    "headline": "Goa Shifts Tourism Focus Beyond Beaches",
+    "summary": "Goa's tourism department is aiming to showcase its diverse inland experiences at the Amritsar travel mart to shed its 'beach-only' image. The state recently crossed a major milestone, welcoming over one crore domestic tourists."
   },
   {
     "rank": 9,
     "category": "Tourism",
-    "headline": "Goa Crosses Milestone of 1 Crore Domestic Tourists",
-    "summary": "Goa has witnessed a massive boom in tourism, with domestic visitor arrivals officially crossing the one crore mark."
+    "headline": "Exploring Quiet Alternatives to Busy Goa Beaches",
+    "summary": "Travel experts are highlighting quieter, crowd-free coastal alternatives across India for travelers seeking a peaceful beach holiday. These destinations offer a serene escape from Goa's increasingly crowded shores."
   },
   {
     "rank": 10,
     "category": "General",
-    "headline": "Delhi Man Shares Remote Working Experience in Goa on a Budget",
-    "summary": "A remote professional from Delhi went viral after detailing what a monthly budget of Rs 30,000 can cover while living and working in Goa."
+    "headline": "What a Rs 30,000 Monthly Budget Gets You in Goa",
+    "summary": "Remote workers relocating to Goa are sharing breakdowns of their monthly living expenses, which total around Rs 30,000. The budget covers accommodation, scooter rentals, food, and utilities, showcasing the cost of a coastal lifestyle."
   },
   {
     "rank": 11,
-    "category": "Politics",
-    "headline": "Goa BJP Backtracks on Passing Anti-Conversion Bill",
-    "summary": "The ruling BJP in Goa has decided to stall the passage of the proposed Anti-conversion Bill."
+    "category": "Business",
+    "headline": "Prashant Joshi Elected Chairman of Goa FADA",
+    "summary": "Prashant Joshi has been elected as the Chairman of the Federation of Automobile Dealers Associations (FADA) Goa chapter for the 2026-28 term. He will lead the state's automobile dealership community over the next two years."
   },
   {
     "rank": 12,
     "category": "Tourism",
-    "headline": "Tourist Criticises Family for Littering Cabo de Rama Beach",
-    "summary": "A visitor to Goa triggered a public debate after calling out parents who allowed their child to relieve themselves directly on the sands of Cabo de Rama beach."
+    "headline": "Private Shacks in CRZ Must Register with Tourism Dept",
+    "summary": "The Goa government has tightened regulations, making it mandatory for private shacks in the Coastal Regulation Zone to register with the tourism department. The move aims to streamline beach operations and enforce compliance."
   },
   {
     "rank": 13,
     "category": "Civic",
-    "headline": "South Goa Collectorate Building Awaits Real Relief Despite Repairs",
-    "summary": "The South Goa Collectorate building continues to face structural problems and offers little comfort to the public despite undergoing years of ongoing repair work."
+    "headline": "Assembly Passes Bill for Joint Venture Housing Projects",
+    "summary": "The Goa assembly has cleared a new bill empowering the housing board to undertake development projects through joint ventures. This revenue-sharing model is expected to boost housing infrastructure across the state."
   },
   {
     "rank": 14,
-    "category": "General",
-    "headline": "Akkalkot Swami Samarth Temple Attracts Large Devotee Turnout",
-    "summary": "The Akkalkot Swami Samarth temple in Goa continues to serve as a major spiritual hub, drawing crowds of devotees seeking blessings."
+    "category": "Civic",
+    "headline": "Goa to Compensate Artists Affected by Natural Calamities",
+    "summary": "The Goa government has introduced a framework to compensate local artists whose homes have been destroyed by natural disasters. The initiative aims to provide essential relief and housing support to the state's cultural community."
   },
   {
     "rank": 15,
-    "category": "Business",
-    "headline": "Goa's Special Investment Region Project Faces Local Pushback",
-    "summary": "The proposed Special Investment Region (SIR) in Goa has run into heavy criticism and opposition from local stakeholders and activists."
+    "category": "General",
+    "headline": "French Navy Frigate Languedoc Concludes Goa Visit",
+    "summary": "The French Navy's multi-mission frigate Languedoc has successfully completed a port call at Mormugao. The stopover was part of its ongoing deployment in the Red Sea and Indian Ocean regions."
   },
   {
     "rank": 16,
-    "category": "General",
-    "headline": "Teenager Killed in Tragic Sonsodo Road Accident",
-    "summary": "A fatal road accident near Sonsodo resulted in the tragic death of 17-year-old Abel Menezes."
+    "category": "Sports",
+    "headline": "Jamshedpur FC Players Cleared to Sign with Other Clubs",
+    "summary": "Following a complete payout of their dues, Jamshedpur FC players are now free to seek opportunities and sign contracts with other football clubs. The financial settlement allows the squad to look for new options elsewhere."
   },
   {
     "rank": 17,
     "category": "Civic",
-    "headline": "High Court Demands Stray Dog Census Data by September 8",
-    "summary": "The High Court of Bombay at Goa has directed local authorities to submit the latest stray dog census data by September 8."
+    "headline": "Delayed Fitness Certificate Fees Capped Until 2027",
+    "summary": "The government has capped the late fee for vehicle fitness certificates at Rs 1,000 until May 2027. This temporary relief aims to help vehicle owners complete pending registrations without facing steep penalties."
   },
   {
     "rank": 18,
-    "category": "Crime",
-    "headline": "Man Dies in Siolim After Stabbing Himself During Dispute",
-    "summary": "A heated altercation in Siolim took a tragic turn when a man reportedly stabbed himself during the dispute and later succumbed to his injuries."
+    "category": "Civic",
+    "headline": "Har Ghar Fibre Work in Sanquelim and Bicholim to Take 270 Days",
+    "summary": "The implementation of the Har Ghar Fibre internet project in Sanquelim and Bicholim is scheduled to take 270 days to complete. The initiative will significantly improve high-speed digital connectivity in these regions."
   },
   {
     "rank": 19,
-    "category": "Tourism",
-    "headline": "Private Shacks in CRZ Must Now Register With Goa Tourism",
-    "summary": "To tighten regulatory oversight, the Goa government has mandated that private beach shacks operating in Coastal Regulation Zone areas must register with the tourism department."
+    "category": "Weather",
+    "headline": "Goan Pilgrims Survive Tibet Flash Floods During Yatra",
+    "summary": "A group of Goan pilgrims safely completed their Kailash Yatra after surviving a sudden flash flood in the Nepal-Tibet border region. All members of the tour group are reported to be safe and returning home."
   },
   {
     "rank": 20,
-    "category": "Business",
-    "headline": "Goa Passes Housing Law Allowing Joint Ventures",
-    "summary": "The Goa Assembly has approved a bill that empowers the state housing board to launch projects through joint ventures and revenue-sharing models."
+    "category": "Tourism",
+    "headline": "Air India Express to Resume Daily Goa-Dubai Flights",
+    "summary": "Air India Express has announced the resumption of its direct flight services between Goa and Dubai, starting in the Winter 2026 schedule. The airline will operate daily flights to cater to the growing travel demand."
   },
   {
     "rank": 21,
-    "category": "General",
-    "headline": "French Navy Frigate Concludes Mormugao Port Call",
-    "summary": "The French Navy frigate Languedoc has completed its scheduled port call in Mormugao, Goa, as part of its deployment in the Red Sea and Indian Ocean."
+    "category": "Crime",
+    "headline": "Cop in Trouble After Free Cheese Garlic Naan Dispute",
+    "summary": "A dispute over a Rs 170 cheese garlic naan bill reached the Goa assembly, landing a local policeman in trouble. The cop allegedly misused his authority over the restaurant bill, leading to an official inquiry."
   },
   {
     "rank": 22,
-    "category": "Entertainment",
-    "headline": "Zayed Khan Reveals Secret Goa Wedding Ceremony",
-    "summary": "Actor Zayed Khan shared that prior to their large public wedding, he and Malaika Parekh held a private, secret wedding ceremony in Goa."
+    "category": "Civic",
+    "headline": "South Goa District Collector Intervenes in SGPDA Market Issue",
+    "summary": "The South Goa District Collector has stepped in to resolve the ongoing management and cleanliness issues at the SGPDA market. The intervention aims to restore order and address grievances from vendors and shoppers."
   },
   {
     "rank": 23,
-    "category": "Civic",
-    "headline": "Har Ghar Fibre Work in Bicholim to Take 270 Days",
-    "summary": "The local internet connectivity project under the Har Ghar Fibre scheme in Sanquelim and Bicholim is scheduled to be completed in 270 days."
+    "category": "Politics",
+    "headline": "Speaker Lifts Assembly Ban on Mirabag Protesters",
+    "summary": "Citing democratic principles and leniency, the Goa Assembly Speaker has revoked the entry ban previously imposed on Mirabag protesters. The decision allows the citizens to engage with their representatives once again."
   },
   {
     "rank": 24,
-    "category": "General",
-    "headline": "Goan Pilgrims Safe After Nepal-Tibet Flash Flood",
-    "summary": "A group of pilgrims from Goa successfully completed their Kailash Mansarovar pilgrimage after surviving a sudden flash flood along the Nepal-Tibet border."
+    "category": "Politics",
+    "headline": "CM Promises Solution to Karapur Project Row",
+    "summary": "Chief Minister Pramod Sawant has announced that a resolution to the ongoing Karapur project dispute is expected within two days. The government is actively mediating to address the concerns of local residents."
   },
   {
     "rank": 25,
-    "category": "Politics",
-    "headline": "CM Promises Solution to Karapur Project Row in Two Days",
-    "summary": "Chief Minister Pramod Sawant has announced that a resolution to the ongoing dispute surrounding the Karapur project is expected within two days."
+    "category": "General",
+    "headline": "Goa Proposes Special Reserve to Protect Mud Crabs",
+    "summary": "To protect berried mud crabs, the Goa government is considering new incentives and the creation of a dedicated crab reserve. The initiative aims to support marine biodiversity and local coastal ecosystems."
   },
   {
     "rank": 26,
-    "category": "General",
-    "headline": "Goa Plans Dedicated Mud Crab Reserve for Species Protection",
-    "summary": "The Goa government is considering creating a dedicated crab reserve and offering special incentives to protect breeding mud crabs."
+    "category": "Civic",
+    "headline": "Goa to Align Engineering Academic Calendar Nationally",
+    "summary": "Chief Minister Pramod Sawant announced that Goa will align its engineering college schedules with national academic standards. The move is expected to benefit local students seeking national opportunities and internships."
   },
   {
     "rank": 27,
-    "category": "Politics",
-    "headline": "Overpriced Garlic Naan Bill Sparks Debate in Assembly, Lands Cop in Trouble",
-    "summary": "A dispute over a Rs 170 bill for a cheese garlic naan was brought up in the Goa Assembly, leading to disciplinary action against a local police officer."
+    "category": "Civic",
+    "headline": "Goa Regularizes Contract Staff with 10 Years of Service",
+    "summary": "The Goa government has announced the regularization of contract employees who have completed at least ten years of service. The decision brings long-awaited job security to hundreds of public sector workers."
   },
   {
     "rank": 28,
-    "category": "Civic",
-    "headline": "Goa to Align Engineering College Schedules With National Norms",
-    "summary": "Chief Minister Pramod Sawant announced that the academic and admission schedules for Goa's engineering courses will be aligned with national guidelines."
+    "category": "General",
+    "headline": "Two Leopards Spotted Near Ajoba Temple in Keri",
+    "summary": "Panic and excitement hit Keri residents after two leopards were spotted roaming near the local Ajoba temple. Wildlife authorities have been alerted to monitor the big cats' movements in the area."
   },
   {
     "rank": 29,
-    "category": "Crime",
-    "headline": "Rs 30 Lakh Extortion Audio Clip Surfaces in Goa Project Investigation",
-    "summary": "A voice recording detailing a Rs 30 lakh transaction has emerged, boosting an ongoing police investigation into a major extortion case linked to a Goa development project."
+    "category": "Civic",
+    "headline": "Inadequate Charging Setup Causes Goa to Miss EV Targets",
+    "summary": "Goa has failed to meet its electric vehicle adoption targets, with the government pointing to high vehicle costs and insufficient charging infrastructure. Efforts are underway to scale up public charging stations across the state."
   },
   {
     "rank": 30,
     "category": "General",
-    "headline": "Restoration Work of Historical Saptakoteshwar Temple Begins",
-    "summary": "The long-awaited structural restoration and conservation project for the historic Saptakoteshwar temple has officially commenced."
-  },
-  {
-    "rank": 31,
-    "category": "Civic",
-    "headline": "Goa Misses EV Adoption Targets Due to Inadequate Infrastructure",
-    "summary": "The Goa government has failed to meet its targets for electric vehicle adoption, citing high vehicle acquisition costs and a lack of public charging stations."
-  },
-  {
-    "rank": 32,
-    "category": "Civic",
-    "headline": "Goa Starts Digital Survey to Map Local Crop Cultivation",
-    "summary": "The state agricultural department has launched a digital survey across Goa to accurately map and record the crops being cultivated by local farmers."
-  },
-  {
-    "rank": 33,
-    "category": "General",
-    "headline": "New Goa University Vice-Chancellor Takes Charge",
-    "summary": "The newly appointed Vice-Chancellor of Goa University has officially assumed control of his office to lead the academic institution."
-  },
-  {
-    "rank": 34,
-    "category": "Business",
-    "headline": "GIDC to Establish Plug-and-Play Offices in Verna",
-    "summary": "The Goa Industrial Development Corporation is developing fully equipped, plug-and-play offices and research spaces at the Verna Industrial Estate to foster local businesses."
+    "headline": "Akkalkot Swami Samarth Temple Draws Large Crowds",
+    "summary": "The Akkalkot Swami Samarth temple in Goa continues to attract a massive influx of devotees seeking blessings and spiritual solace. Visitors often share stories of faith and miracles associated with the sacred site."
   }
 ]
