@@ -1,230 +1,302 @@
 [
   {
     "rank": 1,
-    "category": "Politics",
-    "headline": "Amit Shah Chairs Western Zonal Council Meet",
-    "summary": "Union Home Minister Amit Shah chaired the 28th Western Zonal Council meeting in Panaji to discuss regional cooperation and development."
+    "category": "General",
+    "headline": "Goa Police Honoured with President’s Colour",
+    "summary": "Union Home Minister Amit Shah presented the prestigious President’s Colour award to the Goa Police. This high honour recognizes the state police force's outstanding service and achievements."
   },
   {
     "rank": 2,
-    "category": "General",
-    "headline": "Goa Police Receives President's Colour",
-    "summary": "Union Home Minister Amit Shah presented the prestigious President's Police Colour to the Goa Police in recognition of their outstanding service."
+    "category": "Politics",
+    "headline": "Amit Shah Chairs Western Zonal Council Meet in Goa",
+    "summary": "Union Home Minister Amit Shah led the 28th Western Zonal Council meeting in Goa to address regional and security issues. The meet focused on cooperative federalism and developmental challenges in the western states."
   },
   {
     "rank": 3,
-    "category": "Politics",
-    "headline": "Shah Curtails Goa Event Over Delhi Tragedy",
-    "summary": "Home Minister Amit Shah shortened his schedule for the inauguration of the new BJP headquarters in Goa following a fatal building collapse in Delhi."
+    "category": "General",
+    "headline": "Goa Police Receive Prestigious President’s Colour",
+    "summary": "The Goa Police force was awarded the prestigious President’s Colour by Union Home Minister Amit Shah. The recognition places Goa among the elite states with such a highly decorated police department."
   },
   {
     "rank": 4,
-    "category": "Politics",
-    "headline": "Marathi Language Debate Resurfaces in Goa",
-    "summary": "A fresh controversy has emerged over the Marathi language, highlighting ongoing debates about the true definition of Goan identity."
+    "category": "Business",
+    "headline": "Team-BHP Serves as Hub for Indian Auto Enthusiasts",
+    "summary": "Team-BHP remains the premier online platform for Indian automotive news, detailed car reviews, and community forums. The site caters to car owners and enthusiasts across the country looking for expert insights."
   },
   {
     "rank": 5,
-    "category": "Politics",
-    "headline": "Shinde to Finalize Goa Alliance Strategy Soon",
-    "summary": "Maharashtra Chief Minister Eknath Shinde stated that the Shiv Sena will finalize its electoral strategy for Goa once the official election schedule is declared."
+    "category": "Weather",
+    "headline": "Monsoon Deficit Sparks Paddy Crop Fears in Goa",
+    "summary": "Goa has recorded a 30.3% rainfall deficit, raising concerns among local farmers about its impact on paddy crop yields. The lack of sufficient rain threatens the agricultural output of the state."
   },
   {
     "rank": 6,
-    "category": "Politics",
-    "headline": "Shah Credits PM's Diplomacy for Economic Growth",
-    "summary": "Home Minister Amit Shah highlighted that Prime Minister Narendra Modi's extensive global travels and dialogue helped India withstand global crises and achieve 7.8% economic growth."
+    "category": "Civic",
+    "headline": "Colvale Jail Plagued by Sewage and Toxic Water Issues",
+    "summary": "Inmates and staff at the Colvale jail are facing severe health hazards due to stagnant sewage and toxic drinking water. The poor sanitary conditions highlight the grim state of infrastructure inside the prison."
   },
   {
     "rank": 7,
     "category": "Crime",
-    "headline": "Goa Police Urged to Lead Anti-Narcotics Fight",
-    "summary": "Union Home Minister Amit Shah urged the Goa Police to become the top force in the country in tackling drug trafficking and narcotics."
+    "headline": "GIM Student Remanded for Stabbing Hostel Mate",
+    "summary": "A student of the Goa Institute of Management has been arrested and sent to five days of police custody for allegedly stabbing a classmate in their hostel. The local police are investigating the incident."
   },
   {
     "rank": 8,
-    "category": "Crime",
-    "headline": "Curchorem Labeled Goa's New Drug Capital",
-    "summary": "Congress leader Amit Patkar raised serious concerns over drug activities, claiming Curchorem is rapidly transforming into the state's drug capital."
+    "category": "Politics",
+    "headline": "AAP Protests Outside Cuncolim Police Station",
+    "summary": "Members of the Aam Aadmi Party staged a sit-in protest at the Cuncolim police station following the alleged assault on party leader Elvis Gomes. The party is demanding immediate and strict action against the culprits."
   },
   {
     "rank": 9,
-    "category": "General",
-    "headline": "Team-BHP Features Car Discussions",
-    "summary": "Indian automotive forum Team-BHP continues to host active discussions and reviews of cars for enthusiasts."
+    "category": "Politics",
+    "headline": "Borda Students Protest Over Teacher Shortages",
+    "summary": "Students in Borda have continued their protests demanding more teachers, despite assurances from Chief Minister Pramod Sawant. The protest reflects growing frustration over the local education system."
   },
   {
     "rank": 10,
-    "category": "Tourism",
-    "headline": "Karnataka Plans Mangaluru-Goa Cruise Link",
-    "summary": "The Karnataka government is planning to introduce cruise tourism between Mangaluru and Goa, alongside Kerala-style houseboats along the coastline."
+    "category": "General",
+    "headline": "Class X Maths-I Interest Declines in Goa",
+    "summary": "The enrollment numbers for the Maths-I curriculum among Class X students in Goa have decreased by 3,000 over the past three years. This marks a shift in student preferences towards other subjects."
   },
   {
     "rank": 11,
-    "category": "Entertainment",
-    "headline": "Hema Malini Shares Nostalgic Film Memories",
-    "summary": "Veteran actress Hema Malini took a walk down memory lane, recalling her historic film shoots and experiences in Goa."
+    "category": "Politics",
+    "headline": "Vijay Sardesai Slams Government Over Student Protests",
+    "summary": "GFP chief Vijay Sardesai criticized the BJP-led government, claiming that students are being forced to take to the streets to protest for basic education rights. He urged the government to resolve academic issues immediately."
   },
   {
     "rank": 12,
-    "category": "Politics",
-    "headline": "Sardesai Slams Government Over Teacher Shortage",
-    "summary": "GFP leader Vijay Sardesai targeted the state government, claiming that the education system in Goa is crumbling due to a severe shortage of teachers."
+    "category": "Civic",
+    "headline": "Goa to Collect Dry Waste from Over 450 Schools",
+    "summary": "The Goa government has announced a scheme to systematically collect dry waste from more than 450 educational institutions across the state. This initiative aims to foster better waste management and environmental awareness among students."
   },
   {
     "rank": 13,
-    "category": "Crime",
-    "headline": "Goa Police Launch AI Agent for Cyber Helpline",
-    "summary": "Goa Police has launched an AI-powered agent to enhance the efficiency of its 1930 cyber fraud helpline, a move praised by Union Home Minister Amit Shah."
+    "category": "Civic",
+    "headline": "TCP Department Processes Land Conversion Under Section 39A",
+    "summary": "The Town and Country Planning (TCP) Department of Goa is actively processing land conversion requests under Section 39A. This controversial provision allows for changes in regional land use plans."
   },
   {
     "rank": 14,
-    "category": "General",
-    "headline": "Early Census Set for Poll-Bound States",
-    "summary": "The national census is scheduled to begin early in election-bound states, including Goa, Uttar Pradesh, Punjab, and Uttarakhand."
+    "category": "Business",
+    "headline": "Horticulture Corporation Lowers Coconut Prices for Chaturthi",
+    "summary": "The Goa State Horticultural Corporation has capped the price of coconuts at ₹38 to provide relief to consumers during the Ganesh Chaturthi festival. This move is aimed at curbing inflation during festive shopping."
   },
   {
     "rank": 15,
     "category": "Crime",
-    "headline": "Pune Man Dies After Self-Inflicted Injury",
-    "summary": "A dispute between friends in Goa turned tragic when a Pune resident died from a self-inflicted knife injury during the altercation."
+    "headline": "Russian National Dies by Suicide in Rented Room",
+    "summary": "A Russian national was found dead after allegedly committing suicide in a rented room in Goa. Local police have registered the case and are currently conducting further investigations."
   },
   {
     "rank": 16,
-    "category": "Politics",
-    "headline": "Congress Welcomes Satyavan Talwadkar to Party",
-    "summary": "The Congress party in Goa has officially inducted former accounts director Satyavan Talwadkar into its ranks."
+    "category": "General",
+    "headline": "Debate Over Marathi Language and Goan Identity Resurfaces",
+    "summary": "The long-standing debate regarding the status of the Marathi language in Goa has reignited. The core controversy centers around the definition of Goan identity and official linguistic recognition."
   },
   {
     "rank": 17,
-    "category": "Business",
-    "headline": "Credai Pushes for Ease of Doing Business",
-    "summary": "The Confederation of Real Estate Developers' Associations of India (Credai) has urged state departments to implement key reforms to boost business operations."
+    "category": "Crime",
+    "headline": "GPCC Chief Flags Curchorem as Goa’s Drug Capital",
+    "summary": "Goa Pradesh Congress Committee President Amit Patkar raised serious concerns over drug abuse, alleging Curchorem is becoming the state's drug capital. He criticized the local authorities for failing to control narcotics distribution."
   },
   {
     "rank": 18,
-    "category": "Civic",
-    "headline": "Goa Enacts New Municipal Amendment Law",
-    "summary": "The Goa Municipalities Amendment Act, 2026 has been enacted, introducing a revamped process for ward delimitation in the state."
+    "category": "Crime",
+    "headline": "Amit Shah Urges Goa Police to Lead Fight Against Drugs",
+    "summary": "Union Home Minister Amit Shah emphasized that the Goa Police must strive to become India's top force in tackling narcotics. He urged authorities to eradicate the drug menace entirely from the state."
   },
   {
     "rank": 19,
-    "category": "Politics",
-    "headline": "CM Sawant Attacks Opposition's 'Fake Propaganda'",
-    "summary": "Chief Minister Pramod Sawant has accused opposition parties of spreading false narratives and propaganda to mislead the public."
+    "category": "Business",
+    "headline": "German Agency GIZ to Support Goa's Solar Energy Initiatives",
+    "summary": "German development agency GIZ has partnered with the Goa government to boost the state's transition to solar power. The collaboration will provide technical expertise to accelerate renewable energy projects in the region."
   },
   {
     "rank": 20,
-    "category": "Civic",
-    "headline": "Porvorim Flyover Set for Major Traffic Test",
-    "summary": "Although construction of the Porvorim flyover is complete, the infrastructure will face its real test starting September 11."
+    "category": "Politics",
+    "headline": "Amit Shah Cancels BJP Event After Delhi Building Collapse",
+    "summary": "Union Home Minister Amit Shah cancelled his planned political event in Goa following a tragic building collapse at a boys' PG in Delhi. However, some essential government programs remained on his schedule."
   },
   {
     "rank": 21,
-    "category": "General",
-    "headline": "Prudent Media Airs Konkani News Bulletins",
-    "summary": "Local news portal Prudent Media has broadcasted its latest Konkani daily news bulletins covering local events and political updates."
+    "category": "Business",
+    "headline": "Siemens Energy Installs Eco-Friendly Circuit Breaker in Goa",
+    "summary": "Siemens Energy India has commissioned a 145 kV SF₆-free circuit breaker in Goa to promote clean power distribution. This installation helps mitigate greenhouse gas emissions in the state's energy infrastructure."
   },
   {
     "rank": 22,
-    "category": "Civic",
-    "headline": "Goa Faces Rising Sound Pollution Concerns",
-    "summary": "Amid growing sound pollution controversies in neighboring Maharashtra, questions are being raised about whether Goa is heading toward a similar public debate."
+    "category": "Tourism",
+    "headline": "Karnataka Plans Mangaluru-Goa Cruise Route",
+    "summary": "The Karnataka government is considering the introduction of a new cruise tourism route between Mangaluru and Goa. The plan also includes introducing Kerala-style houseboats along the coastline to attract more travelers."
   },
   {
     "rank": 23,
-    "category": "Crime",
-    "headline": "Myanmar Border to Be Sealed for Drug Control",
-    "summary": "Home Minister Amit Shah announced plans to completely seal the Myanmar border to block the illegal influx of narcotics into the country."
+    "category": "Civic",
+    "headline": "Goa Police Launch AI Agent for Cyber Fraud Helpline",
+    "summary": "Goa Police have integrated an artificial intelligence agent into the 1930 emergency helpline to combat cyber fraud more effectively. The technological upgrade was commended by Union Home Minister Amit Shah."
   },
   {
     "rank": 24,
     "category": "General",
-    "headline": "Conversion Claims Spark Tension in Canca-Verla",
-    "summary": "Reports and allegations of forced religious conversions have sparked serious concerns and tension among local residents in Canca-Verla."
+    "headline": "Goa Police Honoured with Prestigious President’s Colour",
+    "summary": "In a momentous ceremony, the Goa Police were presented with the President’s Colour, the highest honour a police force can receive. The award highlights their dedication to maintaining safety and order."
   },
   {
     "rank": 25,
-    "category": "Politics",
-    "headline": "Sardesai Urges Governor to Reject Key Bills",
-    "summary": "Goa Forward Party leader Vijai Sardesai has requested the Governor to withhold assent to the Land Acquisition and Ease of Doing Business amendment bills."
+    "category": "Tourism",
+    "headline": "Karnataka Explores Cruise and Houseboat Tourism to Goa",
+    "summary": "Karnataka is looking to boost tourism by launching cruise trips to Goa and establishing houseboats along its scenic coastline. The project is inspired by Kerala's highly successful houseboat model."
   },
   {
     "rank": 26,
     "category": "Civic",
-    "headline": "HC Demands Answers on Bondvol Lake Demarcation",
-    "summary": "The High Court of Bombay at Goa has directed the state government to submit its response regarding the pending demarcation of Bondvol Lake."
+    "headline": "Citizens Group Blames GCZMA for Failing to Protect Coastline",
+    "summary": "A local citizens group has accused the Goa Coastal Zone Management Authority of failing to safeguard the state's coastline. They are urging stronger action against environmental violations along the beaches."
   },
   {
     "rank": 27,
-    "category": "Politics",
-    "headline": "Sardesai Refuses to Promise Pre-Election Freebies",
-    "summary": "GFP President Vijai Sardesai announced that his party will not make unrealistic promises of freebies to voters ahead of the upcoming elections."
+    "category": "Civic",
+    "headline": "Groundwater Levels Drop in North Goa Coastal Belt",
+    "summary": "Recent reports indicate that North Goa's coastal belt is experiencing groundwater depletion despite the state overall maintaining a 'safe' status. The depletion raises concerns for local residents and tourism operators relying on the water supply."
   },
   {
     "rank": 28,
     "category": "Civic",
-    "headline": "HC Issues Notices Over King's Mansion CRZ Violations",
-    "summary": "The High Court has issued notices following allegations of Coastal Regulation Zone (CRZ) violations at the prominent King’s Mansion property."
+    "headline": "Reflective Tapes Mandatory on Commercial Vehicles",
+    "summary": "The Goa transport department will make reflective safety tapes mandatory for all commercial vehicles starting this October. The new rule is aimed at preventing road accidents during nighttime and low-visibility conditions."
   },
   {
     "rank": 29,
     "category": "Civic",
-    "headline": "Amit Shah Urges Goa to Prioritize Coastal Security",
-    "summary": "Union Home Minister Amit Shah has instructed Goa authorities to make coastal security an absolute top priority to prevent maritime threats."
+    "headline": "Salvador-Chorao Bridge Project Cleared by GCZMA",
+    "summary": "The Goa Coastal Zone Management Authority has approved the construction of the ₹250-crore Salvador-Chorao bridge. This development is expected to provide essential connectivity to the island's residents."
   },
   {
     "rank": 30,
-    "category": "Crime",
-    "headline": "Over 50 Foreign Nationals Detained in Visa Crackdown",
-    "summary": "Goa authorities have launched a strict crackdown on visa violators, resulting in the detention of 59 foreign nationals residing illegally in the state."
+    "category": "Business",
+    "headline": "Canacona Vegetable Vendors Demand Space in Margao",
+    "summary": "Women vegetable vendors from Canacona are seeking dedicated market space in Margao to sell their fresh produce. They highlighted the lack of proper selling zones, which severely impacts their livelihoods."
   },
   {
     "rank": 31,
-    "category": "Civic",
-    "headline": "Maharashtra Officials Ignore Court Child Begging Notices",
-    "summary": "Officials from Maharashtra have reportedly failed to respond to court notices regarding the rehabilitation of child beggars found operating in Goa."
+    "category": "Entertainment",
+    "headline": "FN Souza’s Painting Expected to Fetch ₹18 Crore",
+    "summary": "A prominent painting titled 'Christ in a Village' by renowned Goan artist FN Souza is set to be auctioned. It is estimated to fetch up to ₹18 crore due to its high historical and artistic value."
   },
   {
     "rank": 32,
     "category": "Civic",
-    "headline": "Harvard Students Study BioPods for Water Cleanup",
-    "summary": "A delegation of students from Harvard University is exploring the implementation of BioPods to address water pollution issues in Goa."
+    "headline": "Goa to Introduce Carbon Calculator for Panchayats",
+    "summary": "The Goa government is set to launch a carbon calculator as part of its initiative to make local panchayats carbon net-positive. This tool will help communities track and reduce their carbon footprint."
   },
   {
     "rank": 33,
-    "category": "General",
-    "headline": "Shoppers Opt for Local Handmade Festive Crafts",
-    "summary": "Festive shoppers in Goa are avoiding crowded markets to buy unique, handmade items directly from local artisans."
+    "category": "Politics",
+    "headline": "Amit Shah Chairs 28th Western Zonal Council Meeting",
+    "summary": "Union Home Minister Amit Shah presided over the 28th Western Zonal Council meeting during his visit to Goa. The conference brought together representatives of western states to discuss critical development and security agendas."
   },
   {
     "rank": 34,
-    "category": "General",
-    "headline": "Goa Capable of Becoming a Model State: Shah",
-    "summary": "Union Home Minister Amit Shah expressed confidence that Goa has the complete potential to develop into a model state for the rest of the country."
+    "category": "Politics",
+    "headline": "Eknath Shinde Discusses NDA Alliance Strategy in Goa",
+    "summary": "Maharashtra Chief Minister Eknath Shinde stated that the NDA's alliance strategy for Goa is still under discussion. He backed the partnership by highlighting that the BJP and Shiv Sena share the same ideological values."
   },
   {
     "rank": 35,
-    "category": "General",
-    "headline": "Traditional Clay Idol Demand Surges in Canacona",
-    "summary": "Local artisans in Canacona are experiencing busy days as demand rises for traditional eco-friendly clay idols ahead of festive celebrations."
+    "category": "Politics",
+    "headline": "Amit Shah Inaugurates Goa BJP Headquarters",
+    "summary": "Union Home Minister Amit Shah inaugurated the new BJP headquarters in Goa, but the event's celebrations were scaled down. The decision was made following a tragic building collapse in New Delhi."
   },
   {
     "rank": 36,
     "category": "Civic",
-    "headline": "Cabling and Beautification Nearly Done in Canacona",
-    "summary": "Speaker Ramesh Tawadkar announced that 95 percent of the underground cabling and beautification works in Canacona have been successfully completed."
+    "headline": "Goa Transport Staff Trained in Schedule Management",
+    "summary": "The North Western Karnataka Road Transport Corporation has provided professional training to Goa's transport staff on schedule management. This effort aims to optimize bus operations and transit efficiency."
   },
   {
     "rank": 37,
-    "category": "General",
-    "headline": "Farmers Angry Over Wild Elephant Menace",
-    "summary": "Local farmers have accused the Goa and Maharashtra governments of passing the buck while a wild elephant named 'Omkar' continues to damage crops in border areas."
+    "category": "Civic",
+    "headline": "Porvorim Flyover Expected to Divert 60 Percent of Traffic",
+    "summary": "The upcoming Porvorim flyover is projected to divert nearly 60 percent of vehicular traffic away from ground-level roads. This reduction is anticipated to significantly ease commuter congestion in the area."
   },
   {
     "rank": 38,
+    "category": "Politics",
+    "headline": "Goa Enacts Municipalities Amendment Act for Ward Delimitation",
+    "summary": "The state has enacted the Goa Municipalities Amendment Act, which introduces a revised process for delimiting municipal wards. This new process aims to bring more clarity and efficiency to local governance."
+  },
+  {
+    "rank": 39,
+    "category": "Politics",
+    "headline": "Amit Shah Attributes India's Growth to PM Modi’s Diplomacy",
+    "summary": "Union Home Minister Amit Shah credited Prime Minister Narendra Modi's diplomatic efforts for securing international recognition and contributing to India's 7.8 percent GDP growth. He shared these views during an event in Goa."
+  },
+  {
+    "rank": 40,
+    "category": "Politics",
+    "headline": "CM Sawant Accuses Opposition of Spreading Fake News",
+    "summary": "Goa Chief Minister Pramod Sawant has hit back at opposition parties, accusing them of generating fake propaganda. He defended his administration's performance and urged citizens to rely on official facts."
+  },
+  {
+    "rank": 41,
+    "category": "Crime",
+    "headline": "Goa Police Arrest GIM Student for Stabbing Host",
+    "summary": "Goa police have apprehended a student from the Goa Institute of Management for allegedly stabbing a hostel mate. The victim is receiving medical attention while police investigate the cause of the assault."
+  },
+  {
+    "rank": 42,
+    "category": "General",
+    "headline": "Prudent Media Airs Konkani Prime News on September 8",
+    "summary": "Prudent Media Goa broadcasted its daily Konkani Prime News bulletin for September 8. The program covered major regional developments, political events, and local administrative updates."
+  },
+  {
+    "rank": 43,
+    "category": "Business",
+    "headline": "CREDAI Urges Immediate Ease of Doing Business Reforms",
+    "summary": "The Confederation of Real Estate Developers' Associations of India (CREDAI) has urged Goa government departments to implement business-friendly reforms. They highlighted that streamlining approvals is crucial to supporting the local real estate sector."
+  },
+  {
+    "rank": 44,
+    "category": "General",
+    "headline": "Alleged Religious Conversions Spark Concern in Canca-Verla",
+    "summary": "Recent allegations of active religious conversions have raised concerns among residents in the Canca-Verla locality. Local authorities are closely monitoring the developments to ensure social peace is maintained."
+  },
+  {
+    "rank": 45,
+    "category": "General",
+    "headline": "Prudent Media Airs Konkani Prime News on September 7",
+    "summary": "Prudent Media Goa presented its daily Konkani Prime News update for September 7. The broadcast focused on key political, cultural, and community happenings in the state."
+  },
+  {
+    "rank": 46,
+    "category": "Politics",
+    "headline": "Amit Shah Pledges to Seal Myanmar Border to Block Drugs",
+    "summary": "Union Home Minister Amit Shah declared that the central government will completely seal the India-Myanmar border to stop drug trafficking. This measure is expected to deal a major blow to narcotics smuggling operations entering India."
+  },
+  {
+    "rank": 47,
     "category": "Civic",
-    "headline": "Bicholim to Receive New Comprehensive Master Plan",
-    "summary": "Chief Minister Pramod Sawant announced that a comprehensive master plan is being prepared for Bicholim to guide its development as the city expands."
+    "headline": "Porvorim Flyover Set for Major Traffic Test on Sept 11",
+    "summary": "Although construction of the Porvorim flyover is complete, authorities state that the ultimate test for traffic management will begin on September 11. Commuters are bracing for potential detours and adjustments during the initial phase."
+  },
+  {
+    "rank": 48,
+    "category": "Politics",
+    "headline": "Amit Shah Presides Over Western Zonal Council in Goa",
+    "summary": "Union Home Minister Amit Shah chaired the Western Zonal Council meeting in Goa, leading discussions on interstate cooperation and regional development. Senior leaders from western states attended the key policy conference."
+  },
+  {
+    "rank": 49,
+    "category": "Politics",
+    "headline": "Amit Shah Urges Goa to Prioritize Coastal Security",
+    "summary": "During his visit, Union Home Minister Amit Shah directed Goa's administration to elevate coastal security to a top-priority level. He emphasized that safeguarding the coastline is vital to keeping both the state and nation safe from illegal entry."
+  },
+  {
+    "rank": 50,
+    "category": "Crime",
+    "headline": "Goa Authorities Detain 59 Foreign Nationals for Visa Violations",
+    "summary": "In a sweeping crackdown against illegal residency, Goa police and immigration officers detained 59 foreigners for violating visa terms. The state intends to continue strict checks to regulate foreign tourist documentation."
   }
 ]
