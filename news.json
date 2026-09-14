@@ -1,302 +1,56 @@
 [
   {
     "rank": 1,
-    "category": "Politics",
-    "headline": "AAP, GFP Formalise Alliance for 2027",
-    "summary": "The Aam Aadmi Party and Goa Forward Party have officially teamed up, keeping doors open for other like-minded political forces."
+    "category": "Crime",
+    "headline": "Goa Club Fire Accused Surrender",
+    "summary": "The Luthra brothers surrendered before a court in Goa after the Supreme Court rejected their plea for bail. They have been remanded to judicial custody."
   },
   {
     "rank": 2,
-    "category": "Politics",
-    "headline": "Kejriwal Announces 'Goa First' Alliance",
-    "summary": "AAP leader Arvind Kejriwal has announced a new political alliance with the Goa Forward Party, named 'Goa First'."
+    "category": "Crime",
+    "headline": "Club Owners Surrender After Bail Rejection",
+    "summary": "Three primary accused in the Goa nightclub fire case surrendered following a previous Supreme Court order denying them relief. They appeared before the Mapusa court."
   },
   {
     "rank": 3,
-    "category": "Politics",
-    "headline": "Congress Claims Talks with GFP Ongoing",
-    "summary": "Amid speculation of an AAP-GFP alliance, the Goa Congress stated that discussions are still ongoing with Vijai Sardesai's outfit."
+    "category": "Crime",
+    "headline": "Tarun Tejpal Surrenders in Goa",
+    "summary": "Former Tehelka editor-in-chief Tarun Tejpal surrendered before a Goa court following a Supreme Court directive in his 2013 rape case. He was subsequently sent to jail to serve his sentence."
   },
   {
     "rank": 4,
-    "category": "Civic",
-    "headline": "Vijai Blames Hasty Flyover Opening for Deaths",
-    "summary": "GFP leader Vijai Sardesai claimed the Porvorim flyover was opened in haste, leading to fatal accidents due to poor infrastructure planning."
+    "category": "Politics",
+    "headline": "AAP and Goa Forward Party Form Alliance",
+    "summary": "The Aam Aadmi Party and the Goa Forward Party have formally announced a pre-poll tie-up for the 2027 Goa Assembly elections. Both parties stated that they are keeping their doors open for other like-minded forces."
   },
   {
     "rank": 5,
     "category": "Civic",
-    "headline": "Restrictions Placed on Porvorim Elevated Corridor",
-    "summary": "Authorities have restricted usage on Goa's newly opened elevated corridor after a series of mishaps claimed two lives just days after its inauguration."
+    "headline": "Traffic Restrictions on Porvorim Corridor",
+    "summary": "Authorities have restricted traffic and banned two-wheelers on the newly inaugurated Porvorim elevated corridor following fatal accidents. The move comes just days after the infrastructure project was opened."
   },
   {
     "rank": 6,
     "category": "Politics",
-    "headline": "Call for Kamat’s Resignation Over Flyover Safety",
-    "summary": "Congress leader Girish Chodankar has demanded Digambar Kamat’s resignation and called for an independent investigation into the safety of the Porvorim flyover."
+    "headline": "Goa Anti-Conversion Bill Withdrawn",
+    "summary": "The Goa government has pulled back on its proposed anti-conversion bill. Critics and observers questioned the necessity of the legislation."
   },
   {
     "rank": 7,
-    "category": "Crime",
-    "headline": "Fourth Suspect in Porvorim Shooting Arrested",
-    "summary": "Uttar Pradesh police have apprehended a fourth suspect linked to the recent shooting incident in Porvorim."
+    "category": "Culture",
+    "headline": "Goa Celebrates Chovoth",
+    "summary": "Families across Goa are celebrating the festival of Chovoth by welcoming Lord Ganesha into their homes. The five-day celebration highlights faith and traditions throughout the region."
   },
   {
     "rank": 8,
-    "category": "Crime",
-    "headline": "Porvorim Hotel Shooter Apprehended in UP",
-    "summary": "The prime suspect in the Goa hotel shooting has been arrested in Bahraich, Uttar Pradesh."
+    "category": "Business",
+    "headline": "Pilot Project to Electrify Fishing Canoes",
+    "summary": "A new pilot initiative in Goa aims to transition traditional fishing canoes to electric power. Fifty vessels have been selected to be electrified under the project."
   },
   {
     "rank": 9,
-    "category": "Crime",
-    "headline": "Alleged Goa Shooter Arrested Near Nepal Border",
-    "summary": "The Uttar Pradesh Special Task Force arrested the alleged Porvorim hotel shooter in Bahraich as he was attempting to escape to Nepal."
-  },
-  {
-    "rank": 10,
-    "category": "General",
-    "headline": "Eco-Friendly Ganesh Chaturthi Begins in Goa",
-    "summary": "The festival of Ganesh Chaturthi, locally known as Chovoth, has commenced across Goa with vibrant colors, chants, and eco-friendly practices."
-  },
-  {
-    "rank": 11,
-    "category": "Entertainment",
-    "headline": "Sameera Reddy Enjoys Family Vacation in Goa",
-    "summary": "Actress Sameera Reddy shared moments from her relaxing family getaway in Goa with her children."
-  },
-  {
-    "rank": 12,
-    "category": "Politics",
-    "headline": "RGP Unveils New District Executive Committees",
-    "summary": "The Revolutionary Goans Party (RGP) has announced its newly formed district executive committees to strengthen its structural presence."
-  },
-  {
-    "rank": 13,
-    "category": "Politics",
-    "headline": "Vijai Sardesai Teams Up with Kejriwal for 2027",
-    "summary": "Political heavyweight Vijai Sardesai has joined forces with AAP leader Arvind Kejriwal to build a front against the BJP for the 2027 Goa elections."
-  },
-  {
-    "rank": 14,
-    "category": "Business",
-    "headline": "FLY91 Founder on Running Goa-Based Airline",
-    "summary": "Manoj Chacko, founder of regional airline FLY91, shared his journey of turning into an entrepreneur at age 52 and establishing airline operations in Goa."
-  },
-  {
-    "rank": 15,
-    "category": "Crime",
-    "headline": "Joint Operation Nets Porvorim Firing Suspect",
-    "summary": "A joint operation by the UP Special Task Force and the Goa Crime Branch led to the arrest of the suspected shooter in the Porvorim firing case."
-  },
-  {
-    "rank": 16,
-    "category": "Crime",
-    "headline": "Crime Branch Rejects 'Staged' Attack Theory",
-    "summary": "The Goa Crime Branch has dismissed claims made by the absconding shooter that the firing incident was a staged attack."
-  },
-  {
-    "rank": 17,
-    "category": "Politics",
-    "headline": "Kejriwal Visits Goa with Major Announcement Teaser",
-    "summary": "AAP national convener Arvind Kejriwal traveled to Goa with the promise of making a significant political announcement."
-  },
-  {
-    "rank": 18,
-    "category": "Politics",
-    "headline": "'Goa First' Alliance Formed for 2027 Elections",
-    "summary": "AAP and the Goa Forward Party have officially allied under the name 'Goa First' to contest the 2027 state elections."
-  },
-  {
-    "rank": 19,
-    "category": "Politics",
-    "headline": "AAP and GFP Unite Under 'Goa First'",
-    "summary": "To take on rival parties in the 2027 state assembly polls, AAP and GFP have announced their new 'Goa First' coalition."
-  },
-  {
-    "rank": 20,
-    "category": "Politics",
-    "headline": "GFP Chooses AAP Over Congress for 2027",
-    "summary": "The Goa Forward Party has chosen to partner with AAP instead of the Congress, forming the 'Goa First' alliance for the upcoming 2027 assembly elections."
-  },
-  {
-    "rank": 21,
-    "category": "Politics",
-    "headline": "AAP-GFP Set to Launch 'Goa First' Coalition",
-    "summary": "Ahead of the next state assembly elections, AAP and GFP are preparing to formalize their 'Goa First Alliance'."
-  },
-  {
-    "rank": 22,
-    "category": "Politics",
-    "headline": "AAP and GFP Confirm 2027 Electoral Pact",
-    "summary": "In a major political development, AAP and GFP have formally declared their alliance, 'Goa First', to fight the 2027 assembly elections."
-  },
-  {
-    "rank": 23,
-    "category": "Politics",
-    "headline": "'Goa First' Promoted as Credible and Honest Option",
-    "summary": "Announcing their alliance for the 2027 polls, leaders have pitched the AAP-GFP 'Goa First' coalition as a highly credible and honest alternative for the state."
-  },
-  {
-    "rank": 24,
-    "category": "Politics",
-    "headline": "'Goa First' Alliance Unveiled for 2027",
-    "summary": "AAP and GFP have unveiled their strategic partnership, 'Goa First', mapping out a joint path for the 2027 Goa assembly elections."
-  },
-  {
-    "rank": 25,
-    "category": "Politics",
-    "headline": "New Political Alliance Formed for 2027 State Polls",
-    "summary": "AAP and the Goa Forward Party have launched the 'Goa First' alliance, setting the stage for the 2027 assembly elections."
-  },
-  {
-    "rank": 26,
-    "category": "Politics",
-    "headline": "AAP-GFP Form 2027 Assembly Polls Alliance",
-    "summary": "The Aam Aadmi Party and the Goa Forward Party have announced their official alliance for the 2027 Goa assembly polls."
-  },
-  {
-    "rank": 27,
-    "category": "Civic",
-    "headline": "Two-Wheelers Banned on New Elevated Corridor",
-    "summary": "The state government has prohibited two-wheelers on the Porvorim elevated corridor and blocked its main entry and exit points due to safety concerns."
-  },
-  {
-    "rank": 28,
-    "category": "Civic",
-    "headline": "FDA Cracks Down on Sweet Units Before Chaturthi",
-    "summary": "The Food and Drugs Administration (FDA) has carried out a series of inspections on local sweet and farsan manufacturing units in Goa ahead of Ganesh Chaturthi."
-  },
-  {
-    "rank": 29,
-    "category": "Civic",
-    "headline": "Commuters Complain Over Major Traffic Gridlock",
-    "summary": "Motorists have highlighted key infrastructure bottlenecks following a severe 90-minute traffic jam in the state."
-  },
-  {
-    "rank": 30,
-    "category": "Crime",
-    "headline": "Ashtagandha Society Case Accused Granted Bail",
-    "summary": "A local court has granted bail to an accused individual involved in the Ashtagandha society case."
-  },
-  {
-    "rank": 31,
-    "category": "General",
-    "headline": "Moringa Gains Popularity as Local Superfood",
-    "summary": "Moringa is becoming increasingly popular across Goa as residents adopt it as a nutrient-rich superfood."
-  },
-  {
-    "rank": 32,
-    "category": "Civic",
-    "headline": "Two Killed in Crash on Porvorim Elevated Corridor",
-    "summary": "A tragic road accident on the newly inaugurated Porvorim elevated corridor has resulted in the deaths of two individuals."
-  },
-  {
-    "rank": 33,
     "category": "Weather",
-    "headline": "Reservoirs Half-Empty as Monsoon Nears End",
-    "summary": "Despite the monsoon entering its final leg, water reservoirs across Goa are yet to reach their full capacity."
-  },
-  {
-    "rank": 34,
-    "category": "General",
-    "headline": "Savoi Verem's Red Ganesha Keeps Legacy Alive",
-    "summary": "The traditional installation of the Red Ganesha idol in Savoi Verem continues to keep the historic warrior legacy of the region alive."
-  },
-  {
-    "rank": 35,
-    "category": "Civic",
-    "headline": "No New Deadline Set for Forest Rights Claims",
-    "summary": "The state government has decided not to set a new deadline for the settlement of 4,467 pending claims under the Forest Rights Act (FRA)."
-  },
-  {
-    "rank": 36,
-    "category": "Civic",
-    "headline": "Fatal Crash on Porvorim Flyover Claims Two Lives",
-    "summary": "A severe accident on the Porvorim flyover resulted in the deaths of two individuals, raising serious safety concerns."
-  },
-  {
-    "rank": 37,
-    "category": "Crime",
-    "headline": "Goa Police Issue Rules on Identification Tests",
-    "summary": "The Goa police department has instructed investigating officers (IOs) to strictly conduct test identification parades whenever deemed necessary for cases."
-  },
-  {
-    "rank": 38,
-    "category": "General",
-    "headline": "Addressing the Pain of Suicide Bereavement",
-    "summary": "A look into the deeply personal and often unaddressed psychological trauma experienced by families coping with suicide bereavement in Goa."
-  },
-  {
-    "rank": 39,
-    "category": "Business",
-    "headline": "Goan Techies Launch Initiative to Bypass Middlemen",
-    "summary": "Two young Goan software engineers have initiated a direct-to-consumer coconut venture to help local farmers bypass exploitative middlemen."
-  },
-  {
-    "rank": 40,
-    "category": "Weather",
-    "headline": "September Rain Deficit in Goa Exceeds National Average",
-    "summary": "Goa recorded only 83mm of rainfall in September, leaving the state with a dry spell and a higher deficit compared to the rest of India."
-  },
-  {
-    "rank": 41,
-    "category": "General",
-    "headline": "Ponda’s Festive Market Buzzes with Matoli Stalls",
-    "summary": "Ponda's Chavticho bazaar has come alive with over 100 stalls selling traditional matoli items used for Ganesh Chaturthi celebrations."
-  },
-  {
-    "rank": 42,
-    "category": "Civic",
-    "headline": "Special Traffic Plan Implemented for Bicholim Market",
-    "summary": "Authorities have introduced a specialized traffic management plan in Bicholim market to handle the festive rush ahead of Ganesh Chaturthi."
-  },
-  {
-    "rank": 43,
-    "category": "Civic",
-    "headline": "Goa to Map Strays and Pets Ward-Wise",
-    "summary": "The Goa government plans to conduct a comprehensive ward-wise mapping of stray dogs, domesticated pets, and stray cattle across the state."
-  },
-  {
-    "rank": 44,
-    "category": "General",
-    "headline": "Renowned Konkani Writer Bhatikar Passes Away",
-    "summary": "Prominent Konkani writer and translator Bhatikar has passed away at the age of 85, leaving behind a rich literary legacy."
-  },
-  {
-    "rank": 45,
-    "category": "General",
-    "headline": "Exploring Goa's Hidden Ganesh Chaturthi Traditions",
-    "summary": "A special feature highlights the unique and lesser-known cultural rituals practiced by various Goan families during the Chaturthi festival."
-  },
-  {
-    "rank": 46,
-    "category": "Tourism",
-    "headline": "Luxury Accommodations Become Affordable in Goa",
-    "summary": "Ahead of the peak tourism season, high-end luxury stays in Goa are offering highly competitive and affordable rates to attract travelers."
-  },
-  {
-    "rank": 47,
-    "category": "Crime",
-    "headline": "Congress Demands Increased Security for Festivals",
-    "summary": "The Congress party has urged Goa police to step up patrolling and security across the state during the busy festive period."
-  },
-  {
-    "rank": 48,
-    "category": "Crime",
-    "headline": "Illegal Bullfights Continue in Salcete",
-    "summary": "Despite bans and restrictions, illegal bullfights reportedly continue to take place unchecked in various parts of Salcete."
-  },
-  {
-    "rank": 49,
-    "category": "Politics",
-    "headline": "Profiling GFP Leader Vijai Sardesai",
-    "summary": "A look at the political journey of Vijai Sardesai, from Youth Congress chief to BJP ally, and now leading the GFP into the 'Goa First' alliance with AAP."
-  },
-  {
-    "rank": 50,
-    "category": "Business",
-    "headline": "Electrification Pilot Project for 50 Fishing Canoes",
-    "summary": "Under a new sustainable pilot initiative, 50 traditional fishing canoes in Goa are set to be converted to run on electricity."
+    "headline": "Goa Reservoirs Below Capacity",
+    "summary": "As the monsoon enters its final leg, reservoirs across Goa have not yet reached full capacity. Water levels remain a point of observation for authorities."
   }
 ]
