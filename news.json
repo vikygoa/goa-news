@@ -2,61 +2,301 @@
   {
     "rank": 1,
     "category": "Crime",
-    "headline": "Nightclub Fire Accused Surrender in Goa",
-    "summary": "Three main accused in the Birch nightclub fire case, including the co-owners, have surrendered before a Mapusa court. This development follows the Supreme Court's decision to reject their bail pleas and cancel their relief."
+    "headline": "Nightclub Fire Accused Surrender",
+    "summary": "The accused individuals connected to the Goa nightclub fire surrendered following the Supreme Court's decision to deny them further relief. They presented themselves to authorities after their bail pleas were rejected."
   },
   {
     "rank": 2,
     "category": "Crime",
-    "headline": "Tarun Tejpal Surrenders in Rape Case",
-    "summary": "Former Tehelka editor-in-chief Tarun Tejpal has surrendered before a Goa court in connection with a 2013 sexual assault case. Following his surrender, he was taken into custody and sent to Colvale jail to begin his sentence."
+    "headline": "Luthra Brothers Surrender",
+    "summary": "The Luthra brothers surrendered before a local court following a bail setback in the Goa nightclub fire case. Their surrender comes after the Supreme Court cancelled their protective bail."
   },
   {
     "rank": 3,
-    "category": "Politics",
-    "headline": "AAP and GFP Form 'Goa First' Alliance",
-    "summary": "The Aam Aadmi Party and the Goa Forward Party have announced a pre-poll alliance named 'Goa First' for the 2027 Assembly elections. Leaders stated that they are keeping their doors open for other like-minded political forces."
+    "category": "Crime",
+    "headline": "Nightclub Fire Suspects Turn Themselves In",
+    "summary": "Key accused individuals in the Goa nightclub fire incident surrendered following the cancellation of their bail by the Supreme Court. They were subsequently sent to judicial custody."
   },
   {
     "rank": 4,
-    "category": "General",
-    "headline": "Goa Celebrates Ganesh Chaturthi with Devotion",
-    "summary": "The festive season of Chovoth has begun in Goa with families welcoming Lord Ganesha using eco-friendly traditions. Chief Minister Pramod Sawant also joined the celebrations at his ancestral home."
+    "category": "Crime",
+    "headline": "Tarun Tejpal Surrenders in Goa",
+    "summary": "Former Tehelka editor Tarun Tejpal surrendered before a Goa court following a directive from the top court. He faces imprisonment in connection with a 2013 rape case."
   },
   {
     "rank": 5,
-    "category": "Civic",
-    "headline": "Restrictions Imposed on New Porvorim Flyover",
-    "summary": "The Goa government has restricted traffic and banned two-wheelers on the newly opened Porvorim elevated corridor. The safety measures were implemented following fatal accidents on the flyover just days after its inauguration."
+    "category": "Crime",
+    "headline": "Tehelka Founder Surrenders",
+    "summary": "Tarun Tejpal surrendered to authorities in Goa to serve his sentence in a 2013 rape case. The action followed directives from the Supreme Court."
   },
   {
     "rank": 6,
-    "category": "Civic",
-    "headline": "Pilot Project to Electrify 50 Fishing Canoes",
-    "summary": "A new pilot project in Goa will see the electrification of 50 fishing canoes. This initiative aims to transition traditional fishing vessels towards cleaner, sustainable energy sources."
+    "category": "Crime",
+    "headline": "Tarun Tejpal Sent to Jail",
+    "summary": "A Goa court sent Tehelka founder Tarun Tejpal to jail after he formally surrendered. The surrender followed orders from the highest court regarding his 2013 conviction."
   },
   {
     "rank": 7,
-    "category": "Weather",
-    "headline": "Goa Faces Stormy Monsoon Weather",
-    "summary": "Goa is experiencing severe monsoon weather with forecasts predicting seven days of heavy rain, storms, and turbulent conditions. The active spells coincide with the state's traditional festive celebrations."
+    "category": "Politics",
+    "headline": "AAP and GFP Form Alliance",
+    "summary": "Arvind Kejriwal announced a new political alliance between the Aam Aadmi Party and the Goa Forward Party called 'Goa First'. The partnership aims to contest upcoming assembly polls."
   },
   {
     "rank": 8,
-    "category": "Crime",
-    "headline": "Goa Land Purchase Linked to Bank Scam",
-    "summary": "An investigation into an IDFC First Bank scam has revealed that Rs 80 lakh of the defrauded money was used to purchase land in Goa. The transaction is currently under investigation by law enforcement."
+    "category": "Politics",
+    "headline": "AAP and GFP Announce 2027 Pact",
+    "summary": "The Aam Aadmi Party and the Goa Forward Party have officially announced a pre-poll alliance for the 2027 Assembly elections. Leaders stated the partnership aims to provide a credible alternative."
   },
   {
     "rank": 9,
-    "category": "General",
-    "headline": "Moringa Cultivation Expands in Goa",
-    "summary": "Moringa is increasingly being grown in Goa as local farmers and consumers embrace it as a nutrient-rich superfood. This shift highlights a rising demand for healthy, sustainable agricultural products."
+    "category": "Politics",
+    "headline": "Analysis of AAP-GFP Tie-Up",
+    "summary": "Political observers examine what Vijai Sardesai and the Goa Forward Party bring to the table following their alliance with AAP. The collaboration seeks to reshape the political landscape ahead of the elections."
   },
   {
     "rank": 10,
+    "category": "Civic",
+    "headline": "Goa Corridor Restrictions Imposed",
+    "summary": "Authorities restricted the use of a newly opened Goa elevated corridor following fatal accidents shortly after its inauguration. The measures include safety bans to curb further mishaps."
+  },
+  {
+    "rank": 11,
+    "category": "Politics",
+    "headline": "Criticism Over Flyover Inauguration",
+    "summary": "GFP leader Vijai Sardesai criticized the rushed inauguration of the Porvorim flyover following fatal accidents on the new infrastructure. He blamed hasty planning for the tragic incidents."
+  },
+  {
+    "rank": 12,
+    "category": "Crime",
+    "headline": "Fatal Crash on Porvorim Flyover",
+    "summary": "Two people were killed in a tragic crash on the Porvorim flyover just days after its opening. The incident has sparked immediate safety concerns and traffic restrictions."
+  },
+  {
+    "rank": 13,
+    "category": "Crime",
+    "headline": "Nightclub Accused Surrender in Mapusa",
+    "summary": "Three main accused in the Goa nightclub fire surrendered before the Mapusa court. The legal move came two weeks after the Supreme Court dismissed their protection pleas."
+  },
+  {
+    "rank": 14,
+    "category": "General",
+    "headline": "Ganesha Festivities Bring Hope",
+    "summary": "Celebrations for Lord Ganesha brought a spirit of hope and positivity to devotees from Gurgaon to Goa. The five-day festival saw communities coming together in faith."
+  },
+  {
+    "rank": 15,
+    "category": "Politics",
+    "headline": "Congress Slams AAP-GFP Tie-Up",
+    "summary": "The Congress party criticized the newly formed pre-poll alliance between AAP and the Goa Forward Party. Congress claimed the partnership is a tacit understanding with the BJP."
+  },
+  {
+    "rank": 16,
+    "category": "Crime",
+    "headline": "Tejpal Taken Into Police Custody",
+    "summary": "Tarun Tejpal was taken into police custody after surrendering before a Goa court. He is set to serve his sentence following the Supreme Court's verdict."
+  },
+  {
+    "rank": 17,
+    "category": "Politics",
+    "headline": "Pre-Poll Tie-Up Draws Criticism",
+    "summary": "The AAP and Goa Forward Party alliance for the 2027 assembly elections drew sharp reactions from opposition parties. Congress hit back at the coalition, questioning its political motives."
+  },
+  {
+    "rank": 18,
+    "category": "Civic",
+    "headline": "Pilot Project to Electrify Canoes",
+    "summary": "A pilot initiative in Goa aims to electrify 50 fishing canoes to promote sustainable practices. The project focuses on modernizing local traditional fishing methods."
+  },
+  {
+    "rank": 19,
+    "category": "Business",
+    "headline": "Bank Holiday Status Across Regions",
+    "summary": "Banks remain closed in select states for specific regional holidays, prompting queries from citizens. Customers checked state-wise lists regarding operational hours."
+  },
+  {
+    "rank": 20,
     "category": "Weather",
-    "headline": "Goa Reservoirs Below Capacity as Monsoon Winds Down",
-    "summary": "Goa's reservoirs have not yet filled to capacity even as the monsoon season enters its final phase. Water levels remain a point of observation for state authorities."
+    "headline": "Monsoon Rains and Ganesha Fest",
+    "summary": "Goa experienced heavy monsoon rains alongside the five-day Ganesha celebrations. The downpour marked another wet spell across the region during festive days."
+  },
+  {
+    "rank": 21,
+    "category": "Crime",
+    "headline": "Land Purchase Linked to Bank Scam",
+    "summary": "Investigations into the IDFC First Bank scam revealed that Rs 80 lakh was utilized to purchase land in Goa. Authorities are probing the financial transactions involved."
+  },
+  {
+    "rank": 22,
+    "category": "Crime",
+    "headline": "Tejpal Begins 10-Year Sentence",
+    "summary": "Tarun Tejpal surrendered in a Goa court to begin serving his 10-year rape sentence. The legal proceedings concluded following the Supreme Court's dismissal of relief."
+  },
+  {
+    "rank": 23,
+    "category": "Politics",
+    "headline": "AAP and GFP Launch 'Goa First'",
+    "summary": "AAP and the Goa Forward Party formalized their political partnership under the banner of 'Goa First'. Leaders emphasized their readiness for the upcoming electoral battle."
+  },
+  {
+    "rank": 24,
+    "category": "Politics",
+    "headline": "Profile of Vijai Sardesai",
+    "summary": "An overview traces Vijai Sardesai's political journey from Youth Congress president to a BJP ally, and now heading the GFP into an alliance with AAP. The move marks another shift in Goa's political dynamics."
+  },
+  {
+    "rank": 25,
+    "category": "Crime",
+    "headline": "Romeo Lane Owners Surrender",
+    "summary": "Owners of the Birch by Romeo Lane nightclub surrendered before a Goa court after facing a bail setback from the Supreme Court. They are implicated in the recent nightclub fire."
+  },
+  {
+    "rank": 26,
+    "category": "Crime",
+    "headline": "Tehelka Founder Sent to Jail",
+    "summary": "Tarun Tejpal surrendered before a Goa court following his rape conviction and was subsequently sent to jail. The action enforces the judiciary's finalized sentencing."
+  },
+  {
+    "rank": 27,
+    "category": "Politics",
+    "headline": "AAP-GFP Alliance Pledges Credibility",
+    "summary": "The newly announced AAP and GFP 'Goa First' alliance aims to provide a credible alternative in the 2027 polls. Coalition leaders highlighted their honest governance agenda."
+  },
+  {
+    "rank": 28,
+    "category": "Crime",
+    "headline": "Tejpal Lodged in Colvale Jail",
+    "summary": "Tarun Tejpal surrendered in court and was transferred to Colvale Jail to serve his sentence. He will serve a 10-year term following the rejection of his legal appeals."
+  },
+  {
+    "rank": 29,
+    "category": "Crime",
+    "headline": "Former Editor Surrenders in Court",
+    "summary": "Former Tehelka editor-in-chief Tarun Tejpal surrendered in a Goa court regarding the 2013 case. His surrender follows orders upholding his conviction."
+  },
+  {
+    "rank": 30,
+    "category": "Crime",
+    "headline": "Tejpal Surrenders to Serve Term",
+    "summary": "Tarun Tejpal surrendered before local authorities to begin serving his 10-year prison sentence. The legal process followed the upholding of his conviction."
+  },
+  {
+    "rank": 31,
+    "category": "Crime",
+    "headline": "Nightclub Fire Accused Surrender After SC Order",
+    "summary": "Three main accused in the Goa nightclub fire surrendered in court following the Supreme Court's rejection of their bail. Judicial proceedings against them will now continue."
+  },
+  {
+    "rank": 32,
+    "category": "Politics",
+    "headline": "AAP and GFP Announce Pre-Poll Alliance",
+    "summary": "AAP and the Goa Forward Party announced their electoral partnership ahead of the 2027 assembly elections. The alliance left the door open for other like-minded political entities."
+  },
+  {
+    "rank": 33,
+    "category": "Crime",
+    "headline": "Tejpal Surrenders in Local Court",
+    "summary": "Former media executive Tarun Tejpal surrendered before a Goa court to comply with legal mandates. He was subsequently taken into custody."
+  },
+  {
+    "rank": 34,
+    "category": "Crime",
+    "headline": "Club Fire Accused Sent to Custody",
+    "summary": "The Luthra brothers surrendered to a Goa court following the Supreme Court's refusal to grant them bail. They were remanded to judicial custody over the nightclub fire incident."
+  },
+  {
+    "rank": 35,
+    "category": "Crime",
+    "headline": "Birch Nightclub Accused Surrender",
+    "summary": "The main accused in the Birch nightclub fire surrendered in a Goa court after exhausting legal remedies. The Supreme Court had earlier rejected their pleas for anticipatory bail."
+  },
+  {
+    "rank": 36,
+    "category": "Politics",
+    "headline": "Debate Over Goa's Political Alternative",
+    "summary": "Media analyses focus on the evolving dynamics between AAP and Congress in Goa. Discussions center on who will emerge as the primary political alternative in 2027."
+  },
+  {
+    "rank": 37,
+    "category": "Business",
+    "headline": "Novotel Appoints New Director of Finance",
+    "summary": "Novotel Goa Resort & Spa and Novotel Goa Candolim announced the appointment of Kumar Rathod as their new director of finance. He will manage financial operations across the properties."
+  },
+  {
+    "rank": 38,
+    "category": "Civic",
+    "headline": "Two-Wheelers Banned on Corridor",
+    "summary": "The Goa government restricted access to the Porvorim elevated corridor and banned two-wheelers following fatal accidents. The restrictions come shortly after the infrastructure's inauguration."
+  },
+  {
+    "rank": 39,
+    "category": "Crime",
+    "headline": "Tejpal Sent to Colvale Jail",
+    "summary": "Tarun Tejpal was transferred to Colvale Jail after surrendering in Goa. The Supreme Court is scheduled to hear his ongoing appeals against his conviction."
+  },
+  {
+    "rank": 40,
+    "category": "Crime",
+    "headline": "Nightclub Accused Surrender in Mapusa",
+    "summary": "Three primary accused in the Goa nightclub fire surrendered in a Mapusa court. The legal compliance followed the Supreme Court's directive denying them relief."
+  },
+  {
+    "rank": 41,
+    "category": "Crime",
+    "headline": "Tejpal Surrenders Following SC Order",
+    "summary": "Tarun Tejpal surrendered before a Goa court in compliance with a Supreme Court order. He will serve his sentence stemming from the 2013 rape case."
+  },
+  {
+    "rank": 42,
+    "category": "Crime",
+    "headline": "Tarun Tejpal Begins Sentence",
+    "summary": "Former editor Tarun Tejpal surrendered before a Goa court to serve his 10-year prison sentence. Authorities immediately took him into custody following the legal proceedings."
+  },
+  {
+    "rank": 43,
+    "category": "Politics",
+    "headline": "AAP and GFP Formalize Tie-Up",
+    "summary": "AAP and the Goa Forward Party formalized their pre-poll alliance while welcoming other like-minded parties. The coalition aims to consolidate opposition votes for the 2027 elections."
+  },
+  {
+    "rank": 44,
+    "category": "Civic",
+    "headline": "Traffic Restrictions on Porvorim Corridor",
+    "summary": "The Goa government enacted traffic restrictions on the newly opened Porvorim elevated corridor. Officials barred two-wheelers and modified entry points following safety concerns."
+  },
+  {
+    "rank": 45,
+    "category": "Civic",
+    "headline": "Porvorim Corridor Enters Test Mode",
+    "summary": "Authorities put the Porvorim elevated corridor into traffic-test mode following recent accidents and subsequent restrictions. The trial aims to evaluate safety and traffic flow."
+  },
+  {
+    "rank": 46,
+    "category": "Crime",
+    "headline": "Fatal Accident Near Merces Circle",
+    "summary": "A pillion rider lost their life in a road accident near the Merces circle. Local authorities have registered the incident and are investigating the crash."
+  },
+  {
+    "rank": 47,
+    "category": "Weather",
+    "headline": "Goa Reservoirs Below Capacity",
+    "summary": "Goa's reservoirs remain unfilled as the monsoon season enters its final phase. Authorities are monitoring water levels across the state as rainfall patterns fluctuate."
+  },
+  {
+    "rank": 48,
+    "category": "Crime",
+    "headline": "Tejpal Surrenders in Mapusa Court",
+    "summary": "Tarun Tejpal surrendered before the Mapusa court in connection with the 2013 rape case. The surrender marks the implementation of his judicial sentencing."
+  },
+  {
+    "rank": 49,
+    "category": "Civic",
+    "headline": "Transport Dept Eyes AI Compliance",
+    "summary": "Goa's transport department is considering using AI-powered traffic cameras to enforce High Security Registration Plate compliance. The move aims to automate vehicle regulation across the state."
+  },
+  {
+    "rank": 50,
+    "category": "General",
+    "headline": "Red Ganesha Tradition at Savoi Verem",
+    "summary": "The unique tradition of the Red Ganesha continues to preserve local warrior heritage in Savoi Verem. Families gathered to celebrate the festival with deep-rooted cultural customs."
   }
 ]
