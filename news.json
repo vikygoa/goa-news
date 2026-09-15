@@ -2,55 +2,61 @@
   {
     "rank": 1,
     "category": "Crime",
-    "headline": "Goa Club Fire Accused Surrender",
-    "summary": "The Luthra brothers surrendered before a court in Goa after the Supreme Court rejected their plea for bail. They have been remanded to judicial custody."
+    "headline": "Nightclub Fire Accused Surrender in Goa",
+    "summary": "Three main accused in the Birch nightclub fire case, including the co-owners, have surrendered before a Mapusa court. This development follows the Supreme Court's decision to reject their bail pleas and cancel their relief."
   },
   {
     "rank": 2,
     "category": "Crime",
-    "headline": "Club Owners Surrender After Bail Rejection",
-    "summary": "Three primary accused in the Goa nightclub fire case surrendered following a previous Supreme Court order denying them relief. They appeared before the Mapusa court."
+    "headline": "Tarun Tejpal Surrenders in Rape Case",
+    "summary": "Former Tehelka editor-in-chief Tarun Tejpal has surrendered before a Goa court in connection with a 2013 sexual assault case. Following his surrender, he was taken into custody and sent to Colvale jail to begin his sentence."
   },
   {
     "rank": 3,
-    "category": "Crime",
-    "headline": "Tarun Tejpal Surrenders in Goa",
-    "summary": "Former Tehelka editor-in-chief Tarun Tejpal surrendered before a Goa court following a Supreme Court directive in his 2013 rape case. He was subsequently sent to jail to serve his sentence."
+    "category": "Politics",
+    "headline": "AAP and GFP Form 'Goa First' Alliance",
+    "summary": "The Aam Aadmi Party and the Goa Forward Party have announced a pre-poll alliance named 'Goa First' for the 2027 Assembly elections. Leaders stated that they are keeping their doors open for other like-minded political forces."
   },
   {
     "rank": 4,
-    "category": "Politics",
-    "headline": "AAP and Goa Forward Party Form Alliance",
-    "summary": "The Aam Aadmi Party and the Goa Forward Party have formally announced a pre-poll tie-up for the 2027 Goa Assembly elections. Both parties stated that they are keeping their doors open for other like-minded forces."
+    "category": "General",
+    "headline": "Goa Celebrates Ganesh Chaturthi with Devotion",
+    "summary": "The festive season of Chovoth has begun in Goa with families welcoming Lord Ganesha using eco-friendly traditions. Chief Minister Pramod Sawant also joined the celebrations at his ancestral home."
   },
   {
     "rank": 5,
     "category": "Civic",
-    "headline": "Traffic Restrictions on Porvorim Corridor",
-    "summary": "Authorities have restricted traffic and banned two-wheelers on the newly inaugurated Porvorim elevated corridor following fatal accidents. The move comes just days after the infrastructure project was opened."
+    "headline": "Restrictions Imposed on New Porvorim Flyover",
+    "summary": "The Goa government has restricted traffic and banned two-wheelers on the newly opened Porvorim elevated corridor. The safety measures were implemented following fatal accidents on the flyover just days after its inauguration."
   },
   {
     "rank": 6,
-    "category": "Politics",
-    "headline": "Goa Anti-Conversion Bill Withdrawn",
-    "summary": "The Goa government has pulled back on its proposed anti-conversion bill. Critics and observers questioned the necessity of the legislation."
+    "category": "Civic",
+    "headline": "Pilot Project to Electrify 50 Fishing Canoes",
+    "summary": "A new pilot project in Goa will see the electrification of 50 fishing canoes. This initiative aims to transition traditional fishing vessels towards cleaner, sustainable energy sources."
   },
   {
     "rank": 7,
-    "category": "Culture",
-    "headline": "Goa Celebrates Chovoth",
-    "summary": "Families across Goa are celebrating the festival of Chovoth by welcoming Lord Ganesha into their homes. The five-day celebration highlights faith and traditions throughout the region."
+    "category": "Weather",
+    "headline": "Goa Faces Stormy Monsoon Weather",
+    "summary": "Goa is experiencing severe monsoon weather with forecasts predicting seven days of heavy rain, storms, and turbulent conditions. The active spells coincide with the state's traditional festive celebrations."
   },
   {
     "rank": 8,
-    "category": "Business",
-    "headline": "Pilot Project to Electrify Fishing Canoes",
-    "summary": "A new pilot initiative in Goa aims to transition traditional fishing canoes to electric power. Fifty vessels have been selected to be electrified under the project."
+    "category": "Crime",
+    "headline": "Goa Land Purchase Linked to Bank Scam",
+    "summary": "An investigation into an IDFC First Bank scam has revealed that Rs 80 lakh of the defrauded money was used to purchase land in Goa. The transaction is currently under investigation by law enforcement."
   },
   {
     "rank": 9,
+    "category": "General",
+    "headline": "Moringa Cultivation Expands in Goa",
+    "summary": "Moringa is increasingly being grown in Goa as local farmers and consumers embrace it as a nutrient-rich superfood. This shift highlights a rising demand for healthy, sustainable agricultural products."
+  },
+  {
+    "rank": 10,
     "category": "Weather",
-    "headline": "Goa Reservoirs Below Capacity",
-    "summary": "As the monsoon enters its final leg, reservoirs across Goa have not yet reached full capacity. Water levels remain a point of observation for authorities."
+    "headline": "Goa Reservoirs Below Capacity as Monsoon Winds Down",
+    "summary": "Goa's reservoirs have not yet filled to capacity even as the monsoon season enters its final phase. Water levels remain a point of observation for state authorities."
   }
 ]
