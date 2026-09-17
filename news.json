@@ -1,302 +1,134 @@
 [
   {
     "rank": 1,
-    "category": "Politics",
-    "headline": "GFP-AAP Pact Triggers Backlash",
-    "summary": "Congress leader Girish Chodankar criticized the alliance between the Goa Forward Party and AAP, comparing it to the political betrayal of Goan voters in 2017."
+    "category": "Civic",
+    "headline": "Porvorim Flyover Construction Triggers Massive Traffic Jams",
+    "summary": "The ongoing construction and sudden changes on the Porvorim flyover corridor have caused severe traffic congestion on service roads, creating dangerous merge zones. Authorities are planning a thorough traffic review next week to address commuter frustration."
   },
   {
     "rank": 2,
     "category": "Politics",
-    "headline": "Political Alliances Under Scrutiny",
-    "summary": "The local media highlights growing debates over the formation of \"unnatural\" political alliances ahead of the upcoming Goa elections."
+    "headline": "Fissures Erupt in Goa Opposition Alliances",
+    "summary": "The emerging 'Goa First' alliance between AAP and GFP is facing early friction over seat-sharing in Salcete and Benaulim. Congress leaders have criticized the pact, calling it a betrayal reminiscent of past political coalitions."
   },
   {
     "rank": 3,
-    "category": "Politics",
-    "headline": "Seat-Sharing Challenges for 'Goa First'",
-    "summary": "The newly emerging 'Goa First' front faces its first major test with the critical seat-sharing discussions in the Salcete region."
+    "category": "Crime",
+    "headline": "Tarun Tejpal Surrenders, Sent to Colvale Jail",
+    "summary": "Former Tehelka editor-in-chief Tarun Tejpal has surrendered before a Goa court following a Supreme Court order regarding his sexual assault case. He was taken into custody and subsequently transferred to Colvale jail."
   },
   {
     "rank": 4,
-    "category": "Civic",
-    "headline": "Merge Zones On New Flyover Labeled Dangerous",
-    "summary": "Concerns are rising over the design of merge zones on a newly opened flyover, with motorists reporting them as highly hazardous traffic traps."
+    "category": "General",
+    "headline": "Air Pollution Threatens Health of Goa's Women",
+    "summary": "A recent study highlights the severe toll air pollution is taking on women in Goa, who are paying a heavy price with their lung health. The findings have sparked concern over domestic health risks and environmental conditions."
   },
   {
     "rank": 5,
-    "category": "Civic",
-    "headline": "Traffic Nightmare On Porvorim Service Roads",
-    "summary": "Growing traffic congestion on the service roads of Porvorim has prompted authorities to schedule a comprehensive traffic review meeting next week."
+    "category": "Crime",
+    "headline": "CBI Probes Diverted Funds Used for Goa Property",
+    "summary": "The CBI has revealed that Rs 80 lakh of diverted CREST funds were illegally used to purchase real estate in Goa. The investigation is part of a broader crackdown on financial irregularities."
   },
   {
     "rank": 6,
-    "category": "Civic",
-    "headline": "Mixed Results For Porvorim Elevated Corridor",
-    "summary": "While the new elevated corridor in Porvorim has managed to divert traffic, it has brought mixed relief and safety concerns to local commuters below."
+    "category": "Tourism",
+    "headline": "Goa Prepares for Early Start to Charter Season",
+    "summary": "Goa is gearing up to welcome international tourists earlier than usual this year as the charter flight season prepares for an early kickoff. Tourism stakeholders hope this will boost the local economy."
   },
   {
     "rank": 7,
-    "category": "Crime",
-    "headline": "Tarun Tejpal Surrenders In Goa Court",
-    "summary": "Former Tehelka editor Tarun Tejpal has surrendered before a court in Goa following an order from the Supreme Court in a sexual assault case."
+    "category": "Tourism",
+    "headline": "Goa Urged to Carve Its Own Identity, Not Copy Bali",
+    "summary": "Industry experts suggest that Goa does not need to compete with destinations like Bali, but should instead focus on unlocking its unique potential. Enhancing local infrastructure and travel experiences remains key."
   },
   {
     "rank": 8,
-    "category": "Crime",
-    "headline": "Tarun Tejpal Surrenders, Claims Political Vendetta",
-    "summary": "Claiming to be a victim of political conspiracy, Tarun Tejpal surrendered in a Goa court to begin serving his 10-year prison sentence in a rape case."
+    "category": "General",
+    "headline": "Ganesh Chaturthi Festive Spirit Unites Goa",
+    "summary": "The arrival of Lord Ganesha has brought hope, positivity, and a sense of unity across Goan communities. Families are coming together to celebrate the traditional festival with yearly rituals and reunions."
   },
   {
     "rank": 9,
     "category": "Crime",
-    "headline": "Tejpal Remanded To Colvale Jail",
-    "summary": "Following his surrender before a Goa court, former Tehelka editor Tarun Tejpal was transported directly to Colvale jail."
+    "headline": "Nightclub Fire Accused Surrender in Mapusa Court",
+    "summary": "The three main accused in the Goa nightclub fire case, including the Luthra brothers, have surrendered before a Mapusa court. The surrender comes after the Supreme Court rejected their bail applications."
   },
   {
     "rank": 10,
-    "category": "Crime",
-    "headline": "Nightclub Fire Accused Surrender",
-    "summary": "After failing to secure relief from the Supreme Court, the main accused in the Goa nightclub fire case surrendered before the local court."
+    "category": "Weather",
+    "headline": "Subdued Monsoon Activity Puts Goa on Alert",
+    "summary": "With Goa experiencing weak monsoon activity, the state faces a potential dry-season water management challenge. Although reservoirs remain full for now, the fading rains are raising long-term concerns."
   },
   {
     "rank": 11,
-    "category": "Crime",
-    "headline": "Special Provisions Made For Nightclub Case Surrenders",
-    "summary": "A Goa court made specific logistical arrangements for the formal surrender of accused individuals, including the Luthra brothers and Gupta, in the nightclub fire case."
+    "category": "Civic",
+    "headline": "Aguada Sand Bar Reopens for Marine Traffic",
+    "summary": "The Aguada sand bar has officially reopened, allowing vessels to resume safe navigation through the channel. This development is expected to ease maritime operations in the region."
   },
   {
     "rank": 12,
-    "category": "Crime",
-    "headline": "Luthra Brothers Surrender After Bail Rejection",
-    "summary": "Facing a major setback after their bail pleas were rejected by the top court, the Luthra brothers surrendered before a Mapusa court in connection with the nightclub fire."
+    "category": "Business",
+    "headline": "Goa Traders Consider Cash Switch Over New UPI Norms",
+    "summary": "Local traders in Goa are contemplating a return to cash transactions due to a proposed 0.4% merchant discount rate on specified UPI payments over Rs 2,000. Business owners fear the extra costs will impact their profit margins."
   },
   {
     "rank": 13,
     "category": "Politics",
-    "headline": "Congress Demands White Paper On Smart Meters",
-    "summary": "The opposition Congress party has urged the Goa government to issue a comprehensive white paper detailing the installation and cost structure of smart electricity meters."
+    "headline": "Delayed OBC Data Casts Shadow on Civic Polls",
+    "summary": "The delay in compiling and releasing crucial OBC demographic data has put the timeline for upcoming civic body elections under severe strain. Officials are working to resolve the delay to avoid postponing the polls."
   },
   {
     "rank": 14,
-    "category": "Politics",
-    "headline": "Congress Calls AAP-GFP Alliance A BJP Conspiracy",
-    "summary": "The Congress party has alleged that the electoral alliance between AAP and the Goa Forward Party is actually a secret understanding meant to benefit the ruling BJP."
+    "category": "Crime",
+    "headline": "Notorious Dealer Atala Surrenders in Merces Court",
+    "summary": "Infamous drug dealer Atala has surrendered before the Sessions Court at Merces. He is currently in custody as legal proceedings against him resume."
   },
   {
     "rank": 15,
-    "category": "Business",
-    "headline": "HC Orders Details On Goa Dairy Takeover",
-    "summary": "The High Court of Bombay at Goa has directed the Registrar of Cooperative Societies to submit all official agreements regarding the transfer of Goa Dairy's management to the NDDB."
+    "category": "Civic",
+    "headline": "Five Goa Food Businesses Fined Rs 5.6 Lakh",
+    "summary": "The North Goa District Magistrate has imposed a combined penalty of Rs 5.6 lakh on five food establishments for violating safety norms. The action aims to ensure strict compliance with food safety regulations."
   },
   {
     "rank": 16,
-    "category": "General",
-    "headline": "Lord Ganesha Festival Unites Devotees",
-    "summary": "Devotees from Gurgaon traveling to Goa share how celebrating the Ganesh Chaturthi festival brings immense positivity, hope, and community spirit."
+    "category": "Politics",
+    "headline": "Internal Rifts Surface Over Goa BJP Candidates",
+    "summary": "Former minister Cabral has hinted at a rethink on seeking a BJP ticket, alleging betrayal by party colleagues, while Damu awaits official clearance to contest from Fatorda. Political observers note these developments expose deep factions."
   },
   {
     "rank": 17,
-    "category": "Politics",
-    "headline": "BJP Addresses Caste Quotas Ahead Of Polls",
-    "summary": "The BJP-led government is actively working to resolve rising tensions surrounding caste reservation and quotas to prevent electoral fallout in Goa."
+    "category": "Business",
+    "headline": "Goa Government's Unpaid Dues Hit Rs 2,384 Crore",
+    "summary": "The state's outstanding dues have piled up to over Rs 2,384 crore, with the Commercial Taxes and Electricity departments topping the list of defaulters. Authorities are under pressure to recover these massive arrears."
   },
   {
     "rank": 18,
-    "category": "Crime",
-    "headline": "Three Surrender In Nightclub Fire Case",
-    "summary": "Two weeks after the Supreme Court's order, three primary accused in the devastating Goa nightclub fire have officially surrendered before the Mapusa court."
+    "category": "Business",
+    "headline": "Onion Prices Surge in Goa Markets",
+    "summary": "Goa is witnessing a sharp rise in onion prices due to a limited supply of fresh stock arriving from neighboring states. Retailers expect prices to remain high until new harvests arrive."
   },
   {
     "rank": 19,
-    "category": "Civic",
-    "headline": "Elevated Corridor Use Restricted After Fatal Accidents",
-    "summary": "Authorities have restricted access to Goa's newly opened elevated corridor after two people were tragically killed in accidents just days after its inauguration."
+    "category": "Crime",
+    "headline": "Over 50 Outstation Vessels Caught Fishing Illegally",
+    "summary": "Authorities have apprehended 54 outstation vessels for illegal fishing in Goa's territorial waters since 2022. The state is stepping up patrols to protect local marine resources."
   },
   {
     "rank": 20,
     "category": "Crime",
-    "headline": "Tarun Tejpal Jailed Following Surrender",
-    "summary": "Former journalist Tarun Tejpal was sent to prison after surrendering in a Goa court for a sexual assault case dating back to 2013."
+    "headline": "ED Attaches Rs 13.44 Crore Assets Linked to Club Official",
+    "summary": "The Enforcement Directorate has attached assets worth Rs 13.44 crore in Goa and Mumbai in connection with a fraud case involving a former US Club official. The probe continues to trace illicitly acquired properties."
   },
   {
     "rank": 21,
-    "category": "Weather",
-    "headline": "Climate Change Threatens Goa's Ecosystem",
-    "summary": "Experts warn that a combination of unplanned developmental activities and climate change is severely degrading the natural coastal defense systems of Goa."
+    "category": "Sports",
+    "headline": "Goa Secures Strong Position Despite Gujarat Fightback",
+    "summary": "Goa's sports team held their ground to maintain a dominant position in their recent clash, overcoming a fierce fightback from Gujarat. The team's resilient performance has boosted their tournament prospects."
   },
   {
     "rank": 22,
-    "category": "Business",
-    "headline": "Poor Accountability For Factory Accidents In Goa",
-    "summary": "Official data reveals that administrative action was initiated in only 9 out of 138 factory accidents reported across the state since 2022."
-  },
-  {
-    "rank": 23,
-    "category": "Crime",
-    "headline": "Tejpal Transferred To Jail For 10-Year Term",
-    "summary": "After surrendering in a Goa court, Tarun Tejpal was moved to Colvale jail to begin serving his ten-year prison sentence."
-  },
-  {
-    "rank": 24,
-    "category": "Crime",
-    "headline": "Resident Duped Of Rs 3 Lakh In Cyber Fraud",
-    "summary": "A resident of Pomburpa lost three lakh rupees after falling victim to a sophisticated online scam."
-  },
-  {
-    "rank": 25,
-    "category": "Crime",
-    "headline": "Ex-Tehelka Editor Surrenders In 2013 Case",
-    "summary": "Former Tehelka editor-in-chief Tarun Tejpal surrendered in a Goa court to serve his prison sentence for a 2013 sexual assault case."
-  },
-  {
-    "rank": 26,
-    "category": "Weather",
-    "headline": "Subdued Monsoon Activity Expected In Goa",
-    "summary": "Weather analysts have forecasted weak monsoon activity and reduced rainfall across Goa over the coming days."
-  },
-  {
-    "rank": 27,
-    "category": "Crime",
-    "headline": "Israeli Drug Dealer Surrenders In Goa",
-    "summary": "Yaniv Benaim, alias Atala, an absconding Israeli drug dealer, surrendered before a Goa court and has been remanded to 30 days of judicial custody."
-  },
-  {
-    "rank": 28,
-    "category": "Politics",
-    "headline": "Internal Fissures Restrict Opposition Unity",
-    "summary": "A public tug-of-war among opposition parties in Goa has exposed internal divisions, despite their public claims of unity over the past few months."
-  },
-  {
-    "rank": 29,
-    "category": "Tourism",
-    "headline": "Aguada Sand Bar Reopens For Navigation",
-    "summary": "Marine traffic has resumed as authorities officially reopened the Aguada sand bar to facilitate safe navigation for vessels."
-  },
-  {
-    "rank": 30,
-    "category": "Politics",
-    "headline": "Cabral Rethinks BJP Ticket Bid",
-    "summary": "Citing political betrayal and \"backstabbing\" by party members, BJP MLA Nilesh Cabral has hinted at reconsidering his bid to run on a party ticket."
-  },
-  {
-    "rank": 31,
-    "category": "Business",
-    "headline": "Traders May Switch Back To Cash",
-    "summary": "Fearing higher operational fees under proposed UPI regulations, several traders in Goa are contemplating a return to traditional cash transactions."
-  },
-  {
-    "rank": 32,
     "category": "Civic",
-    "headline": "Candolim Health Centre Relocation Scheduled",
-    "summary": "The primary health centre in Candolim is preparing to partially relocate its operations to a new facility within the next month."
-  },
-  {
-    "rank": 33,
-    "category": "Crime",
-    "headline": "150 Booked For Trespass And Theft",
-    "summary": "The Goa police have registered a case against 150 individuals for allegedly trespassing and committing theft on a property in Cavelossim."
-  },
-  {
-    "rank": 34,
-    "category": "Crime",
-    "headline": "Second Shooter Arrested In Porvorim Attack",
-    "summary": "Police have arrested the second shooter involved in the violent firing incident near the Neo Majestic hotel in Porvorim."
-  },
-  {
-    "rank": 35,
-    "category": "General",
-    "headline": "Families Gather For Yearly Cultural Reunion",
-    "summary": "Goan families are coming together to celebrate their annual traditional reunions, which remain strongly anchored in cultural and religious rituals."
-  },
-  {
-    "rank": 36,
-    "category": "Politics",
-    "headline": "RG Sets Terms For Congress Alliance",
-    "summary": "Revolutionary Goans (RG) has set key legislative conditions, including the POGO bill, for any potential alliance with the Congress party for the 2027 elections."
-  },
-  {
-    "rank": 37,
-    "category": "Business",
-    "headline": "Beekeeping Drive Targets High Honey Yield",
-    "summary": "A new sustainable apiculture program launched in Canacona aims to produce up to 12,000 kilograms of local honey annually."
-  },
-  {
-    "rank": 38,
-    "category": "Business",
-    "headline": "Onion Prices Spike In Local Markets",
-    "summary": "Consumers in Goa are facing higher kitchen expenses as onion prices soar due to restricted supply from neighboring states."
-  },
-  {
-    "rank": 39,
-    "category": "General",
-    "headline": "Men Keep Chaturthi Fugdi Tradition Alive",
-    "summary": "Male dancers in the village of Kudne continue to preserve the unique tradition of performing the Chaturthi Fugdi folk dance during the festive season."
-  },
-  {
-    "rank": 40,
-    "category": "Crime",
-    "headline": "Court Remands Tarun Tejpal To Prison",
-    "summary": "The former Tehelka founder was taken into custody and remanded to jail immediately after his voluntary surrender before a Goa court."
-  },
-  {
-    "rank": 41,
-    "category": "Civic",
-    "headline": "Quepem Market Completed, Allotment Delayed",
-    "summary": "Although the new market complex in Quepem has finally been completed after seven years, displaced local vendors are still waiting for their shops to be allotted."
-  },
-  {
-    "rank": 42,
-    "category": "Politics",
-    "headline": "AAP-GFP Seek New Strategic Realignment",
-    "summary": "Political leaders Arvind Kejriwal and Vijay Sardesai are adopting a strategy that denounces party defections while welcoming rivals into their political circle."
-  },
-  {
-    "rank": 43,
-    "category": "Crime",
-    "headline": "Six Arrested Now In Porvorim Shootout Case",
-    "summary": "The Crime Branch has apprehended a second shooter in the Porvorim shootout case, bringing the total number of arrested suspects to six."
-  },
-  {
-    "rank": 44,
-    "category": "Civic",
-    "headline": "Plastic and Cigarette Waste Litter Goa Beaches",
-    "summary": "Environmental activists have raised alarms over the massive accumulation of discarded cigarette butts polluting Goa’s pristine beaches."
-  },
-  {
-    "rank": 45,
-    "category": "Entertainment",
-    "headline": "Global Support Sought For Tiatr's UNESCO Bid",
-    "summary": "The Sangeet Natak Akademi (SNA) is pushing for international outreach to bolster the cultural recognition and UNESCO bid of Goa's traditional Tiatr theatre."
-  },
-  {
-    "rank": 46,
-    "category": "General",
-    "headline": "Historic 'Gulo' Landmark Restored In Porvorim",
-    "summary": "The iconic historical marker known as 'Gulo' has been restored and returned to its traditional spot at the traffic circle in Porvorim."
-  },
-  {
-    "rank": 47,
-    "category": "Civic",
-    "headline": "Margao Residents Question Singular Parking Project",
-    "summary": "After waiting 11 years for a single multi-level parking project, Margao residents are questioning if it will be sufficient to resolve the city's massive traffic issues."
-  },
-  {
-    "rank": 48,
-    "category": "Sports",
-    "headline": "Aldona Hosts Exciting Angling Competition",
-    "summary": "Enthusiastic local anglers gathered to showcase their fishing skills in an annual competition organized recently in Aldona."
-  },
-  {
-    "rank": 49,
-    "category": "Business",
-    "headline": "New UPI Merchant Rules Announced",
-    "summary": "A new digital payment framework mandates a 0.4% Merchant Discount Rate on certain transactions exceeding 2,000 rupees."
-  },
-  {
-    "rank": 50,
-    "category": "Crime",
-    "headline": "ED Attaches Rs 13.44-Crore Assets in Fraud Case",
-    "summary": "The Enforcement Directorate has attached assets worth 13.44 crore rupees across Goa and Mumbai connected to a former US Club official in a major financial fraud investigation."
+    "headline": "Unregulated Speed Breakers Raise Road Safety Concerns",
+    "summary": "The unauthorized installation of speed breakers across Goan roads is creating severe hazards for daily commuters. Road safety advocates are calling for strict guidelines and the removal of non-compliant bumps."
   }
 ]
