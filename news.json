@@ -1,302 +1,230 @@
 [
   {
     "rank": 1,
-    "category": "Civic",
-    "headline": "Old Settlements Dropped From Goa No Development Zone List",
-    "summary": "The Goan government has removed old settlements from the No Development Zone (NDZ) classification. This decision aims to ease development restrictions for local residents."
+    "category": "General",
+    "headline": "Elderly Sisters Found Dead in Canacona Home",
+    "summary": "Two elderly, unmarried sisters were found dead in their Canacona residence. Police revealed the sisters had saved and left behind fifteen thousand rupees to cover their own funeral costs."
   },
   {
     "rank": 2,
-    "category": "Civic",
-    "headline": "TCP to Clear Old Settlements From NDZ and NDA Lists",
-    "summary": "The Town and Country Planning department will remove old settlements from restrictive No Development Zone and No Development Area categories. This step will benefit long-time residents seeking to develop their properties."
+    "category": "General",
+    "headline": "Police Reject Security Escort Request for Casino Director",
+    "summary": "Goa police have declined a request to provide escort and pilot vehicles for a casino director. The decision underscores the state's boundaries regarding specialized security provisions."
   },
   {
     "rank": 3,
-    "category": "Politics",
-    "headline": "Rane Promises Removal of Restrictions on Old Settlements",
-    "summary": "Minister Vishwajit Rane announced that old settlements in No Development Areas will soon be freed from strict building restrictions. The decision aims to support local communities living in these zones."
+    "category": "General",
+    "headline": "Elephant Omkar Continues to Return to Goa",
+    "summary": "An elephant named Omkar is posing a unique challenge for wildlife officials as he repeatedly returns to Goa. Authorities are looking for ways to address his persistent presence in the state."
   },
   {
     "rank": 4,
-    "category": "Sports",
-    "headline": "Narvekar's Half-Century Keeps Goa Competitive Against Chhattisgarh",
-    "summary": "A resilient fifty by batsman Narvekar has kept the Goa cricket team in a strong position during their match against Chhattisgarh."
+    "category": "Politics",
+    "headline": "CM Sawant Targets Female Voters with Direct Aid Scheme",
+    "summary": "Ahead of the upcoming elections, Goa Chief Minister Pramod Sawant is pushing direct financial aid initiatives. The move is aimed at securing support from women voters in the state."
   },
   {
     "rank": 5,
-    "category": "Sports",
-    "headline": "Brazilian Team to Receive Royal Welcome for Friendly Match",
-    "summary": "The Brazil national football team will receive a grand, traditional \"Maharaja-style\" welcome upon arriving in India for their friendly match."
+    "category": "Business",
+    "headline": "House of Swamiraj Launches Real Estate Projects in Goa",
+    "summary": "Real estate developer House of Swamiraj has entered the Goa market with its Neonest residential projects. This expansion marks a new phase of growth for the construction firm."
   },
   {
     "rank": 6,
-    "category": "Business",
-    "headline": "Labour Shortage Grounds 25% of Trawlers at Cutbona Jetty",
-    "summary": "Nearly a quarter of the fishing trawlers at Cutbona jetty remain idle due to an acute shortage of workers. This labor deficit is dealing a heavy blow to Goa's fishing sector."
+    "category": "Tourism",
+    "headline": "IHCL Launches New Ginger Hotel in Arpora",
+    "summary": "The Indian Hotels Company Limited has expanded its presence in Goa by opening a new Ginger hotel in Arpora. The property aims to cater to the growing demand for lean-luxe accommodation."
   },
   {
     "rank": 7,
-    "category": "Business",
-    "headline": "Goa Panchayats Set to Hike Fees for Casinos and Hotels",
-    "summary": "Casinos and luxury hotels in Goa face a steep rise in license fees as local panchayats look to increase their revenue."
+    "category": "Tourism",
+    "headline": "Indian Hotels Earn Michelin Keys for 2026",
+    "summary": "A total of forty-seven hotels across India, including properties in Goa, have been awarded prestigious Michelin Keys for 2026. This recognition celebrates outstanding hospitality and guest experiences."
   },
   {
     "rank": 8,
-    "category": "Business",
-    "headline": "Marine Electricals Launches Power Train Plant in Goa",
-    "summary": "Marine Electricals has inaugurated a new plant in Goa to manufacture power train units for data centers. The facility aims to cater to the growing demand in the digital infrastructure sector."
+    "category": "Entertainment",
+    "headline": "Goan Photographer Russel Diniz Shoots for Miss England",
+    "summary": "Goan-origin photographer Russel Diniz has achieved global recognition by securing a role as an official photographer for the Miss England pageant. His milestone highlights Goan creative talent on the international stage."
   },
   {
     "rank": 9,
-    "category": "General",
-    "headline": "Elderly Sisters Found Dead in Goa Left Cash for Funerals",
-    "summary": "Two sisters were found deceased in their Goa home, where police discovered they had saved money specifically to fund their own last rites."
+    "category": "Politics",
+    "headline": "Congress Launches 27-Day 'Goy Rakhonn Yatra' in Goa",
+    "summary": "The Congress party has kicked off a 27-day rally titled 'Goy Rakhonn Yatra' across the state. While the campaign aims to address local issues, it has caused traffic congestion and faced criticism from the Aam Aadmi Party."
   },
   {
     "rank": 10,
-    "category": "General",
-    "headline": "Wild Elephant Omkar Continues to Visit Goa Villages",
-    "summary": "An elephant named Omkar has been frequently returning to human settlements in Goa, causing concern among local residents during festive seasons."
+    "category": "Business",
+    "headline": "Subsidised Onions Sold in Goa as Prices Hit Rs 75/kg",
+    "summary": "Following a delayed harvest that pushed onion prices up to seventy-five rupees per kilogram, Goa's horticulture outlets have started selling subsidised onions. This follows a similar government intervention for coconut sales."
   },
   {
     "rank": 11,
-    "category": "Crime",
-    "headline": "New Rs 1 Crore Fraud Case Filed Against Gopal Naik",
-    "summary": "A fresh complaint has been registered accusing Gopal Naik of cheating a victim out of Rs 1 crore. Police are currently investigating the financial fraud allegations."
+    "category": "Tourism",
+    "headline": "Goa is a Mix of Costa Rica and Ibiza, Says Pooja Batra",
+    "summary": "Actress Pooja Batra shared her perspective on Goa's unique charm, describing the state as a blend of Costa Rica and Ibiza when experienced correctly. Her remarks emphasize Goa's international appeal to travelers."
   },
   {
     "rank": 12,
-    "category": "Politics",
-    "headline": "Congress Leaders to Boost Goa Campaign at Yatra Finale",
-    "summary": "Members of the Gandhi family and several Congress Chief Ministers will join the finale of the 27-day yatra to boost the party's campaign in Goa."
+    "category": "Business",
+    "headline": "Labour Shortage Idles 25 Percent of Cutbona Trawlers",
+    "summary": "A severe shortage of workforce has left nearly a quarter of the fishing trawlers idle at the Cutbona jetty. The situation has raised concerns among local operators over the impact on the current fishing season."
   },
   {
     "rank": 13,
-    "category": "Politics",
-    "headline": "Congress Starts 'Goy Rakkhon Yatra' to Save Goa's Identity",
-    "summary": "The Congress party has launched the 'Goy Rakkhon Yatra' in Goa, aimed at protecting the state's cultural identity and unique heritage."
+    "category": "General",
+    "headline": "Rare Slender Loris Killed in Kankumbi Road Accident",
+    "summary": "A slender loris was killed in a road accident near Kankumbi, highlighting the threats faced by wildlife on forest highways. Activists are raising concerns over animal safety in the region."
   },
   {
     "rank": 14,
-    "category": "General",
-    "headline": "Police Probe Death of Elderly Sisters Who Left Funeral Money",
-    "summary": "Police in Goa are investigating the deaths of two elderly sisters found at home, who had kept aside cash to pay for their own final rites."
+    "category": "Civic",
+    "headline": "FDA Mandates Milk Analogue Declaration for Hotels",
+    "summary": "Goa's Food and Drugs Administration has ordered hotels and sweet shops to clearly declare if they use milk analogues in their products. The directive aims to ensure transparency and safety for consumers."
   },
   {
     "rank": 15,
     "category": "Civic",
-    "headline": "Pollution Board Tests Kapileshwari Lake Water After Fish Deaths",
-    "summary": "The Goa State Pollution Control Board has collected water samples from Kapileshwari lake following the discovery of numerous dead fish floating on its surface."
+    "headline": "Water Samples Taken from Kapileshwari Lake After Fish Die-Off",
+    "summary": "The Goa State Pollution Control Board has collected water samples from Kapileshwari lake after dead fish were seen floating on the surface. An investigation is underway to determine the cause of the pollution."
   },
   {
     "rank": 16,
-    "category": "Entertainment",
-    "headline": "Karan Wahi Shares Glimpses of Jennifer Winget's Goa Wedding",
-    "summary": "Actor Karan Wahi has given fans a sneak peek into actress Jennifer Winget's beautiful wedding ceremony held in Goa."
+    "category": "Sports",
+    "headline": "Brazil Football Team Set for Royal Arrival Ahead of India Friendly",
+    "summary": "The Brazil football squad is scheduled to arrive in grand style for their upcoming friendly match against India. The highly anticipated sporting event is generating significant excitement among local fans."
   },
   {
     "rank": 17,
-    "category": "General",
-    "headline": "Goan-Origin Major Honoured for Exemplary Service in Manipur",
-    "summary": "A military Major of Goan origin has received an award for his dedicated and exemplary service during his deployment in Manipur."
+    "category": "Entertainment",
+    "headline": "Karan Wahi Shares Glimpses of Jennifer Winget's Goa Wedding",
+    "summary": "Actor Karan Wahi has shared behind-the-scenes moments from co-star Jennifer Winget's wedding in Goa. Fans were delighted by the sneak peeks of the picturesque celebration."
   },
   {
     "rank": 18,
     "category": "General",
-    "headline": "Ponda Launches 24x7 Wildlife Transit Treatment Facility",
-    "summary": "A new round-the-clock wildlife transit and treatment facility has been established in Ponda to provide immediate medical aid to injured wild animals."
+    "headline": "24x7 Wildlife Transit Treatment Facility Opened in Ponda",
+    "summary": "Ponda has received a new round-the-clock wildlife transit treatment facility to assist injured animals. The center is expected to significantly improve response times for local wildlife rescue operations."
   },
   {
     "rank": 19,
     "category": "Business",
-    "headline": "Delayed Harvest Drives Onion Prices Up to Rs 75 per kg",
-    "summary": "A delay in the onion harvest has caused supply shortages, pushing market prices of the vegetable to Rs 75 per kilogram in Goa."
+    "headline": "Panchayat Licence Fees Hiked for Casinos and Luxury Hotels",
+    "summary": "Local panchayats have implemented a steep increase in licence fees for casinos and luxury hotels in Goa. The move is aimed at boosting revenue for village local bodies."
   },
   {
     "rank": 20,
-    "category": "General",
-    "headline": "Family Abandons Body Due to Lack of Cremation Funds",
-    "summary": "A cash-strapped family in Goa reportedly abandoned the body of a deceased relative at a crematorium because they could not afford the cost of firewood."
+    "category": "Civic",
+    "headline": "'Enough Is Enough' Campaign Plans Public Outreach Events",
+    "summary": "The activist group 'Enough Is Enough' is organizing public outreach events in Margao and Mapusa. The campaign aims to engage citizens and address local public grievances."
   },
   {
     "rank": 21,
-    "category": "Crime",
-    "headline": "Police Probe Fake Marriage Poster Targeting Goa Minister",
-    "summary": "Vasco police have initiated an investigation after a fake marriage poster featuring a Goa minister started circulating on social media."
+    "category": "General",
+    "headline": "Goa Approves 3-Year Plan to Clear Afforestation Backlog",
+    "summary": "The Goa government has finalized a three-year strategy to clear a backlog of 246 hectares of mandatory afforestation. The initiative aims to restore forest cover and meet ecological commitments."
   },
   {
     "rank": 22,
-    "category": "Civic",
-    "headline": "New Flyover Fails to Ease Junction Traffic Congestion",
-    "summary": "Although the newly opened flyover was expected to streamline traffic, nearby junctions are still experiencing heavy congestion and bottleneck issues."
+    "category": "General",
+    "headline": "15 Ancient Heritage Sites in Goa Declared Protected",
+    "summary": "The Goa government has added fifteen historical sites, including the Chimbel convent and Hat Katro Khambo, to its list of protected monuments. The decision ensures these heritage gems receive state-funded preservation."
   },
   {
     "rank": 23,
-    "category": "Weather",
-    "headline": "Coastal Erosion at Galgibaga and Tarir Beaches Sparks Concern",
-    "summary": "Severe sand erosion along the popular Galgibaga and Tarir beaches has raised concerns among local residents and environmentalists."
+    "category": "Civic",
+    "headline": "Government Seeks Quick Solutions for Porvorim Flyover Traffic",
+    "summary": "Chief Minister Pramod Sawant has promised a resolution within eight days to address traffic congestion at junctions following the opening of the Porvorim flyover. Meanwhile, local ministers have demanded accountability for design flaws that have shifted the traffic burden."
   },
   {
     "rank": 24,
-    "category": "General",
-    "headline": "Goa Students Experience Hands-On Agricultural Learning",
-    "summary": "Students in Goa are stepping out of their classrooms to engage in practical, hands-on farming sessions to learn sustainable agriculture."
+    "category": "Politics",
+    "headline": "Vijai Sardesai Visits Ajmer and Pushkar Amid Political Storm",
+    "summary": "Amidst ongoing discussions and tensions over political alliances in Goa, GFP chief Vijai Sardesai traveled to Rajasthan to seek blessings at Ajmer Sharif and Pushkar. The visit comes at a crucial time for local coalition dynamics."
   },
   {
     "rank": 25,
     "category": "Civic",
-    "headline": "Panaji Backwaters Proposed for First Floating Solar Project",
-    "summary": "The Goan government is planning to set up the state's first floating solar power plant in the scenic backwaters of Panaji."
+    "headline": "Camurlim Residents Demand Action Over Illegal Tree Felling",
+    "summary": "Local residents in Camurlim have raised concerns and demanded immediate government action following the unauthorized cutting of trees in their area. The locals are calling for strict penalties against those responsible."
   },
   {
     "rank": 26,
-    "category": "Civic",
-    "headline": "Citizens' Group 'Enough Is Enough' Plans Public Outreach",
-    "summary": "The activist group \"Enough Is Enough\" is organizing public outreach events in Margao and Mapusa to address key community issues."
+    "category": "General",
+    "headline": "Questions Raised Over Ground-Level Impact of NDZ Plan",
+    "summary": "The implementation of the No Development Zone plan in Goa has faced scrutiny regarding its actual effectiveness on the ground. Stakeholders are questioning whether the zoning regulations are successfully protecting fragile areas."
   },
   {
     "rank": 27,
-    "category": "Politics",
-    "headline": "CM Sawant Promises Porvorim Flyover Solution in Eight Days",
-    "summary": "Chief Minister Pramod Sawant has assured residents that the traffic and access issues regarding the Porvorim flyover will be resolved within eight days."
+    "category": "General",
+    "headline": "Goan-Origin Army Major Honoured for Manipur Service",
+    "summary": "A Goan-origin Major in the Indian Army has been recognized for his outstanding service during his deployment in Manipur. The honour highlights the bravery and dedication of Goan personnel serving the nation."
   },
   {
     "rank": 28,
-    "category": "Civic",
-    "headline": "Porvorim Elevated Corridor Access Points Scheduled for Next Week",
-    "summary": "The government plans to open entry and exit points for the Porvorim elevated corridor within a week to streamline traffic flow."
+    "category": "General",
+    "headline": "Goa Govt Seeks Rs 476 Crore to Revive Khazan Lands",
+    "summary": "The state government has planned a major initiative to revive traditional khazan lands, seeking four hundred and seventy-six crore rupees in funding. To support the project, the government has announced one hundred percent financial assistance for repairing protective bunds."
   },
   {
     "rank": 29,
-    "category": "Politics",
-    "headline": "Pernem MLA Steps In After Family Abandons Deceased Relative",
-    "summary": "Following reports of a family abandoning a relative's body due to poverty, the Pernem MLA has pledged financial and social support to the family."
+    "category": "Entertainment",
+    "headline": "Designer Asif Merchant Praises Goa's Relaxed Glamour",
+    "summary": "Fashion designer Asif Merchant noted that Goa possesses a unique, effortless glamour that sets it apart from the fast-paced style of Mumbai. His comments highlight the coastal state's influence on relaxed fashion."
   },
   {
     "rank": 30,
     "category": "Civic",
-    "headline": "Camurlim Residents Demand Action Against Tree Felling",
-    "summary": "Local residents in Camurlim have raised their voices against the unchecked cutting of trees in their area and demanded swift action from authorities."
+    "headline": "New Material Recovery Facility Approved at Cunchelim Waste Plant",
+    "summary": "A new Material Recovery Facility is set to be constructed at the Cunchelim waste management plant to improve local recycling efforts. The upgrade is expected to enhance waste sorting and processing efficiency in the area."
   },
   {
     "rank": 31,
-    "category": "Entertainment",
-    "headline": "Asif Merchant Praises Goa's Unique, Relaxed Glamour",
-    "summary": "Renowned designer Asif Merchant highlighted Goa's effortless, laid-back vibe, stating it has a distinct charm compared to Mumbai's fast-paced environment."
+    "category": "Civic",
+    "headline": "Massive Police Shuffle of 109 Constables at Colvale Jail",
+    "summary": "In a major administrative move, the Goa police department transferred one hundred and nine constables to and from the Colvale Central Jail over a four-day period. The rapid reshuffle is aimed at improving security and management at the correctional facility."
   },
   {
     "rank": 32,
-    "category": "Civic",
-    "headline": "Unsafe Structure Near Bicholim School Finally Demolished",
-    "summary": "After a five-year delay, authorities have demolished a dilapidated and dangerous house located near a school in Bicholim."
+    "category": "General",
+    "headline": "Traditional 'Matoli' Artistry Adorns Goa's Ganesh Idols",
+    "summary": "Festive celebrations in Goa showcase the vibrant traditional art of 'Matoli', the canopy of wild fruits and flowers hung above Lord Ganesha idols. The practice highlights the state's deep cultural and botanical heritage."
   },
   {
     "rank": 33,
-    "category": "Civic",
-    "headline": "Stray Cattle Disrupt Access to Valpoi Government Offices",
-    "summary": "Visitors and officials at Valpoi government offices are facing inconvenience as stray cattle have been blocking entrances and disrupting daily operations."
+    "category": "Politics",
+    "headline": "CM Pramod Sawant Offers Prayers at Murgaocha Raja Pandal",
+    "summary": "Chief Minister Pramod Sawant visited the Murgaocha Raja Ganesh pandal in Sada to offer prayers during the ongoing festival. His visit was part of the state's widespread Ganesh Chaturthi celebrations."
   },
   {
     "rank": 34,
     "category": "General",
-    "headline": "Varca Looks to Replicate Chinchinim's Agricultural Success",
-    "summary": "Inspired by the successful farming model of Chinchinim, the Varca comunidade is launching initiatives to revive idle agricultural lands."
+    "headline": "Fr Afonso Urges Support for Youth Talent Development",
+    "summary": "Father Afonso has called on the community to provide better platforms and opportunities for the younger generation to nurture their talents. He emphasized that nurturing youth is vital for the future progress of society."
   },
   {
     "rank": 35,
-    "category": "Civic",
-    "headline": "Sattari Demands More Check Dams to Fight Water Scarcity",
-    "summary": "As the Sattari region braces for potential water shortages, locals and leaders are calling for the construction of additional check dams to conserve water."
+    "category": "Entertainment",
+    "headline": "Goa Auto Show Set to Return for Its Second Edition",
+    "summary": "The highly anticipated Goa Auto Show is preparing to host its second edition, showcasing the latest in automotive technology and vehicles. The event is expected to attract enthusiasts and industry professionals from across the region."
   },
   {
     "rank": 36,
     "category": "General",
-    "headline": "Goan Embryologist Wins National Young Achiever Award",
-    "summary": "A talented embryologist from Goa has been honored with a prestigious national young achiever award for outstanding contributions to her field."
+    "headline": "Impoverished Family Forced to Abandon Deceased Relative due to Cremation Costs",
+    "summary": "An impoverished family in Goa was reportedly forced to abandon the body of a deceased relative due to their inability to afford firewood for the cremation. The heartbreaking incident has drawn attention to the struggles faced by the state's poorest residents."
   },
   {
     "rank": 37,
-    "category": "General",
-    "headline": "Highlights From Konkani Prime News Broadcast",
-    "summary": "A summary of the latest regional updates, socio-political developments, and local events featured in the Konkani Prime News broadcast."
+    "category": "Civic",
+    "headline": "Forest and TCP Officials to Jointly Vet Sensitive Development Proposals",
+    "summary": "Officials from the Town and Country Planning and Forest departments will collaborate to evaluate development proposals in private forests and Ecologically Sensitive Areas. The joint vetting process aims to prevent ecological damage while regulating construction."
   },
   {
     "rank": 38,
     "category": "Civic",
-    "headline": "Goa Fails to Monitor Hazardous Waste From Hotels and Casinos",
-    "summary": "While the state government tracks industrial toxic waste, it has reportedly failed to maintain accurate records of hazardous waste generated by major hotels and casinos."
-  },
-  {
-    "rank": 39,
-    "category": "General",
-    "headline": "Discover the Traditional Artistry Above Goa's Ganesh Idols",
-    "summary": "The intricate, traditional decorative hangings, known locally as 'Matoli', showcase immense artistic skill during Goa's Ganesh Chaturthi celebrations."
-  },
-  {
-    "rank": 40,
-    "category": "Business",
-    "headline": "Onion Prices Surge to New Highs Across Goa Markets",
-    "summary": "Consumers in Goa are feeling the pinch as onion prices experience a sharp spike in local retail markets."
-  },
-  {
-    "rank": 41,
-    "category": "Politics",
-    "headline": "AAP Demands Resignation of PWD Minister Over Flyover Issues",
-    "summary": "The Aam Aadmi Party (AAP) has demanded the resignation of Goa's PWD Minister, citing mismanagement and delays regarding the Porvorim flyover project."
-  },
-  {
-    "rank": 42,
-    "category": "Civic",
-    "headline": "Chaturthi Holidays Disrupt Mapusa Garbage Collection",
-    "summary": "Mapusa is facing waste management issues after a large number of sanitation workers went on leave for the Ganesh Chaturthi festival."
-  },
-  {
-    "rank": 43,
-    "category": "Politics",
-    "headline": "GFP Maintains 'Goa First' Stance Amid Alliance Speculations",
-    "summary": "The Goa Forward Party (GFP) continues to prioritize its \"Goa First\" agenda despite mounting speculation about a potential rethink of its alliance with AAP."
-  },
-  {
-    "rank": 44,
-    "category": "Crime",
-    "headline": "Mega Rs 40 Crore Fraud Hits 14 Co-operative Societies",
-    "summary": "A major financial scandal has hit 14 co-operative societies in Goa, with unpaid outstanding dues accumulating to Rs 40 crore."
-  },
-  {
-    "rank": 45,
-    "category": "General",
-    "headline": "Growing Alzheimer’s Cases Worry Goa's Aging Population",
-    "summary": "Health experts in Goa are raising concerns over the rise of Alzheimer's cases, which poses a significant challenge for the state's aging demographic."
-  },
-  {
-    "rank": 46,
-    "category": "Civic",
-    "headline": "MMC Clears Garbage Pile From Pedda Footbridge",
-    "summary": "The Margao Municipal Council (MMC) has successfully cleared a large pile of illegally dumped garbage from the Pedda footbridge."
-  },
-  {
-    "rank": 47,
-    "category": "Politics",
-    "headline": "Government Seeks Rs 476 Crore to Revive Khazan Lands",
-    "summary": "The state government has proposed a major plan requiring Rs 476 crore to restore and protect Goa's ecologically vital khazan farming lands."
-  },
-  {
-    "rank": 48,
-    "category": "Crime",
-    "headline": "Two Anjuna Holiday Firms Booked for Cheating Tourists",
-    "summary": "Police have registered an FIR against two holiday companies operating in Anjuna for allegedly defrauding tourists with fake vacation packages."
-  },
-  {
-    "rank": 49,
-    "category": "Politics",
-    "headline": "Congress Open to Aligning With Kejriwal's Ally GFP",
-    "summary": "The Congress party has kept its options open for a potential political realignment with the Goa Forward Party, an ally of Arvind Kejriwal's AAP."
-  },
-  {
-    "rank": 50,
-    "category": "Civic",
-    "headline": "Government to Introduce Safety Steps at Porvorim Flyover",
-    "summary": "The Goa government has decided to open access points on the Porvorim flyover while simultaneously installing essential road safety measures."
+    "headline": "MMC Clears Garbage Dumped on Pedda Footbridge",
+    "summary": "The Margao Municipal Council has cleared accumulated waste that had been illegally dumped on the Pedda footbridge. The action brings relief to local pedestrians who use the bridge daily."
   }
 ]
