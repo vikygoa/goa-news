@@ -1,236 +1,302 @@
 [
   {
     "rank": 1,
-    "category": "Crime",
-    "headline": "SC Notice to Tarun Tejpal, Goa Police in 2013 Rape Case",
-    "summary": "The Supreme Court has issued notices to former Tehelka editor Tarun Tejpal and the Goa government regarding the 2013 rape case. The court is examining Tejpal's appeal against his conviction alongside the state's plea for a life sentence."
+    "category": "Tourism",
+    "headline": "Rise of Goa's Parallel Tourism Concerns Sector",
+    "summary": "The growth of an unregulated, parallel hospitality sector in Goa is leading to unpaid taxes and undocumented guests. This trend is causing concern among registered operators and authorities."
   },
   {
     "rank": 2,
-    "category": "Politics",
-    "headline": "Goa CEO Addresses Voter Roll Concerns",
-    "summary": "The Chief Electoral Officer of Goa assured that no eligible voters will be left behind after reports emerged of 97 electors missing from the rolls. The cases are being processed separately to resolve the technical issues."
+    "category": "Tourism",
+    "headline": "Goa Plans Five-Year Registration for Luxury Hotels",
+    "summary": "The Goa government is considering a proposal to allow five-year tourism registrations for eligible 4-star and 5-star hotels. This move aims to simplify administrative processes and support the hospitality industry."
   },
   {
     "rank": 3,
-    "category": "Politics",
-    "headline": "Goa Congress Protests Over SIR and Election Concerns",
-    "summary": "The Goa Congress has launched protests over the Special Investment Region project and demanded the arrest of the Chief Election Commissioner. Meanwhile, the BJP state president criticized the opposition for frequently shifting its narrative from EVMs to other issues."
+    "category": "Tourism",
+    "headline": "Debating Goa's Future Tourism Appeal",
+    "summary": "The article discusses challenges facing Goa in retaining its traditional charm amidst growing commercialization and changing traveler expectations. Stakeholders are evaluating ways to ensure sustainable tourism development."
   },
   {
     "rank": 4,
-    "category": "Civic",
-    "headline": "Accidents Persist on New Porvorim Corridor",
-    "summary": "A series of traffic accidents has raised safety concerns along the newly constructed Porvorim corridor. Commuters are demanding immediate road safety measures to prevent further mishaps on this stretch."
+    "category": "Politics",
+    "headline": "Voters Left Out of Electoral Rolls Despite Multiple Emails",
+    "summary": "A technical flaw in the Election Commission's registration process has left valid voters in Goa off the electoral rolls despite sending several emails. The affected citizens expressed frustration over the systemic failure."
   },
   {
     "rank": 5,
-    "category": "General",
-    "headline": "Goa Deports Six Foreigners Monthly for Visa Violations",
-    "summary": "The Foreigners Regional Registration Office in Goa has deported an average of six foreigners per month up to September. The deportations target individuals residing in the state without valid visas or proper documentation."
+    "category": "Politics",
+    "headline": "Chief Electoral Officer Responds to Missing Voter Complaints",
+    "summary": "Goa's Chief Electoral Officer addressed concerns regarding 97 electors missing from the electoral rolls, stating that many of them have now been added. The official clarified that their cases were handled carefully to ensure accuracy."
   },
   {
     "rank": 6,
-    "category": "Sports",
-    "headline": "Micky Appointed Assistant Coach at Gokulam Kerala",
-    "summary": "Goan football coach Micky is set to join Gokulam Kerala FC as an assistant to the Brazilian head coach Carlos. The appointment aims to bolster the team's coaching staff ahead of the upcoming season."
+    "category": "Politics",
+    "headline": "BJP Criticizes Congress for Shifting Political Stances",
+    "summary": "The BJP State President has accused the Congress party of constantly shifting its focus from EVMs to Special Investment Regions (SIR) due to a lack of concrete issues. He claimed this demonstrates the opposition's political inconsistency."
   },
   {
     "rank": 7,
-    "category": "Sports",
-    "headline": "Goa to Host 2027 Asian Pencak Silat Championship",
-    "summary": "Goa has been selected as the host destination for the prestigious Asian Pencak Silat Championship in April 2027. The martial arts event is expected to bring widespread attention to the state's sporting infrastructure."
+    "category": "Crime",
+    "headline": "Supreme Court Seeks Goa’s Response on Tarun Tejpal’s Appeal",
+    "summary": "The Supreme Court of India has issued a notice to the Goa government seeking its response to journalist Tarun Tejpal’s plea. Tejpal is challenging his conviction in a 2013 rape case."
   },
   {
     "rank": 8,
-    "category": "Sports",
-    "headline": "Goan Derby: FC Goa to Play Churchill Brothers on Dec 13",
-    "summary": "FC Goa and Churchill Brothers are scheduled to face off in a highly anticipated Goan derby match at Fatorda on December 13. The fixture is expected to draw a massive crowd of local football enthusiasts."
+    "category": "Crime",
+    "headline": "SC Seeks Goa Govt Reply to Tarun Tejpal's Challenge",
+    "summary": "The Supreme Court has requested a response from the Goa government regarding a plea filed by Tarun Tejpal. The appeal challenges his conviction in a sexual assault case dating back to 2013."
   },
   {
     "rank": 9,
-    "category": "Tourism",
-    "headline": "Goa Tourism Faces Rising Competition and Tax Challenges",
-    "summary": "Tourism experts warn that destinations like Kerala are challenging Goa's lead in adventure tourism. Additionally, the rise of unregistered parallel tourism and unpaid taxes is impacting the local hospitality industry."
+    "category": "Crime",
+    "headline": "SC Issues Notice on Tarun Tejpal's Plea Against Conviction",
+    "summary": "The Supreme Court has issued a formal notice to the Goa government following an appeal by journalist Tarun Tejpal. The appeal is filed against his conviction in a high-profile 2013 sexual assault case."
   },
   {
     "rank": 10,
-    "category": "Civic",
-    "headline": "New Verna Waste Plant Begins Operations for 43 Units",
-    "summary": "The new waste management facility at Verna IDC has commenced operations, managing trash disposal for 43 industrial units. The initiative is a major step toward promoting clean and sustainable industrial practices."
+    "category": "Sports",
+    "headline": "India Prioritizes New Zealand Friendlies Over SAFF Championship",
+    "summary": "The Indian football team decided to prioritize international friendly matches against New Zealand over participating in the SAFF Championship. This strategic decision was made to provide the squad with stronger international exposure."
   },
   {
     "rank": 11,
-    "category": "Business",
-    "headline": "Goa Shipyard and Mazagon Dock to Aid Andhra Pradesh's Shipbuilding Plans",
-    "summary": "Defense shipbuilders Goa Shipyard and Mazagon Dock are set to support Andhra Pradesh's ambitious shipbuilding expansion. The collaboration will help drive maritime infrastructure and technical development in the region."
+    "category": "Entertainment",
+    "headline": "Ajay Devgn Rebuffs Kapil Sharma's Feni Joke",
+    "summary": "Actor Ajay Devgn responded with a sharp personal jab during a show to counter host Kapil Sharma's joke about Goan feni. The playful banter entertained audiences during the promotional event."
   },
   {
     "rank": 12,
-    "category": "Sports",
-    "headline": "India Prioritizes New Zealand Friendlies Over SAFF Championship",
-    "summary": "The Indian football team has prioritized international friendly matches against New Zealand over participating in the SAFF Championship. The decision highlights the national team's focus on high-profile global fixtures."
+    "category": "Civic",
+    "headline": "Goa Struggles with Incomplete Stray Dog Data",
+    "summary": "Despite a visible rise in the stray dog population across Goa, official data collection remains incomplete and patchy. This lack of accurate figures hampers effective animal birth control and vaccination programs."
   },
   {
     "rank": 13,
     "category": "General",
-    "headline": "Travelers Receive Route Updates for Pune-Goa Highway",
-    "summary": "Road trip updates suggest using the Belgaum route from Pune to Goa, and returning via Amboli for a smoother drive. The current road conditions provide valuable insights for commuters planning their journeys."
+    "headline": "Route Update for Pune to Goa Travelers",
+    "summary": "An updated route guide provides details for driving from Pune to Goa via Belgaum and returning through Amboli. The report offers current road conditions and travel tips for commuters using these paths."
   },
   {
     "rank": 14,
     "category": "Politics",
-    "headline": "Karnataka Deputy Speaker Proposes Merging Uttara Kannada With Goa",
-    "summary": "The Deputy Speaker of the Karnataka Assembly has suggested merging the Uttara Kannada district with Goa. The statement has sparked intense discussions on regional identity and administrative alignment."
+    "headline": "Karnataka Deputy Speaker Proposes Merging Uttara Kannada with Goa",
+    "summary": "Karnataka's Deputy Speaker has suggested merging the neighboring district of Uttara Kannada with Goa. This proposal has sparked debates regarding regional administration and cultural connections."
   },
   {
     "rank": 15,
-    "category": "Entertainment",
-    "headline": "Actor Vishal Krishna Injured During Shoot in Goa",
-    "summary": "Popular actor Vishal Krishna suffered an injury while performing a stunt sequence during a film shoot in Goa. He received prompt medical treatment and is currently recovering."
+    "category": "Tourism",
+    "headline": "High Court Orders Regulation of Kayaking Points in Goa",
+    "summary": "Following the intervention of the High Court, the Goa government is set to demarcate and regulate various hinterland kayaking points. This move is intended to ensure tourist safety and minimize ecological impact."
   },
   {
     "rank": 16,
-    "category": "General",
-    "headline": "Goa Launches Seva Sankalp Abhiyan for Youth IT Skills",
-    "summary": "The Goa government has introduced the Seva Sankalp Abhiyan program to train local youth in artificial intelligence and modern digital skills. This program is aimed at enhancing employability and technological capabilities in the state."
+    "category": "Entertainment",
+    "headline": "Actor Vishal Krishna Injured During Goa Film Shoot",
+    "summary": "Popular actor Vishal Krishna sustained injuries while performing a stunt sequence for an upcoming film in Goa. He was given immediate medical attention, and the shooting was temporarily paused."
   },
   {
     "rank": 17,
-    "category": "General",
-    "headline": "Gundhi Bug Infestation Causes Concern in South Goa",
-    "summary": "Farmers in South Goa are on high alert following an outbreak of Gundhi bugs in local agricultural fields. The infestation poses a significant threat to paddy crops, prompting calls for government intervention."
+    "category": "Politics",
+    "headline": "Tensions Rise Between BJP and Ally in Goa",
+    "summary": "Internal friction has emerged between the ruling BJP and its coalition partner in Goa over key administrative decisions. The differences highlight the political tightrope the alliance is currently walking."
   },
   {
     "rank": 18,
     "category": "Business",
-    "headline": "GCCI Demands Removal of 21 Villages from Western Ghats ESA",
-    "summary": "The Goa Chamber of Commerce and Industry has urged the central government to exclude 21 villages from the Western Ghats Eco-Sensitive Area. The trade body stated that the designation poses severe risks to the local mining industry."
+    "headline": "Real Estate Offer Promotes Villa Land in Goa",
+    "summary": "The House of Abhinandan Lodha is running a festive Ganeshotsav promotion encouraging buyers to invest in villa land in Goa. The promotional campaign urges customers to book immediately to save up to ₹10.6 lakh."
   },
   {
     "rank": 19,
-    "category": "Crime",
-    "headline": "Odisha Native and Minor Arrested With Ganja in Goa",
-    "summary": "Goa Police arrested a man from Odisha and detained a minor after seizing ganja worth 10 lakh rupees. The contraband was confiscated during a targeted anti-narcotics operation in the state."
+    "category": "Politics",
+    "headline": "Goa Election Chief Promises Complete Voter Inclusion",
+    "summary": "Goa's Chief Electoral Officer has assured the public that no eligible voter will be excluded from the electoral rolls. The statement aims to address recent public concerns and technical glitches in voter registration."
   },
   {
     "rank": 20,
-    "category": "Civic",
-    "headline": "Strict Waste Tracking for Factories as Hotels and Casinos Escape Scrutiny",
-    "summary": "While industrial waste from Goa's factories is carefully tracked to the kilo, garbage generated by hotels and casinos remains largely unmonitored. Authorities are being urged to implement uniform regulations across the hospitality sector."
+    "category": "Crime",
+    "headline": "Two Arrested in Goa with Ganja Valued at ₹10 Lakh",
+    "summary": "Goa police have detained a man and a minor from Odisha after finding them in possession of ganja worth ₹10 lakh. An investigation is underway to track down the network involved in the drug trafficking."
   },
   {
     "rank": 21,
     "category": "Business",
-    "headline": "Nationalised Bank Unions Set for Three-Day Strike",
-    "summary": "Employees of nationalised banks have announced a three-day strike starting on September 28 to demand resolved wage negotiations and better working conditions. The strike is expected to affect banking services across the state."
+    "headline": "GCCI Urges Removal of 21 Villages from ESA List",
+    "summary": "The Goa Chamber of Commerce and Industry has requested the central government to exclude 21 villages from the Western Ghats Eco-Sensitive Area. The chamber argues that their inclusion poses a severe risk to local mining operations."
   },
   {
     "rank": 22,
-    "category": "Politics",
-    "headline": "Yuri Alemao Demands Election Defectors Lose Security Deposits",
-    "summary": "Opposition leader Yuri Alemao has urged the Election Commission to ensure that defecting politicians lose their election deposits. He stated that tougher measures are needed to preserve democratic principles."
+    "category": "General",
+    "headline": "Gundhi Bug Infestation Targets South Goa Crops",
+    "summary": "Farmers in South Goa are highly concerned over a sudden infestation of Gundhi bugs damaging local crops. Agriculture department officials are assessing the situation to recommend immediate pest control measures."
   },
   {
     "rank": 23,
     "category": "Civic",
-    "headline": "Ponda Municipality to Construct New Palika Bazaar Building",
-    "summary": "The Ponda Municipal Council has finalized plans to construct a modern commercial complex to house the local Palika Bazaar. The project aims to improve facilities for both vendors and customers."
+    "headline": "New Building Planned for Ponda's Palika Bazaar",
+    "summary": "The Ponda Municipal Council has decided to construct a brand new building to house the Palika Bazaar. The modern facility is expected to resolve space and hygiene issues for local vendors and shoppers."
   },
   {
     "rank": 24,
     "category": "Business",
-    "headline": "Campal Clam Divers Balance Livelihoods With Marine Sustainability",
-    "summary": "Clam divers in Campal are navigating economic risks as they adopt sustainable harvesting methods to protect local marine ecology. The transition seeks to balance income security with the preservation of natural resources."
+    "headline": "Goa Commences Iron Ore Dump Handling Operations",
+    "summary": "Under its newly approved policy, the Goa government has officially started the handling and processing of iron ore dumps. This initiative is expected to boost state revenues and revive the local mining economy."
   },
   {
     "rank": 25,
-    "category": "Business",
-    "headline": "Goa Commences Iron Ore Dump Handling Under New Mining Policy",
-    "summary": "The Goa government has officially launched the handling of iron ore dumps under a newly implemented regulatory framework. The initiative is expected to streamline mining activities and boost state revenues."
+    "category": "Politics",
+    "headline": "Goa CM Applauds PM Modi’s Mann Ki Baat Address",
+    "summary": "Goa Chief Minister Pramod Sawant has praised Prime Minister Narendra Modi's focus on public participation and a drug-free India during his recent address. Sawant reiterated Goa's commitment to supporting these national goals."
   },
   {
     "rank": 26,
-    "category": "Civic",
-    "headline": "SGDH Plans to Relocate Nursing College to Free Up Beds",
-    "summary": "The South Goa District Hospital is considering shifting its nursing college to the old Hospicio building to free up valuable ward space. This move will help accommodate more patient beds and improve healthcare delivery."
+    "category": "General",
+    "headline": "Campal Divers Face Income Loss for Sustainability",
+    "summary": "Traditional clam divers in Campal are putting their livelihoods at risk by adopting sustainable harvesting practices to protect marine life. These measures are intended to preserve local clam populations for future generations."
   },
   {
     "rank": 27,
-    "category": "Civic",
-    "headline": "CCP Announces Six-Month Road Safety Initiative in Panaji",
-    "summary": "The Corporation of the City of Panaji is launching a comprehensive six-month campaign to promote road safety and reduce accidents. The drive will focus on raising awareness and stricter enforcement of traffic rules."
+    "category": "Crime",
+    "headline": "SC Issues Notices in Tarun Tejpal Case",
+    "summary": "The Supreme Court has issued notices to former editor Tarun Tejpal and the Goa Police during the hearing of a petition related to the 2013 rape case. The court is reviewing legal challenges surrounding the high-profile incident."
   },
   {
     "rank": 28,
-    "category": "Civic",
-    "headline": "Goa's Scrapyard Regulation Policy Remains Unimplemented",
-    "summary": "Over a year after its announcement, Goa's proposed policy to regulate illegal scrapyards is yet to take effect. Environmental advocates have expressed disappointment over the delayed execution of the guidelines."
+    "category": "Tourism",
+    "headline": "Remembering Nostalgic Bombay-Goa Sea Voyages",
+    "summary": "The article reflects on a bygone era when traveling by ship from Bombay to Goa was considered a festive, celebratory experience. It captures the unique history and nostalgia associated with these coastal sea routes."
   },
   {
     "rank": 29,
-    "category": "General",
-    "headline": "Artists Turn Goan Culture and Traditions Into Unique Souvenirs",
-    "summary": "Local creators in Goa are transforming regional heritage, memories, and daily life into artistic souvenirs for travelers. This grassroots movement aims to offer tourists authentic alternatives to generic commercial keepsakes."
+    "category": "Tourism",
+    "headline": "Kerala Overtakes Goa in Adventure Tourism, Says Expert",
+    "summary": "A tourism expert claims that Kerala has surpassed Goa to become India's premier destination for adventure tourism. The shift is attributed to Kerala's aggressive promotion of diverse outdoor activities and scenic landscapes."
   },
   {
     "rank": 30,
-    "category": "Civic",
-    "headline": "Porvorim Commuters to Gain Direct Access to Atal Setu Next Week",
-    "summary": "The traffic department is preparing to allow vehicles from Porvorim direct entry onto the Atal Setu starting next week. The change is expected to significantly reduce congestion during peak commuting hours."
+    "category": "Sports",
+    "headline": "Goan Coach Micky Appointed Assistant at Gokulam Kerala",
+    "summary": "Goan football coach Micky Fernandes has been appointed to assist Brazilian head coach Carlos Alberto Vaz Pinto at Gokulam Kerala FC. Fernandes brings extensive local coaching experience to the I-League club."
   },
   {
     "rank": 31,
     "category": "Civic",
-    "headline": "Labour Welfare Boards to Go Digital With ERP Systems",
-    "summary": "Goa's labour welfare boards are undergoing digitization by implementing new Enterprise Resource Planning systems. The shift aims to bring transparency and efficiency to welfare services provided to workers."
+    "headline": "South Goa District Hospital Plans Nursing College Shift",
+    "summary": "The South Goa District Hospital is considering moving its nursing college to the old Hospicio building. This relocation aims to free up physical space and beds to meet the growing patient demand."
   },
   {
     "rank": 32,
-    "category": "Crime",
-    "headline": "Two Detained in Calangute for Halting Public Works",
-    "summary": "Calangute police have detained two individuals for allegedly disrupting and stopping scheduled public development works in the area. Law enforcement intervened to ensure that the infrastructure project proceeded smoothly."
+    "category": "Civic",
+    "headline": "Panaji Municipal Corporation Announces Road Safety Drive",
+    "summary": "The Corporation of the City of Panaji (CCP) is launching a six-month campaign focused on road safety. The initiative will involve strict enforcement of traffic rules and public awareness programs to reduce accidents."
   },
   {
     "rank": 33,
-    "category": "Business",
-    "headline": "Cabinet Approves Revamp of Sanjivani Sugar Factory",
-    "summary": "The Goa Cabinet has greenlit the redevelopment of the Sanjivani sugar factory, which has been non-operational for years. The decision brings hope to local farmers who rely on sugarcane cultivation."
+    "category": "Civic",
+    "headline": "Industrial Waste Monitored, But Hospitality Waste Untracked",
+    "summary": "While industrial waste in Goa is meticulously tracked to the last kilogram, waste from hotels and casinos is reportedly going unmonitored. Environmental advocates have raised concerns over this regulatory gap."
   },
   {
     "rank": 34,
-    "category": "Entertainment",
-    "headline": "Supper Clubs Emerge as a New Dining Trend in Goa",
-    "summary": "Pop-up supper clubs are becoming increasingly popular in Goa, offering intimate spaces where strangers can connect over home-cooked food and storytelling. The trend is reshaping the state's social and culinary landscape."
+    "category": "Sports",
+    "headline": "Churchill Brothers and FC Goa Ready for December Derby",
+    "summary": "Football fans in Goa are anticipating a thrilling local derby as Churchill Brothers are set to play FC Goa on December 13. The clash is one of the most awaited matches of the season."
   },
   {
     "rank": 35,
-    "category": "Sports",
-    "headline": "FC Goa to Launch ISL Campaign Against Chennaiyin FC",
-    "summary": "FC Goa is scheduled to open its Indian Super League season with a home match against Chennaiyin FC on the opening night. Football fans are gearing up for the high-energy clash at the Fatorda Stadium."
+    "category": "Entertainment",
+    "headline": "Artisans Transform Goan Culture Into Unique Souvenirs",
+    "summary": "Local artists and creators are translating traditional Goan culture, nostalgic memories, and everyday elements into creative souvenirs. Their unique products help tourists take a piece of authentic Goa back home."
   },
   {
     "rank": 36,
-    "category": "General",
-    "headline": "Prudent Media Airs Latest Konkani Prime News Broadcast",
-    "summary": "Local news channel Prudent Media has broadcasted its latest Konkani Prime News bulletin. The segment covered major political debates, civic challenges, and regional updates across Goa."
+    "category": "Politics",
+    "headline": "Congress Leader Demands Penalties for Political Defectors",
+    "summary": "Opposition leader Yuri Alemao has urged the public to ensure that political defectors lose their security deposits in elections. He argued that rejecting defectors is crucial to preserving democratic ethics in Goa."
   },
   {
     "rank": 37,
     "category": "Business",
-    "headline": "KTC Targets Driver Efficiency to Manage Escalating Diesel Costs",
-    "summary": "Facing high diesel prices, the Kadamba Transport Corporation is training its drivers in fuel-efficient driving techniques. The initiative aims to reduce operational costs and promote eco-friendly public transport."
+    "headline": "Nationalized Bank Unions Call for Three-Day Strike",
+    "summary": "Employee unions of nationalized banks in Goa have announced a three-day strike starting September 28 to demand better working conditions and wage hikes. The strike is expected to impact banking operations across the state."
   },
   {
     "rank": 38,
-    "category": "Business",
-    "headline": "Goa Shipyard Records Historic Revenue of Rs 4,004 Crore",
-    "summary": "Goa Shipyard Limited achieved a record-breaking revenue of 4,004 crore rupees for the financial year 2025-26. The milestone reflects steady growth in defense shipbuilding and local manufacturing output."
+    "category": "General",
+    "headline": "Award-Winning Pernem Firefighter Retires After Dedicated Service",
+    "summary": "A respected firefighter from Pernem, who started his career as a daily wage earner, has officially retired after years of distinguished service. He was previously recognized with awards for his bravery and commitment."
   },
   {
     "rank": 39,
-    "category": "Tourism",
-    "headline": "Taxi Rides in Goa Set to Cost More After Fare Revision",
-    "summary": "The Goa government has approved a revised fare structure, making taxi rides across the state more expensive. The adjustment aims to balance driver grievances with passenger convenience."
+    "category": "Crime",
+    "headline": "Odisha Youth and Minor Apprehended for Drug Trafficking",
+    "summary": "Goa police have arrested a youth and detained a minor from Odisha for their involvement in a drug trafficking syndicate. A significant quantity of illicit substances was seized from their possession during the operation."
+  },
+  {
+    "rank": 40,
+    "category": "General",
+    "headline": "Goan Army Dentist Earns Prestigious International Fellowship",
+    "summary": "Major Dias, a Goan dental officer serving in the Indian Army, has been awarded a fellowship by the Royal College of Surgeons of Edinburgh. This achievement marks a significant milestone in his medical career."
+  },
+  {
+    "rank": 41,
+    "category": "Civic",
+    "headline": "Goa’s Proposed Scrapyard Policy Faces Delays",
+    "summary": "More than a year after its announcement, Goa's proposed scrapyard regulation policy has yet to be implemented. Locals and environmentalists are demanding swift action to address unauthorized scrapyards."
+  },
+  {
+    "rank": 42,
+    "category": "Politics",
+    "headline": "Missing Voters' Applications Processed Separately, Says CEO",
+    "summary": "Following media reports, the Chief Electoral Officer of Goa confirmed that the applications of 97 missing voters have been processed separately. Officials stated that measures are being taken to resolve their registration issues."
+  },
+  {
+    "rank": 43,
+    "category": "Civic",
+    "headline": "Porvorim Commuters Likely to Gain Access to Atal Setu",
+    "summary": "Vehicles coming from Porvorim may soon be allowed to access the Atal Setu bridge starting next week. The government is finalizing traffic management plans to ease congestion on the route."
+  },
+  {
+    "rank": 44,
+    "category": "Business",
+    "headline": "Labour Welfare Boards Implement Digital ERP Systems",
+    "summary": "In a bid to streamline administrative tasks and improve service delivery, Goa’s labour welfare boards have adopted new digital ERP systems. The modernization is expected to benefit thousands of local workers."
+  },
+  {
+    "rank": 45,
+    "category": "Crime",
+    "headline": "Two Detained in Calangute for Disrupting Public Work",
+    "summary": "Calangute police have detained two individuals for allegedly stopping ongoing development work in the locality. The action was taken following a formal complaint filed by the project contractor."
+  },
+  {
+    "rank": 46,
+    "category": "Business",
+    "headline": "Cabinet Greenlights Redevelopment of Sanjivani Sugar Factory",
+    "summary": "The Goa cabinet has approved a comprehensive plan to redevelop the defunct Sanjivani sugar factory. The project aims to boost local agriculture and support sugarcane farmers in the region."
+  },
+  {
+    "rank": 47,
+    "category": "Entertainment",
+    "headline": "Supper Clubs Gain Popularity Among Food Enthusiasts",
+    "summary": "A rising trend of intimate supper clubs in Goa is bringing together locals and tourists to share home-cooked meals and stories. These curated dining experiences foster meaningful social connections over gourmet food."
+  },
+  {
+    "rank": 48,
+    "category": "Sports",
+    "headline": "FC Goa to Play Chennaiyin FC in ISL Opener",
+    "summary": "FC Goa is scheduled to lock horns with Chennaiyin FC on the opening night of the upcoming Indian Super League season. Football enthusiasts are eagerly anticipating the high-octane season opener."
+  },
+  {
+    "rank": 49,
+    "category": "Business",
+    "headline": "KTC Focuses on Driver Efficiency to Control Fuel Expenses",
+    "summary": "Facing sharp increases in diesel prices, the Kadamba Transport Corporation (KTC) is implementing driver training programs to improve fuel efficiency. The public transport operator aims to lower operational costs through better driving techniques."
+  },
+  {
+    "rank": 50,
+    "category": "Weather",
+    "headline": "Monsoon Deficit Threatens Forest Fungi and Ecology",
+    "summary": "A notable deficit in Goa's monsoon rainfall has led to a drop in the wild fungi population, posing a threat to the forest ecosystem. Ecologists warn that this decline could disrupt the natural decay and nutrient recycling processes in the woodlands."
   }
 ]
