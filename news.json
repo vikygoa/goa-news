@@ -1,302 +1,296 @@
 [
   {
     "rank": 1,
-    "category": "Crime",
-    "headline": "Goa Senior Citizen Alleges Road Rage by BJP MLA’s Son",
-    "summary": "A Goa senior citizen has accused a BJP MLA’s son of road rage, prompting Chief Minister Pramod Sawant to order an official probe into the incident."
+    "category": "Politics",
+    "headline": "Bombay HC Slams EC Over Software",
+    "summary": "The Bombay High Court criticized the Election Commission after software glitches deleted six members of a Santa Cruz family from voter rolls."
   },
   {
     "rank": 2,
-    "category": "Crime",
-    "headline": "Road-Rage Row Involving MLA’s Son Sparks Outrage",
-    "summary": "Public fury has erupted across Goa following a road-rage incident allegedly involving a local MLA's son, with victims coming forward to demand strict action."
+    "category": "Politics",
+    "headline": "Voters Reapply After Deletion",
+    "summary": "A total of 81 voters whose names were deleted from electoral rolls have submitted reapplication forms for inclusion."
   },
   {
     "rank": 3,
-    "category": "Crime",
-    "headline": "Lawyer Alleges Abuse and Threats in Road Rage Incident",
-    "summary": "A lawyer claims that a BJP MLA's son verbally abused and threatened him and his family members during a violent road-rage encounter."
+    "category": "Politics",
+    "headline": "CM Hits Out at Congress",
+    "summary": "Chief Minister Pramod Sawant accused the Congress party of spreading misinformation regarding voter roll deletions in Goa."
   },
   {
     "rank": 4,
-    "category": "General",
-    "headline": "Woman’s Compassion for Stranger in Goa Goes Viral",
-    "summary": "A Bengaluru woman visiting Goa touched many hearts online after she offered help to a stranger who shared his tragic story of losing everything."
+    "category": "Crime",
+    "headline": "Probe Ordered in Road Rage Incident",
+    "summary": "CM Pramod Sawant has ordered an investigation after a senior citizen accused a BJP MLA's son of road rage and intimidation."
   },
   {
     "rank": 5,
-    "category": "General",
-    "headline": "Goa Trip Turns Into Blessing for Destitute Stranger",
-    "summary": "A traveller's spontaneous vacation to Goa took a meaningful turn when she crossed paths with an individual who had lost his job and entire business."
+    "category": "Crime",
+    "headline": "Complaint Withdrawn After Apology",
+    "summary": "The road rage case in Curchorem was resolved after the MLA's son issued an apology and the complainant withdrew the police complaint."
   },
   {
     "rank": 6,
-    "category": "Tourism",
-    "headline": "Travel Story Highlights Meeting a Jobless Stranger in Goa",
-    "summary": "A tourist sharing her Goa experience emphasized that not every trip is about beaches, detailing how she offered assistance to a down-on-his-luck man."
+    "category": "Crime",
+    "headline": "Road Rage Case Sparks Outrage",
+    "summary": "Public fury erupted across Goa following allegations of road rage and threats involving a local legislator's son."
   },
   {
     "rank": 7,
-    "category": "Entertainment",
-    "headline": "Former TV Host Rob Finds Financial Success Through Art in Goa",
-    "summary": "Popular television personality Rob, known for his show MAD, relocated to Goa and now earns more than ever by focusing entirely on his passion for art."
+    "category": "Politics",
+    "headline": "Goa Congress Holds Walkathon",
+    "summary": "The Goa Congress embarked on a pre-poll walkathon to connect with voters and assess public sentiment ahead of upcoming elections."
   },
   {
     "rank": 8,
-    "category": "Tourism",
-    "headline": "R Lounge Introduces Innovative Cocktails in Goa",
-    "summary": "R Lounge has launched a unique cocktail laboratory experience in Goa, blending mixology with experimental flavors for visitors."
+    "category": "Politics",
+    "headline": "HC Sets Deadline for Party Registration",
+    "summary": "The High Court directed the Election Commission to make a final decision regarding the registration of the Goa Congress party by November 30."
   },
   {
     "rank": 9,
     "category": "Politics",
-    "headline": "81 Deleted Voters Reapply for Inclusion in Poll Rolls",
-    "summary": "Following controversies over missing names, 81 voters whose entries were deleted have reapplied to be included in the electoral rolls."
+    "headline": "Voters Urge Opposition Unity",
+    "summary": "Citizens participating in the Congress march in Goa delivered a clear message urging political parties to set aside egos and unite against the BJP."
   },
   {
     "rank": 10,
-    "category": "Civic",
-    "headline": "National CVD Summit 2026 Concludes in Goa",
-    "summary": "The National CVD Summit 2026 wrapped up in Goa with experts calling for better alignment between healthcare policy and scalable cardiac care implementation."
+    "category": "Tourism",
+    "headline": "Kind Encounter in Goa Goes Viral",
+    "summary": "A woman visiting Goa met a stranger who had lost his job and business, stepping in to offer assistance in a heartwarming viral moment."
   },
   {
     "rank": 11,
     "category": "Tourism",
-    "headline": "Festive Airfares to Goa Surge Amid High Demand",
-    "summary": "Festive travel from destinations like Hanoi to Goa is booming despite a 25 percent spike in airfares driven by upcoming holidays."
+    "headline": "Stranger Shares Loss with Tourist",
+    "summary": "A man from Maharashtra shared his tragic business losses with a visitor in Goa, prompting an emotional and supportive response."
   },
   {
     "rank": 12,
-    "category": "Business",
-    "headline": "India Approves Rs 13 Crore Seafarers’ Centre in Goa",
-    "summary": "The central government has approved a Rs 13 crore seafarers' welfare facility at Goa's Mormugao Port to support maritime workers."
+    "category": "Tourism",
+    "headline": "Goa Trip Becomes Life-Changer",
+    "summary": "A Bengaluru woman's vacation to Goa turned into a ray of hope for a destitute stranger who had lost everything."
   },
   {
     "rank": 13,
-    "category": "General",
-    "headline": "Bengaluru Social Worker Moves Strangers to Tears in Goa",
-    "summary": "A social worker from Bengaluru left a destitute man in tears in Goa after offering him generous support and assistance."
+    "category": "Sports",
+    "headline": "Footballers Banned for Match-Fixing",
+    "summary": "Fourteen individuals, including a police constable, have been slapped with bans for involvement in match-fixing within Goan football."
   },
   {
     "rank": 14,
-    "category": "Civic",
-    "headline": "Panel Calls for Psychiatric Ambulances and Halfway Homes",
-    "summary": "A rights panel has recommended the introduction of psychiatric ambulances and halfway homes to improve mental healthcare services at Goa's IPHB."
+    "category": "Entertainment",
+    "headline": "R Lounge Opens in Goa",
+    "summary": "A new venue named R Lounge has launched in Goa, introducing a unique cocktail laboratory concept to the local nightlife scene."
   },
   {
     "rank": 15,
-    "category": "Politics",
-    "headline": "Panaji MLA Opposes Privatisation of CoP Terminal",
-    "summary": "The Panaji MLA has voiced strong opposition against the proposed privatization of the Mormugao Port passenger terminal."
+    "category": "Business",
+    "headline": "Ex-TV Host Finds Success in Art",
+    "summary": "Rob, formerly of the TV show MAD, relocated to Goa and is now earning more than ever through his artistic endeavors."
   },
   {
     "rank": 16,
-    "category": "Crime",
-    "headline": "Six Arrested in Connection With BSNL Cable Thefts",
-    "summary": "Goa police have apprehended six individuals involved in a series of BSNL telecommunication cable thefts across the region."
+    "category": "Civic",
+    "headline": "National CVD Summit 2026 Concludes",
+    "summary": "The National CVD Summit wrapped up in Goa with a strong call to align medical policies and implementation for scalable cardiac care."
   },
   {
     "rank": 17,
-    "category": "Civic",
-    "headline": "Goa to Lift and Rehabilitate Stray Dogs from Beaches",
-    "summary": "Chief Minister Pramod Sawant announced that stray dogs roaming on Goa's popular beaches will be safely relocated and rehabilitated."
+    "category": "Weather",
+    "headline": "IMD Issues 7-Day Weather Forecast",
+    "summary": "The Meteorological Department has released its weekly weather outlook for Goa covering late September through early October."
   },
   {
     "rank": 18,
-    "category": "Civic",
-    "headline": "Elevated Corridors Planned for Pernem and Navelim",
-    "summary": "Authorities have planned two new elevated corridors to address frequent accidents and congestion at major black spots in Pernem and Navelim."
+    "category": "Crime",
+    "headline": "Lawyer Alleges Threats by MLA's Son",
+    "summary": "A lawyer filed a formal complaint claiming that a Goa BJP MLA's son verbally abused and threatened him and his family."
   },
   {
     "rank": 19,
-    "category": "Business",
-    "headline": "High Court Rejects Mining Firm’s Review Plea",
-    "summary": "The High Court has dismissed a review petition filed by a mining company seeking relief regarding operational constraints."
+    "category": "Tourism",
+    "headline": "Social Worker Moved by Jobless Man",
+    "summary": "A Bengaluru social worker visiting Goa encountered a man who lost his livelihood, leaving both in tears after a compassionate gesture."
   },
   {
     "rank": 20,
-    "category": "Tourism",
-    "headline": "Goa Airfares for October Long Weekend Outpace December Peak",
-    "summary": "Flight ticket prices to Goa for the upcoming October 2 long weekend have surged higher than typical rates seen during the New Year peak."
+    "category": "Business",
+    "headline": "Festive Travel Booms Despite Airfares",
+    "summary": "Travel demand for Durga Puja and Diwali has surged toward Goa despite a 25 percent spike in flight ticket prices."
   },
   {
     "rank": 21,
-    "category": "Politics",
-    "headline": "Voters Left Out of Electoral Rolls Despite Multiple Emails",
-    "summary": "Valid voters in Goa continue to be excluded from electoral lists, drawing criticism toward the Election Commission's flawed systemic verification process."
+    "category": "Civic",
+    "headline": "Panel Demands Better Mental Health Facilities",
+    "summary": "A rights panel has recommended the deployment of psychiatric ambulances and halfway homes for Goa's Institute of Psychiatry and Human Behavior."
   },
   {
     "rank": 22,
-    "category": "Civic",
-    "headline": "PWD to Conduct Pedestrian Audit Amid Unmet Road Safety Goals",
-    "summary": "With Rs 4 crore worth of road safety audit recommendations still pending implementation, the PWD has announced plans for a new pedestrian movement audit."
+    "category": "Tourism",
+    "headline": "Sneha Ullal Shares Goa Experience",
+    "summary": "Actor Sneha Ullal opened up about her time exploring Agonda beach, stating she hopes to discover more of the area during her next visit."
   },
   {
     "rank": 23,
-    "category": "Politics",
-    "headline": "CM Sawant Accuses Congress of Spreading Voter Roll Misinformation",
-    "summary": "Chief Minister Pramod Sawant has slammed the opposition Congress party for allegedly spreading false information regarding voter list deletions in Goa."
+    "category": "Civic",
+    "headline": "Ancient Brick Structure Draws Interest",
+    "summary": "Archaeologists have turned their attention to an old brick structure in Akhada to uncover more about the island's historical past."
   },
   {
     "rank": 24,
-    "category": "Politics",
-    "headline": "Congress and Revolutionary Goans Begin Alliance Talks",
-    "summary": "The Congress party and Revolutionary Goans have initiated discussions regarding a joint manifesto and potential seat-sharing arrangements."
+    "category": "Civic",
+    "headline": "Panaji MLA Opposes Terminal Privatisation",
+    "summary": "The local MLA has raised strong objections against the proposed privatisation of the Captain of Ports terminal facility."
   },
   {
     "rank": 25,
-    "category": "Tourism",
-    "headline": "Goa Tourism Department Targets November for Shivaji Museum",
-    "summary": "The Goa tourism department has directed authorities to ensure the proposed Chhatrapati Shivaji digital museum is completed by November."
+    "category": "General",
+    "headline": "School Welcomes New Batch",
+    "summary": "An educational institution in Goa has officially welcomed its newest incoming student batch with special introductory events."
   },
   {
     "rank": 26,
-    "category": "Tourism",
-    "headline": "Trying Out a New Suitcase on a Trip to Goa",
-    "summary": "A travel reviewer tests out the new Alpine Club Helix suitcase during a trip to Goa, evaluating its durability and convenience for travelers."
+    "category": "Civic",
+    "headline": "Porvorim Core Samples for Research",
+    "summary": "The Public Works Department handed over 30 core material samples from a Porvorim project to aid in climate research."
   },
   {
     "rank": 27,
-    "category": "Civic",
-    "headline": "Heritage Rules Introduced, but Old Goa Remains at Risk",
-    "summary": "Although a new heritage rulebook has been introduced, conservationists warn that historical sites in Old Goa continue to face environmental and structural threats."
+    "category": "Business",
+    "headline": "Long Weekend Airfares Outpace Peak Rates",
+    "summary": "Flight ticket prices to Goa for the upcoming October long weekend have climbed higher than rates typically seen during late December."
   },
   {
     "rank": 28,
-    "category": "Civic",
-    "headline": "Goa Reports Zero Animal Rabies Amid Regional Outbreaks",
-    "summary": "Goa has successfully maintained zero animal rabies cases even as neighboring states report dozens of fresh infections."
+    "category": "Crime",
+    "headline": "Six Arrested for Cable Thefts",
+    "summary": "Police have apprehended six suspects in connection with a series of BSNL telecommunication cable thefts in the region."
   },
   {
     "rank": 29,
     "category": "Civic",
-    "headline": "Babush Opposes Commercial Outlets in Miramar Beach Plan",
-    "summary": "Local MLA Babush has raised objections to proposed commercial cafes and shops within the Miramar beach toilet redevelopment project."
+    "headline": "PWD to Audit Pedestrian Movement",
+    "summary": "Following unadopted road safety audit recommendations, the PWD has announced plans to conduct a dedicated pedestrian movement audit."
   },
   {
     "rank": 30,
-    "category": "Politics",
-    "headline": "Voters at Congress March Urge Opposition Unity Against BJP",
-    "summary": "Participants at a Congress-led march in Goa urged opposition parties to set aside their differences and egos to effectively counter the ruling BJP."
+    "category": "Civic",
+    "headline": "Stray Dogs on Beaches to Be Sheltered",
+    "summary": "Chief Minister Pramod Sawant announced that stray dogs roaming Goa's beaches will be safely captured and rehabilitated."
   },
   {
     "rank": 31,
-    "category": "Politics",
-    "headline": "Congress Claims Over 1 Lakh Voters Illegally Excluded",
-    "summary": "The Congress party has alleged that over 1.28 lakh legitimate voters have been unlawfully removed from electoral lists through systematic exclusion."
+    "category": "Tourism",
+    "headline": "Call for No-Shack Zones Near Beach Entrances",
+    "summary": "The Calangute sarpanch has officially requested authorities to designate specific beach entry points as no-shack zones."
   },
   {
     "rank": 32,
-    "category": "General",
-    "headline": "St Xavier’s College Honours Late Rev Dr Nicolau Pereira",
-    "summary": "St Xavier’s College hosted a commemorative event to celebrate the enduring academic and community legacy of Rev Dr Nicolau Pereira."
+    "category": "Civic",
+    "headline": "Elevated Corridors Planned for Black Spots",
+    "summary": "Authorities have planned two new elevated corridors to address accident-prone black spots in Pernem and Navelim."
   },
   {
     "rank": 33,
-    "category": "Civic",
-    "headline": "Dabhal Gram Sabha Demands Exclusion from ESA List",
-    "summary": "Locals at the Dabhal gram sabha have formally requested the removal of Mhaisal and Kamarkand villages from the Ecologically Sensitive Area list."
+    "category": "General",
+    "headline": "HC to Hear Section 39A Case",
+    "summary": "The High Court is scheduled to commence final hearings on the contentious Section 39A legal matter starting Monday."
   },
   {
     "rank": 34,
     "category": "Politics",
-    "headline": "Goa Forward Party Threatens Protests Over Hospital Bed Shortages",
-    "summary": "The Goa Forward Party has warned of statewide agitations if the government fails to address severe shortages of hospital beds."
+    "headline": "Congress and RG Discuss Seat-Sharing",
+    "summary": "The Congress party and Revolutionary Goans have initiated formal discussions concerning a joint manifesto and electoral seat-sharing."
   },
   {
     "rank": 35,
-    "category": "Civic",
-    "headline": "Old Goa Residents Demand Renaming of Historic Monument",
-    "summary": "Residents of Old Goa have given the government a 15-day ultimatum to formally rename a controversial historical site."
+    "category": "Tourism",
+    "headline": "Shivaji Digital Museum Slated for November",
+    "summary": "The state tourism department is pushing to complete and open the new Chhatrapati Shivaji digital museum by November."
   },
   {
     "rank": 36,
     "category": "Civic",
-    "headline": "Goa to Assess Foundational Learning for Primary Students",
-    "summary": "Education authorities in Goa have announced comprehensive learning assessments for students in Standard I and II to gauge foundational skills."
+    "headline": "Demolition Stalled Due to Fund Crunch",
+    "summary": "Plans to demolish a dilapidated building in Honda have been delayed indefinitely due to a severe shortage of funds."
   },
   {
     "rank": 37,
     "category": "Civic",
-    "headline": "KTC Inducts First Batch of Women Traffic Controllers",
-    "summary": "The Kadamba Transport Corporation has marked a milestone by including women traffic controllers among its newest batch of recruits."
+    "headline": "New STP Planned to Clean River Sal",
+    "summary": "The Water Resources Department has proposed a new sewage treatment plant to curb untreated waste flow into the Sal river."
   },
   {
     "rank": 38,
     "category": "Civic",
-    "headline": "Britona Maritime School Expands Training Portfolio",
-    "summary": "The maritime training institute in Britona has announced the addition of 24 new specialized courses to broaden its educational offerings."
+    "headline": "Councillor Demands Tender Cancellation",
+    "summary": "A Corporation of the City of Panaji councillor has called for the immediate cancellation of a Captain of Ports jetty tender."
   },
   {
     "rank": 39,
-    "category": "Entertainment",
-    "headline": "Immersive Art Exhibition Teaches Children About Phytoplankton",
-    "summary": "A creative immersive art installation in Goa is introducing young children to the ecological importance of marine phytoplankton."
+    "category": "Crime",
+    "headline": "Man Arrested for Rape and Conversion Attempt",
+    "summary": "Police have arrested a man accused of raping a minor and subsequently pressuring her to convert her religion."
   },
   {
     "rank": 40,
-    "category": "Entertainment",
-    "headline": "Ajay Devgn Quips Back at Kapil Sharma's Goa Feni Joke",
-    "summary": "Actor Ajay Devgn playfully shut down comedian Kapil Sharma's joke about Goa feni with a sharp, humorous personal comeback during a show."
+    "category": "General",
+    "headline": "Goa Reports Zero Rabies Cases",
+    "summary": "Goa has successfully maintained a record of zero animal rabies cases amidst reports of multiple outbreaks in neighboring states."
   },
   {
     "rank": 41,
-    "category": "Civic",
-    "headline": "Chief Minister Emphasizes Pet Vaccination for Rabies-Free Goa",
-    "summary": "Chief Minister Pramod Sawant stressed that responsible pet ownership and universal vaccination are crucial to keeping Goa rabies-free."
+    "category": "Crime",
+    "headline": "Mormugao Police Arrest Rape Accused",
+    "summary": "Local police in Mormugao have taken a suspect into custody following allegations of the rape of a 10-year-old girl."
   },
   {
     "rank": 42,
     "category": "Politics",
-    "headline": "RGP Launches Membership Drive and Publicizes Finances",
-    "summary": "The Revolutionary Goans Party has kicked off a statewide membership drive while taking the step of making its financial records public."
+    "headline": "Congress Alleges Massive Voter Discrepancies",
+    "summary": "The Congress party has claimed that over 1.28 lakh voters were unlawfully left out of electoral lists through systematic deletions."
   },
   {
     "rank": 43,
     "category": "Business",
-    "headline": "Rera Seeks Court Intervention for Stalled Housing Project",
-    "summary": "The Real Estate Regulatory Authority has approached the courts seeking legal intervention to successfully take over and complete a stalled residential project."
+    "headline": "Travel Gear Tested on Goa Trip",
+    "summary": "A travel publication reviewed a new suitcase model by taking it on a trip to Goa to evaluate its durability and features."
   },
   {
     "rank": 44,
-    "category": "Politics",
-    "headline": "Sawant Blames Congress for Criticizing Election Commission",
-    "summary": "Chief Minister Pramod Sawant accused the Congress party of unfairly targeting the Election Commission to deflect attention from its electoral losses."
+    "category": "Sports",
+    "headline": "Goa Secures 28 Medals in Athletics",
+    "summary": "Goa's junior athletes put up a strong performance, accumulating a total of 28 medals at the West Zone junior athletics meet."
   },
   {
     "rank": 45,
-    "category": "Tourism",
-    "headline": "Reflecting on the Historic Sea Voyage from Bombay to Goa",
-    "summary": "An editorial look back recalls the golden days when traveling by passenger ship from Bombay to Goa was celebrated as a joyful festive journey."
+    "category": "Civic",
+    "headline": "Foundational Learning Assessment for Students",
+    "summary": "The state government is set to evaluate the basic foundational learning levels of students enrolled in classes one and two."
   },
   {
     "rank": 46,
-    "category": "Sports",
-    "headline": "Football Clubs Discuss National Team Development with Jamil",
-    "summary": "Representatives from various football clubs met with coach Khalid Jamil to exchange ideas and pledge support for building a stronger national team."
+    "category": "Civic",
+    "headline": "Dabolim Flyover Section Opening Date Set",
+    "summary": "A crucial section of the Dabolim flyover project has been assigned a strict opening deadline of December 15."
   },
   {
     "rank": 47,
-    "category": "Business",
-    "headline": "GCCI Urges Centre to Exempt Villages from Western Ghats ESA",
-    "summary": "Citing potential risks to local mining operations, the Goa Chamber of Commerce and Industry has requested the central government to exclude 21 villages from the Western Ghats ESA."
+    "category": "Weather",
+    "headline": "Crop Assessment Ordered Amid Dry Spell",
+    "summary": "A prolonged dry spell has forced the state administration to officially order a comprehensive assessment of affected crops."
   },
   {
     "rank": 48,
-    "category": "Sports",
-    "headline": "Coach Khalid Jamil Believes India Could Have Defeated Panama",
-    "summary": "Football coach Khalid Jamil expressed confidence that with a bit more self-belief, the Indian national squad could have secured a win against Panama."
+    "category": "Politics",
+    "headline": "RGP Launches Membership and Financial Drive",
+    "summary": "The Revolutionary Goans Party has initiated a statewide membership campaign while publicly disclosing its financial records."
   },
   {
     "rank": 49,
-    "category": "Tourism",
-    "headline": "Rise of Unregulated Homestays Poses Challenges for Goa Tourism",
-    "summary": "The proliferation of unregistered accommodations, unverified guests, and unpaid taxes has fueled a booming parallel tourism economy in Goa."
-  },
-  {
-    "rank": 50,
-    "category": "Business",
-    "headline": "Proposed Three-Day Bank Strike Called Off After Talks",
-    "summary": "The nationwide three-day bank strike has been officially deferred following successful conciliation talks between bank unions and the Indian Banks' Association."
+    "category": "Civic",
+    "headline": "Gram Sabha Seeks Exclusion from ESA",
+    "summary": "The Dabhal gram sabha has passed a resolution demanding the removal of Mhaisal and Kamarkand from the Ecologically Sensitive Area list."
   }
 ]
