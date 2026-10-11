@@ -1,302 +1,62 @@
 [
   {
     "rank": 1,
-    "category": "Crime",
-    "headline": "Crore-Rupee Job and Property Fraud",
-    "summary": "Goa police are investigating a major 1.27 crore fraud case involving fake job promises for excise and education roles, alongside fraudulent property deals."
+    "category": "Politics",
+    "headline": "CJP Protest Detainees Blocked at Azad Maidan",
+    "summary": "Police detained several demonstrators and blocked entry to Azad Maidan during a CJP protest in Goa. Authorities denied the group permission to hold the protest in Panaji."
   },
   {
     "rank": 2,
     "category": "Crime",
-    "headline": "Job Scam Lands Man in Jail",
-    "summary": "A man who paid ₹27 lakh in a desperate gamble to secure a government job has been sent to a Goa jail."
+    "headline": "Two Arrested for IIT Goa Exam Cheating",
+    "summary": "Two individuals were booked and arrested at the Goa airport for cheating in the IIT Goa recruitment exam. Authorities recovered Bluetooth earpieces and SIM cards from the suspects."
   },
   {
     "rank": 3,
-    "category": "Crime",
-    "headline": "Probe into Forged Excise Letter",
-    "summary": "The Goa Chief Minister stated that police are actively investigating a forged signature on a fake Excise Commissioner appointment letter."
+    "category": "Politics",
+    "headline": "Rahul Gandhi's Goa Visit Postponed",
+    "summary": "Rahul Gandhi's scheduled visit to Goa for the Goy Rakhonn Yatra has been called off amid ongoing protests. Meanwhile, Congress leaders have vowed to defy bans and proceed with planned rallies."
   },
   {
     "rank": 4,
-    "category": "Politics",
-    "headline": "Kejriwal Unveils Goa Guarantees",
-    "summary": "AAP leader Arvind Kejriwal announced six guarantees for Goa, promising free electricity and a ₹3,000 monthly financial aid for women."
+    "category": "Crime",
+    "headline": "Goa Police Probes Rs 1.27 Crore Job Scam",
+    "summary": "Goa police have registered multiple FIRs in connection with a major fraud involving fake job promises and property deals totaling Rs 1.27 crore. The Chief Minister assured strict action regarding forged signatures on fake appointment letters."
   },
   {
     "rank": 5,
     "category": "Politics",
-    "headline": "Kejriwal Unveils Goa Guarantees",
-    "summary": "Arvind Kejriwal launched six key promises for Goa, highlighting free power and financial support for women if AAP comes to power."
+    "headline": "Kejriwal Unveils Six Guarantees for Goa",
+    "summary": "AAP leader Arvind Kejriwal announced six guarantees for voters in Goa, highlighting free power and financial aid for women. The promises aim to give residents a glimpse of governance under the party."
   },
   {
     "rank": 6,
-    "category": "Politics",
-    "headline": "AAP's Vision for Goa Outlined",
-    "summary": "With six major promises, Arvind Kejriwal offered a glimpse of what governance under the AAP would look like in Goa."
+    "category": "Crime",
+    "headline": "Suspected Drug Supplier Apprehended in Goa",
+    "summary": "EAGLE Force, with assistance from Goa Police, successfully apprehended a suspected drug supplier in the state. Further investigations are currently underway."
   },
   {
     "rank": 7,
-    "category": "Sports",
-    "headline": "Mongia Back for Goa Cricket Talent",
-    "summary": "Mongia has returned to Goa with a primary focus on nurturing and developing the next generation of local cricket talent."
+    "category": "Civic",
+    "headline": "Goa Cabinet Clears Key Infrastructure Shifts",
+    "summary": "The Goa Cabinet approved the shifting of the Mirabag water pumping station to Panchwadi. Additionally, the state transitioned its smart city framework into a state-level Special Purpose Vehicle following instructions from the Centre."
   },
   {
     "rank": 8,
     "category": "Sports",
-    "headline": "Tendulkar Missing from Ranji Squad",
-    "summary": "Arjun Tendulkar's name was notably absent as Goa announced its squad for the upcoming Ranji Trophy matches."
+    "headline": "Ranji Trophy Squad Announced Without Arjun Tendulkar",
+    "summary": "Goa has unveiled its latest Ranji Trophy squad for the upcoming matches. Notably, all-rounder Arjun Tendulkar's name was missing from the announced lineup."
   },
   {
     "rank": 9,
-    "category": "Sports",
-    "headline": "Live Cricket Match Updates",
-    "summary": "Stay updated with live scores and coverage of ongoing cricket matches across various tournaments."
+    "category": "Entertainment",
+    "headline": "Veteran Actor Nana Patekar Passes Away in Goa",
+    "summary": "Veteran actor Nana Patekar passed away at the age of 75 in Goa. An autopsy confirmed he died of a heart attack due to artery blockage, and Goa Police registered an unnatural death case as per standard procedure."
   },
   {
     "rank": 10,
-    "category": "Entertainment",
-    "headline": "Actor Nana Patekar Passes Away",
-    "summary": "Veteran actor Nana Patekar has passed away at the age of 75 in Goa, prompting an unnatural death case registration by local police."
-  },
-  {
-    "rank": 11,
-    "category": "Entertainment",
-    "headline": "Cinema Loses Veteran Nana Patekar",
-    "summary": "Renowned actor Nana Patekar, celebrated for his intense and honest portrayals in Indian cinema, has died at 75."
-  },
-  {
-    "rank": 12,
-    "category": "Entertainment",
-    "headline": "CM Sawant Pays Tribute to Patekar",
-    "summary": "Goa Chief Minister Pramod Sawant expressed deep sorrow, calling the death of veteran actor Nana Patekar a big loss for the country."
-  },
-  {
-    "rank": 13,
-    "category": "Entertainment",
-    "headline": "Patekar's Final Hours and Medical Details",
-    "summary": "Doctors and medical reports shed light on the final hours of veteran actor Nana Patekar following his complaints of pain on the left side."
-  },
-  {
-    "rank": 14,
-    "category": "Politics",
-    "headline": "ST Political Reservation Assured",
-    "summary": "MLA Govind Gaude assured that the political reservation for the Scheduled Tribe community will be finalized before November."
-  },
-  {
-    "rank": 15,
-    "category": "Politics",
-    "headline": "Goa Cabinet Hails Modi's Tenure",
-    "summary": "The Goa Cabinet passed a resolution praising Prime Minister Narendra Modi for completing 25 years in public service."
-  },
-  {
-    "rank": 16,
-    "category": "Politics",
-    "headline": "Congress Yatra Review",
-    "summary": "Political analysts weigh in on the outcomes of recent political yatras and Congress party dynamics in Goa."
-  },
-  {
-    "rank": 17,
-    "category": "Politics",
-    "headline": "Rahul Gandhi Postpones Goa Visit",
-    "summary": "Senior Congress leader Rahul Gandhi is likely to postpone his scheduled upcoming visit to Goa."
-  },
-  {
-    "rank": 18,
-    "category": "Crime",
-    "headline": "Police Register Unnatural Death Case",
-    "summary": "Goa Police have registered an unnatural death case and launched an inquiry following the demise of actor Nana Patekar."
-  },
-  {
-    "rank": 19,
-    "category": "Politics",
-    "headline": "CM Defends Electoral Roll Revision",
-    "summary": "Goa Chief Minister Pramod Sawant maintained that the recent electoral roll revision is entirely fair and free from any manipulation."
-  },
-  {
-    "rank": 20,
-    "category": "Entertainment",
-    "headline": "Nana Patekar Passes Away at 75",
-    "summary": "Veteran actor Nana Patekar died at the age of 75 following a cardiac arrest in Goa."
-  },
-  {
-    "rank": 21,
-    "category": "Entertainment",
-    "headline": "CM Sawant Honors Patekar's Legacy",
-    "summary": "Goa Chief Minister Pramod Sawant paid rich tributes to the remarkable artistic contributions of the late actor Nana Patekar."
-  },
-  {
-    "rank": 22,
-    "category": "Entertainment",
-    "headline": "Patekar's Final Video at Goa Event",
-    "summary": "A video has emerged showing veteran actor Nana Patekar playing the shamel and dancing at a public event in Goa shortly before his death."
-  },
-  {
-    "rank": 23,
-    "category": "Entertainment",
-    "headline": "Legacy and Assets of Nana Patekar",
-    "summary": "An overview of the net worth, properties, and assets owned by the late legendary actor Nana Patekar."
-  },
-  {
-    "rank": 24,
-    "category": "Entertainment",
-    "headline": "Police File Case in Patekar's Death",
-    "summary": "Goa Police have filed an unnatural death case after confirming that veteran actor Nana Patekar was brought dead to the hospital."
-  },
-  {
-    "rank": 25,
-    "category": "Entertainment",
-    "headline": "Unnatural Death Case Filed for Patekar",
-    "summary": "Authorities in Goa have officially registered an unnatural death case following the sudden passing of actor Nana Patekar."
-  },
-  {
-    "rank": 26,
-    "category": "Entertainment",
-    "headline": "Autopsy Conducted at GMC for Patekar",
-    "summary": "Following Nana Patekar's death, Goa Police registered an unnatural death case and conducted a post-mortem examination at the Goa Medical College."
-  },
-  {
-    "rank": 27,
-    "category": "Entertainment",
-    "headline": "Cardiac Arrest Confirmed as Cause of Death",
-    "summary": "Doctors at Goa's Manipal Hospital confirmed that veteran actor Nana Patekar passed away due to a sudden cardiac arrest."
-  },
-  {
-    "rank": 28,
-    "category": "Entertainment",
-    "headline": "Unnatural Death Inquiry Initiated",
-    "summary": "Goa Police have registered an unnatural death case regarding Nana Patekar's passing and are set to begin further inquiries."
-  },
-  {
-    "rank": 29,
-    "category": "Entertainment",
-    "headline": "Veteran Actor Nana Patekar Dies",
-    "summary": "Renowned veteran actor Nana Patekar has passed away at the age of 75 while in Goa."
-  },
-  {
-    "rank": 30,
-    "category": "Entertainment",
-    "headline": "Actor Nana Patekar Dies at 75",
-    "summary": "Veteran Indian actor Nana Patekar died at 75 after suffering a cardiac arrest in Goa."
-  },
-  {
-    "rank": 31,
-    "category": "Entertainment",
-    "headline": "Patekar Found Unconscious at Goa Home",
-    "summary": "Legendary actor Nana Patekar passed away at 75 after being found unconscious at his residence in Goa."
-  },
-  {
-    "rank": 32,
-    "category": "Civic",
-    "headline": "Bicholim Locals Demand CCTV Cameras",
-    "summary": "Residents of Bicholim have requested the installation of CCTV cameras to monitor and curb rising river pollution."
-  },
-  {
-    "rank": 33,
-    "category": "Entertainment",
-    "headline": "Patekar's Recent Comments on Mortality",
-    "summary": "Media outlets recall remarks made by late actor Nana Patekar about mortality just days before his sudden passing."
-  },
-  {
-    "rank": 34,
-    "category": "Civic",
-    "headline": "Goa Transitions Smart City Project",
-    "summary": "Acting on instructions from the central government, Goa has transitioned its smart city framework into a state-level Special Purpose Vehicle."
-  },
-  {
-    "rank": 35,
-    "category": "Civic",
-    "headline": "NGT Continues Stay on Port Project",
-    "summary": "The National Green Tribunal has extended its stay on the Mormugao port’s channel deepening project."
-  },
-  {
-    "rank": 36,
-    "category": "General",
-    "headline": "Konkani Prime News Bulletin",
-    "summary": "A roundup of the primary news stories and updates broadcasted in Konkani."
-  },
-  {
-    "rank": 37,
-    "category": "Civic",
-    "headline": "Mirabag Barrage Project Relocated",
-    "summary": "Chief Minister Sawant announced that the Mirabag Barrage Project has been officially shifted to Panchwadi."
-  },
-  {
-    "rank": 38,
-    "category": "Civic",
-    "headline": "Govt Shifts Water Project to Panchawadi",
-    "summary": "The government has relocated the ₹228 crore Mirabag water project to Panchawadi."
-  },
-  {
-    "rank": 39,
-    "category": "Crime",
-    "headline": "Charges Ordered in MLM Scam",
-    "summary": "A special PMLA court in Goa has ordered the framing of charges in the multi-crore Yudivo multi-level marketing scam."
-  },
-  {
-    "rank": 40,
-    "category": "Civic",
-    "headline": "HC Quashes Municipal Delimitation",
-    "summary": "The High Court has quashed Goa's municipal delimitation notification due to a lack of meaningful public consultation."
-  },
-  {
-    "rank": 41,
-    "category": "Tourism",
-    "headline": "Focus on Creative Industry Boost",
-    "summary": "Minister Khaunte stated that focusing on the creative industry can significantly boost Goa's tech ecosystem and promote long-stay tourism."
-  },
-  {
-    "rank": 42,
-    "category": "Entertainment",
-    "headline": "Events Cancelled Following Patekar's Death",
-    "summary": "Film industry events and appearances have been postponed or cancelled as a mark of respect following the sudden demise of Nana Patekar."
-  },
-  {
-    "rank": 43,
-    "category": "Civic",
-    "headline": "Opa Barrage Gates Shut Amid Low Water",
-    "summary": "Authorities have shut the gates of the Opa barrage as water levels continue to dip significantly."
-  },
-  {
-    "rank": 44,
-    "category": "Entertainment",
-    "headline": "Autopsy Confirms Cardiac Arrest",
-    "summary": "The autopsy report has confirmed that veteran actor Nana Patekar died of a heart attack in Goa, with authorities ruling out any foul play."
-  },
-  {
-    "rank": 45,
-    "category": "Tourism",
-    "headline": "KPMG Tourism Master Plan Contract Extended",
-    "summary": "Goa has extended its consultancy contract with KPMG for the state's tourism master plan at a rate of ₹8 lakh per month."
-  },
-  {
-    "rank": 46,
-    "category": "Politics",
-    "headline": "Rahul's Goa Yatra Visit Cancelled",
-    "summary": "Rahul Gandhi's scheduled visit to Goa for the Goy Rakhonn Yatra has been officially called off."
-  },
-  {
-    "rank": 47,
-    "category": "Civic",
-    "headline": "Students Trek Through Difficult Terrain",
-    "summary": "Students in Canacona had to trek 3.5 kilometers, highlighting geographical isolation challenges faced by the local community."
-  },
-  {
-    "rank": 48,
-    "category": "Civic",
-    "headline": "Proposed Women's Police Station in South Goa",
-    "summary": "Goa police have submitted a proposal to establish a dedicated women's police station in South Goa."
-  },
-  {
-    "rank": 49,
-    "category": "Crime",
-    "headline": "FIRs Filed Against Taleigao Man",
-    "summary": "Goa police have registered two separate FIRs against a Taleigao resident in connection with an ongoing job scam case."
-  },
-  {
-    "rank": 50,
-    "category": "Politics",
-    "headline": "Rahul Gandhi's Visit Postponed",
-    "summary": "Rahul Gandhi has postponed his planned visit to Goa amidst ongoing protests involving the INDIA bloc."
+    "category": "Business",
+    "headline": "Mumbai Professional Builds Successful Saree Business",
+    "summary": "A woman who quit her corporate job in Mumbai to start a saree business in Goa reported earnings of Rs 87 lakh over five years. Her entrepreneurial venture has flourished in the coastal state."
   }
 ]
