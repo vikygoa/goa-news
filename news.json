@@ -1,302 +1,302 @@
 [
   {
     "rank": 1,
-    "category": "Politics",
-    "headline": "Police Detain CJP Protesters",
-    "summary": "Goa police detained several demonstrators and blocked entry to Azad Maidan during a protest organized by CJP."
+    "category": "Civic",
+    "headline": "South Goa Advocates Protest Over Revenue Office Delays",
+    "summary": "Advocates in South Goa staged a protest highlighting persistent delays and corruption within local revenue offices. They are demanding immediate administrative reforms to improve service delivery."
   },
   {
     "rank": 2,
     "category": "Politics",
-    "headline": "Police Justify CJP Detentions",
-    "summary": "Goa Police justified the detention of CJP members citing past violations, following a Bombay High Court order for their release."
+    "headline": "Umar Khalid Support Cited for Protest Denial",
+    "summary": "Goa Police denied permission for a planned protest, explicitly citing expressions of support for activist Umar Khalid. Organizers criticized the decision as an infringement on free speech."
   },
   {
     "rank": 3,
-    "category": "Politics",
-    "headline": "HC Orders Release of 7 Protesters",
-    "summary": "The High Court ordered the release of seven protesters in Goa, noting that their detention may not have been authorized."
+    "category": "Crime",
+    "headline": "Goa Police Justify Detention of CJP Members",
+    "summary": "Following a Bombay High Court order to release detained CJP members, Goa Police defended their actions by pointing to past incidents. The high court later noted that the detentions lacked proper authorization."
   },
   {
     "rank": 4,
-    "category": "Crime",
-    "headline": "Nightclub Owners Granted Bail",
-    "summary": "The owners involved in the health NOC manipulation case for a Goa nightclub have been granted bail by the court."
+    "category": "Civic",
+    "headline": "Saligao Waste Plant Cuts Intake",
+    "summary": "The Saligao waste treatment plant has reduced its garbage intake by a third for 25 days. This restriction impacts multiple civic bodies and surrounding villages."
   },
   {
     "rank": 5,
-    "category": "Crime",
-    "headline": "HC Orders Rs 20 Lakh Deposit",
-    "summary": "The High Court directed the owners of a fire-ravaged Goa nightclub to deposit Rs 20 lakh each for the victims' families."
+    "category": "Civic",
+    "headline": "Waste Plant Suspends Intake From Local Bodies",
+    "summary": "The waste management facility in Saligao has completely suspended garbage intake from eight local bodies for nearly a month. Authorities are managing capacity constraints during this period."
   },
   {
     "rank": 6,
-    "category": "Crime",
-    "headline": "Luthra Brothers Get Bail",
-    "summary": "The Luthra brothers, owners of the fire-ravaged Goa nightclub, have been granted bail by the court in the NOC forgery case."
+    "category": "Civic",
+    "headline": "Panel Flags Dumping Along Margao-Seraulim Road",
+    "summary": "A local panel inspected the Margao-Seraulim road and raised serious concerns over waste burning and improper disposal of plastic and thermocol. They urged authorities to take strict action against illegal dumping."
   },
   {
     "rank": 7,
     "category": "Crime",
-    "headline": "CISF Catches Cheating Flyers",
-    "summary": "CISF personnel caught two flyers at the airport possessing gadgets meant for cheating in the IIT Goa job recruitment exam."
+    "headline": "Two Booked for Cheating in IIT Goa Exam",
+    "summary": "Police booked two individuals for alleged cheating during an IIT Goa recruitment examination. Authorities seized Bluetooth devices and electronic gadgets used in the malpractice."
   },
   {
     "rank": 8,
     "category": "Crime",
-    "headline": "Two Arrested for Exam Cheating",
-    "summary": "Two individuals were arrested at the Goa airport for attempting to cheat in the IIT Goa recruitment examination."
+    "headline": "Bluetooth Devices Seized in IIT Exam Scam",
+    "summary": "Following a similar incident at IIT Bombay, two candidates were caught using bluetooth earpieces and SIM cards during the IIT Goa recruitment test. CISF personnel flagged the suspects during screening."
   },
   {
     "rank": 9,
     "category": "Crime",
-    "headline": "Airport Screening Uncovers Exam Fraud",
-    "summary": "Screening at the Goa airport successfully exposed a recruitment examination fraud scheme targeting IIT Goa."
+    "headline": "Airport Screening Exposes IIT Recruitment Fraud",
+    "summary": "Security screening at the airport played a key role in uncovering the high-tech cheating racket operating during the IIT Goa job exam. Officials recovered incriminating communication devices from the suspects."
   },
   {
     "rank": 10,
-    "category": "Civic",
-    "headline": "Demand Action on Mangroves",
-    "summary": "The Goa Green Brigade has demanded immediate action against the destruction of mangroves in Moira."
+    "category": "Tourism",
+    "headline": "Plan to Relocate Beach Stray Dogs Opposed",
+    "summary": "The Goa tourism department's proposal to remove stray dogs from popular beaches has faced strong opposition from animal welfare advocates. Critics argue against the practicality and ethics of the relocation."
   },
   {
     "rank": 11,
-    "category": "Politics",
-    "headline": "New Book Traces Goa's Politics",
-    "summary": "A newly released book titled 'Goa: Mukti Te Pragati' explores the political transformation of Goa since its liberation."
+    "category": "Tourism",
+    "headline": "Top 5 Beaches to Visit in Goa",
+    "summary": "A travel feature highlights five must-visit coastal destinations in Goa, ranging from bustling spots like Baga to serene shores like Palolem. The guide provides recommendations for travelers planning a coastal getaway."
   },
   {
     "rank": 12,
-    "category": "Crime",
-    "headline": "Goa Man Arrested in Drug Case",
-    "summary": "Local authorities in Goa have arrested a man in connection with an ongoing drug supply investigation."
+    "category": "Weather",
+    "headline": "Goa Expected to Remain Hot Until Mid-October",
+    "summary": "Meteorological updates indicate that hot and humid weather will persist across Goa until October 15. Relief in the form of rainfall is anticipated starting October 16."
   },
   {
     "rank": 13,
-    "category": "Crime",
-    "headline": "Nine Arrested in Betting Racket",
-    "summary": "The Vasai Crime Branch arrested nine individuals in an interstate online betting racket with links to Goa."
+    "category": "Business",
+    "headline": "Bombay High Court Quashes 2013 ED Mining FIR",
+    "summary": "The Bombay High Court has officially quashed a 2013 Enforcement Directorate FIR related to the Goa illegal mining case. The ruling provides legal relief to parties involved in the long-standing dispute."
   },
   {
     "rank": 14,
-    "category": "General",
-    "headline": "Priest's Ecological Legacy Documented",
-    "summary": "A new book has been published documenting the significant ecological contributions and legacy of a Goa priest."
+    "category": "Crime",
+    "headline": "Nightclub Owners Granted Bail in NOC Case",
+    "summary": "Owners of a fire-ravaged Goa nightclub have been granted bail by the court in connection with a health NOC manipulation case. The accused had faced scrutiny over alleged document forgery."
   },
   {
     "rank": 15,
-    "category": "Politics",
-    "headline": "Revanth Reddy Attacks BJP",
-    "summary": "Revanth Reddy compared the BJP to 'Ravan' and the Congress to 'Ram' while urging Goa voters to defeat the ruling party."
+    "category": "Business",
+    "headline": "KORE Mobile Opens New Store in Goa",
+    "summary": "KORE Mobile launched its new retail presence in Goa, offering genuine devices and customer support alongside promotional vehicle giveaways. The store aims to capture the local retail electronics market."
   },
   {
     "rank": 16,
-    "category": "Crime",
-    "headline": "Two Booked for IIT Exam Cheating",
-    "summary": "Two people were booked for using Bluetooth devices to cheat during the IIT Goa recruitment examination."
+    "category": "General",
+    "headline": "New Book Documents Goa Priest's Legacy",
+    "summary": "A newly published book highlights the environmental contributions and ecological legacy of a prominent Goa priest. The publication showcases grassroots conservation efforts in the region."
   },
   {
     "rank": 17,
-    "category": "Entertainment",
-    "headline": "Actor Nana Patekar Passes Away",
-    "summary": "Veteran Indian actor Nana Patekar has died suddenly at the age of 75 following a medical emergency in Goa."
+    "category": "Politics",
+    "headline": "Revanth Reddy Criticizes BJP Over Drug Trade",
+    "summary": "Politician Revanth Reddy accused the ruling BJP of transforming Goa into a hub for drug peddlers. The remarks drew sharp political reactions from opposition circles."
   },
   {
     "rank": 18,
-    "category": "Crime",
-    "headline": "Two Arrested for Impersonation",
-    "summary": "Two individuals faced arrest for impersonation and utilizing electronic devices to cheat during the IIT Goa recruitment exam."
+    "category": "Politics",
+    "headline": "AAP Announces Six Guarantees for Goa",
+    "summary": "The Aam Aadmi Party has rolled out six poll guarantees in Goa, featuring promises of free electricity and a monthly financial allowance of ₹3,000 for women. The announcements form part of the party's early electoral strategy."
   },
   {
     "rank": 19,
-    "category": "Politics",
-    "headline": "High Court Orders Protesters' Release",
-    "summary": "In a special sitting, the Bombay High Court in Goa ordered the immediate release of anti-EC protesters."
+    "category": "Crime",
+    "headline": "Two Booked for Malpractice in IIT Goa Exam",
+    "summary": "Authorities registered cases against two individuals caught employing electronic earpieces and SIM cards to cheat in a recruitment test at IIT Goa. Investigations are underway to uncover broader networks."
   },
   {
     "rank": 20,
-    "category": "Civic",
-    "headline": "Pipeline Bursts Hit Canacona",
-    "summary": "Recent pipeline bursts have left three areas in Canacona completely without water supply."
+    "category": "Crime",
+    "headline": "Luthra Brothers Get Bail in NOC Forgery Case",
+    "summary": "The Luthra brothers, proprietors of the nightclub destroyed by a major fire, secured court bail in the ongoing NOC forgery investigation. Legal proceedings regarding the compliance violations continue."
   },
   {
     "rank": 21,
     "category": "Crime",
-    "headline": "Crime Branch Probes Shootout Links",
-    "summary": "The Crime Branch is investigating potential wider connections linked to the accused in the Porvorim shootout."
+    "headline": "Fire Damages E-Scooter Centre in Bicholim",
+    "summary": "A sudden blaze caused significant damage to an electric scooter service center located in Bicholim. Firefighters managed to contain the flames before they spread to neighboring properties."
   },
   {
     "rank": 22,
     "category": "Civic",
-    "headline": "NGT Halts Port Channel Deepening",
-    "summary": "The National Green Tribunal has halted the environmental clearance granted for the Mormugao port channel deepening project."
+    "headline": "Brigade Demands Action on Moira Mangroves",
+    "summary": "The Goa Green Brigade has called for immediate legal action against the destruction of mangroves in Moira. Environmentalists warn that unchecked clearing harms local coastal ecosystems."
   },
   {
     "rank": 23,
-    "category": "General",
-    "headline": "Thousands Attend Colva Fama",
-    "summary": "Faith and traditional festivities drew thousands of devotees to Colva for the annual Menino Jesu Fama."
+    "category": "Civic",
+    "headline": "Pipeline Burst Disrupts Water Supply in Canacona",
+    "summary": "A sudden pipeline burst left three areas in Canacona completely devoid of drinking water. Municipal crews were deployed to carry out urgent repair works."
   },
   {
     "rank": 24,
-    "category": "Entertainment",
-    "headline": "Actor Nana Patekar Dies at 75",
-    "summary": "Outspoken Indian actor Nana Patekar has passed away unexpectedly at the age of 75."
+    "category": "Weather",
+    "headline": "Panaji Records Hottest October Day in 20 Years",
+    "summary": "Panaji sweltered under a temperature of 37.2°C, marking its hottest October day in nearly two decades. The unseasonal heat has been attributed to regional atmospheric conditions."
   },
   {
     "rank": 25,
     "category": "Politics",
-    "headline": "CJP Protest Against CEC Blocked",
-    "summary": "Police blocked a CJP protest targeting CEC Gyanesh Kumar in Goa, resulting in dozens of detentions."
+    "headline": "Chief Minister Sawant Warns Against Alvara Land Sales",
+    "summary": "Goa Chief Minister Pramod Sawant issued a public caution regarding unauthorized Alvara land sales. He emphasized that strict legal measures will be enforced against illegal transactions."
   },
   {
     "rank": 26,
-    "category": "Civic",
-    "headline": "Sarpanch Skips Gram Sabha",
-    "summary": "The Poinguinim sarpanch drew sharp local criticism after skipping the scheduled gram sabha meeting."
+    "category": "Business",
+    "headline": "NGT Halts Environmental Clearance for Port Channel",
+    "summary": "The National Green Tribunal has temporarily stayed the environmental clearance granted for the Mormugao port channel deepening project. The decision follows petitions raised by environmental stakeholders."
   },
   {
     "rank": 27,
-    "category": "Crime",
-    "headline": "Cheating Devices Seized at IIT Exam",
-    "summary": "Authorities seized Bluetooth earpieces and SIM cards from two individuals booked for cheating in the IIT-Goa exam."
+    "category": "Politics",
+    "headline": "EC Clarifies Stance on Electoral Rolls to HC",
+    "summary": "The Election Commission informed the High Court that the special intensive revision of electoral rolls is de-novo, clarifying that a specific Goan family was not deleted but simply unlisted. The court reviewed the submission during ongoing hearings."
   },
   {
     "rank": 28,
-    "category": "Civic",
-    "headline": "Dutch Agency Completes Phase",
-    "summary": "A Dutch agency has completed the first phase of anti-beach erosion measures, with implementation set for the next stage."
+    "category": "General",
+    "headline": "Konkani Prime News Bulletin",
+    "summary": "A regional news roundup covers key daily developments across Goa in the Konkani language."
   },
   {
     "rank": 29,
-    "category": "General",
-    "headline": "A 7,000km Sustainability Journey",
-    "summary": "A traveler carrying a backpack and 9,000 seed packets has covered 7,000km to promote environmental sustainability."
+    "category": "Tourism",
+    "headline": "CM Assures Stray-Free Beaches This Season",
+    "summary": "Chief Minister Pramod Sawant stated that measures will be taken to ensure beaches remain free of stray dog nuisances during the upcoming tourism season. The administration is coordinating with welfare groups for humane management."
   },
   {
     "rank": 30,
     "category": "Civic",
-    "headline": "IPSCDL Projects Handover Concerns",
-    "summary": "IPSCDL is moving to hand over smart city projects to the CCP, raising funding concerns from the council for future upkeep."
+    "headline": "Fire Safety Body Drafts Industrial Roadmap",
+    "summary": "A specialized fire safety committee has formulated a comprehensive industrial safety roadmap for factories across Goa. The initiative aims to upgrade emergency preparedness and compliance standards."
   },
   {
     "rank": 31,
-    "category": "Tourism",
-    "headline": "Tourism Dept Urges Stray Dog Adoption",
-    "summary": "The tourism department has given a seven-day window to adopt beach stray dogs before relocation procedures begin."
+    "category": "Weather",
+    "headline": "Deficient Rains Keep Temperatures High",
+    "summary": "Persistent dry spells and anticyclonic wind patterns continue to drive Goa's temperatures above 36°C. Meteorologists note that weak monsoon withdrawal conditions are responsible for the extended warmth."
   },
   {
     "rank": 32,
-    "category": "Civic",
-    "headline": "Bicholim Plans Fallow Land Revival",
-    "summary": "Authorities in Bicholim have announced plans aimed at reviving unused and fallow agricultural lands."
+    "category": "Crime",
+    "headline": "Crime Branch Probes Porvorim Shootout Links",
+    "summary": "The Goa Crime Branch has launched an extensive investigation into potential wider conspiracies linked to the accused in the Porvorim shootout. Police are examining interstate criminal connections."
   },
   {
     "rank": 33,
-    "category": "Business",
-    "headline": "Pollution Body Opposes Hotel Tag",
-    "summary": "The state pollution control body has formally opposed granting a 'white category' environmental tag to a majority of hotels."
+    "category": "Civic",
+    "headline": "NOC Delays Slow Pit-Water Treatment Plant",
+    "summary": "Goa's inaugural pit-water treatment plant is facing operational delays due to pending clearances and no-objection certificates from mining entities. Officials are working to expedite the approvals."
   },
   {
     "rank": 34,
-    "category": "Business",
-    "headline": "Govt Clears Honda Apparel Cluster",
-    "summary": "The government has approved a new apparel cluster at Honda, expecting to generate around 300 jobs."
+    "category": "Civic",
+    "headline": "Suspected Breast Cancer Cases Found in Sanquelim",
+    "summary": "Two suspected cases of breast cancer were identified during a community health screening camp held in Sanquelim. Patients have been referred for confirmatory diagnostics and specialized care."
   },
   {
     "rank": 35,
-    "category": "General",
-    "headline": "DRDO Scientist to Speak on Security",
-    "summary": "A DRDO scientist is scheduled to deliver a talk shedding light on India's maritime and aerial surveillance capabilities."
+    "category": "Politics",
+    "headline": "Revolutionary Goans Oppose Oxel Land Rezoning",
+    "summary": "The Revolutionary Goans party has raised strong objections to proposed land zoning modifications in Oxel. They claim the changes threaten local agricultural and ecological zones."
   },
   {
     "rank": 36,
-    "category": "Civic",
-    "headline": "SGPDA Fined for Waste Management",
-    "summary": "The SGPDA has been handed a Rs 75,000 penalty due to lapses in proper waste management."
+    "category": "Entertainment",
+    "headline": "Thousands Attend Colva Feast Celebrations",
+    "summary": "Devotees gathered in large numbers at Colva for the traditional Menino Jesu Fama celebrations. The annual religious event witnessed deep participation rooted in local faith and culture."
   },
   {
     "rank": 37,
-    "category": "Crime",
-    "headline": "Court Orders Interim Relief in Fire",
-    "summary": "The Bombay High Court has ordered Rs 20 lakh in interim relief following the deadly Goa nightclub fire incident."
+    "category": "Civic",
+    "headline": "Turtle Panel Reviews SOPs and Night Patrols",
+    "summary": "The state turtle conservation committee met to review Supreme Court standard operating procedures and ramp up protective night patrols along nesting beaches. Conservationists are preparing for the upcoming nesting season."
   },
   {
     "rank": 38,
-    "category": "Crime",
-    "headline": "Luthra Brothers Get Bail in Forgery",
-    "summary": "A Goa court granted bail to the Luthra brothers in connection with the Birch nightclub document forgery case."
+    "category": "Politics",
+    "headline": "New Book Traces Goa's Political History",
+    "summary": "A new publication titled 'Goa: Mukti Te Pragati' explores the political evolution of Goa from its liberation to the present day. The book chronicles key milestones in the state's democratic journey."
   },
   {
     "rank": 39,
-    "category": "Politics",
-    "headline": "Police Defend CJP Crackdown",
-    "summary": "Goa police defended their crackdown on the CJP protest, citing past violations and alleged support for Umar Khalid."
+    "category": "Civic",
+    "headline": "Kalika Sansthan Pond Revived Successfully",
+    "summary": "Local authorities and community members have completed the restoration and revival of the historic Kalika Sansthan pond. The project aims to improve local water retention and ecology."
   },
   {
     "rank": 40,
     "category": "Politics",
-    "headline": "Police Thwart Azad Maidan Protest",
-    "summary": "High drama unfolded at Azad Maidan as police successfully thwarted a planned protest demonstration by the CJP."
+    "headline": "Anti-CEC Protest Blocked and Dozens Detained",
+    "summary": "Police in Goa blocked a demonstration organized to protest against Chief Election Commissioner Gyanesh Kumar, resulting in numerous detentions. Opposition figures condemned the heavy-handed crowd control."
   },
   {
     "rank": 41,
     "category": "Civic",
-    "headline": "Bicholim Locals Demand CCTVs",
-    "summary": "Residents in Bicholim are urging authorities to install CCTV cameras to monitor and curb rising river pollution."
+    "headline": "SGPDA Penalized for Waste Mismanagement",
+    "summary": "The South Goa Planning and Development Authority has been hit with a financial penalty of Rs 75,000 for failing to manage waste properly. Environmental authorities issued the fine following inspections."
   },
   {
     "rank": 42,
     "category": "Crime",
-    "headline": "CISF Books Two in IIT Goa Exam",
-    "summary": "CISF booked two candidates and confiscated Bluetooth cheating devices during the IIT Goa recruitment exam."
+    "headline": "High Court Orders Release of Goa Protesters",
+    "summary": "In a special sitting, the Bombay High Court in Goa ruled that the detention of seven anti-EC protesters lacked proper legal authorization and ordered their immediate release."
   },
   {
     "rank": 43,
     "category": "Civic",
-    "headline": "Opa Barrage Gates Shut",
-    "summary": "Authorities have shut the Opa barrage gates as the local water level continues to dip."
+    "headline": "Poinguinim Sarpanch Criticized for Absence",
+    "summary": "The sarpanch of Poinguinim faced severe backlash from villagers after skipping a scheduled gram sabha meeting. Residents expressed frustration over unanswered local grievances."
   },
   {
     "rank": 44,
-    "category": "Sports",
-    "headline": "SC Orders Re-hearing on Coach Plea",
-    "summary": "The Supreme Court directed the High Court to re-hear a petition challenging the selection of a female weightlifter as coach."
+    "category": "Crime",
+    "headline": "CISF Intercepts Exam Cheating Gadgets at Airport",
+    "summary": "CISF personnel detained two airline passengers carrying specialized technical equipment intended for cheating in the IIT Goa job test. The suspects were handed over to local law enforcement for questioning."
   },
   {
     "rank": 45,
     "category": "Business",
-    "headline": "Smart City Transitions to SPV",
-    "summary": "Prompted by the central government, Goa has transitioned its smart city framework into a state-level Special Purpose Vehicle."
+    "headline": "Goa Promotes GI Products for Premium Markets",
+    "summary": "State authorities have launched initiatives to give Goa's Geographical Indication tagged products greater visibility in high-end retail markets. The push aims to boost income for traditional artisans and producers."
   },
   {
     "rank": 46,
-    "category": "General",
-    "headline": "Makharutsav Celebrates Navratri",
-    "summary": "Makharutsav continues to serve as Goa's unique traditional cultural expression for celebrating the Navratri festival."
+    "category": "Business",
+    "headline": "NPCI to Implement Merchant Discount Rate Post-Diwali",
+    "summary": "The National Payments Corporation of India announced plans to introduce merchant discount rates on select UPI commercial transactions following the Diwali festival. Small merchants are reviewing the operational impact."
   },
   {
     "rank": 47,
-    "category": "Civic",
-    "headline": "Water Project Shifted to Panchawadi",
-    "summary": "The government has officially shifted the Rs 228 crore Mirabag water project location to Panchawadi."
+    "category": "Sports",
+    "headline": "Churchill Brothers Upset Mumbai City in ISL",
+    "summary": "Churchill Brothers pulled off a notable upset against Mumbai City during their Indian Super League debut match. The hard-fought victory marks a strong start for the Goan side in the tournament."
   },
   {
     "rank": 48,
-    "category": "Politics",
-    "headline": "Congress Yatra Enters Cuncolim",
-    "summary": "The Congress party's yatra successfully entered Cuncolim despite facing several hurdles from local police."
+    "category": "General",
+    "headline": "DRDO Scientist to Deliver Lecture on Surveillance",
+    "summary": "A senior DRDO scientist is scheduled to speak on advancements in India's maritime and aerial surveillance capabilities. The academic session will highlight indigenous defense technologies."
   },
   {
     "rank": 49,
-    "category": "Tourism",
-    "headline": "Goa Tourist Footfall Remains Flat",
-    "summary": "Tourist arrivals in Goa remained flat, leaving the hospitality sector hopeful for a better turn-out between October and December."
+    "category": "Crime",
+    "headline": "High Court Orders Release of Anti-EC Activists",
+    "summary": "The Bombay High Court intervened during an urgent weekend session to direct the release of activists detained during protests against election authorities in Goa."
   },
   {
     "rank": 50,
     "category": "General",
-    "headline": "Konkani Prime News Recap",
-    "summary": "A daily news roundup covering key regional developments and stories broadcasted in Konkani."
+    "headline": "Activist Completes 7,000km Journey for Sustainability",
+    "summary": "An environmental campaigner has traveled across thousands of kilometers carrying thousands of seed packets to promote grassroots sustainability. The campaign emphasizes biodiversity preservation and ecological awareness."
   }
 ]
