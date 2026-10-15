@@ -1,302 +1,296 @@
 [
   {
     "rank": 1,
-    "category": "Politics",
-    "headline": "CM Sawant Sets Dec 19 Deadline for Kul-Mundkar Cases",
-    "summary": "Chief Minister Pramod Sawant has directed authorities to resolve all pending kul-mundkar cases by December 19. The government aims to expedite land ownership rights for tenants within this timeframe."
+    "category": "Weather",
+    "headline": "Panaji Records High Temperatures",
+    "summary": "Panaji recorded temperatures over 37°C for the second consecutive day, making it one of the hottest periods in October in nearly two decades."
   },
   {
     "rank": 2,
-    "category": "Politics",
-    "headline": "Lalduhoma Meets Youth Delegates from Goa",
-    "summary": "Mizoram Chief Minister Lalduhoma interacted with visiting youth delegates from Goa and Chandigarh. The meeting focused on cultural exchange and youth leadership."
+    "category": "Weather",
+    "headline": "Goa Sizzles at 37.2°C",
+    "summary": "Goa temperatures soared to 37.2°C, placing it among the hottest spots in India due to deficient rainfall and anticyclonic circulation, with relief expected from October 16."
   },
   {
     "rank": 3,
-    "category": "Business",
-    "headline": "Goa Fresh to Expand Market Reach",
-    "summary": "Goa Fresh is rolling out initiatives to broaden market access for local agricultural producers. The move aims to help farmers secure better prices and wider distribution for their produce."
+    "category": "Weather",
+    "headline": "Goa Among Hottest Spots in India",
+    "summary": "The mercury hit 36°C in Goa, placing the state among the ten hottest locations in the country amid ongoing heat."
   },
   {
     "rank": 4,
     "category": "Crime",
-    "headline": "Goa Police Defend CJP Detention",
-    "summary": "Goa Police defended before the High Court their decision to detain seven CJP members. Authorities cited a history of protests being organized without required permissions."
+    "headline": "Three Arrested in Drug Smuggling",
+    "summary": "Telangana Police and the EAGLE Force arrested three individuals in Goa in connection with a drug smuggling case."
   },
   {
     "rank": 5,
-    "category": "Crime",
-    "headline": "Police Justify Detention After HC Order",
-    "summary": "Following the Bombay High Court's order to release detained CJP members, Goa Police maintained their stance. They justified the action by pointing to past unauthorized demonstrations."
+    "category": "Civic",
+    "headline": "HC Seeks Open Prison Timelines",
+    "summary": "The High Court has asked authorities for specific timelines regarding approvals for setting up an open prison in Goa."
   },
   {
     "rank": 6,
     "category": "Crime",
-    "headline": "Umar Khalid Support Cited for Protest Denial",
-    "summary": "Goa police revealed that expressions of support for Umar Khalid played a role in denying permission for a recent protest. The rationale was presented in official communications regarding public order."
+    "headline": "Goa Police Justify CJP Detention",
+    "summary": "Following a Bombay High Court order to release CJP members, Goa Police justified their detention by citing a history of unauthorized protests."
   },
   {
     "rank": 7,
-    "category": "Weather",
-    "headline": "Panaji Sizzles at 37.2°C",
-    "summary": "Panaji recorded a high of 37.2°C, marking its hottest October day in nearly twenty years. Unusually high temperatures have persisted across the state due to weather patterns."
+    "category": "Crime",
+    "headline": "Police Defend CJP Member Detention",
+    "summary": "Goa Police defended the detention of seven CJP members before the High Court, pointing to past incidents of protests held without proper permission."
   },
   {
     "rank": 8,
-    "category": "Weather",
-    "headline": "Blazing Heat Grips State",
-    "summary": "Extreme heat conditions are sweeping across Goa, raising concerns for school children and outdoor workers. Authorities are advising caution as high temperatures continue."
+    "category": "Politics",
+    "headline": "Sawant Probes SIR Protest Slogans",
+    "summary": "Chief Minister Pramod Sawant stated that \"Hindutva Murdabad\" slogans raised during an SIR protest are currently under police investigation."
   },
   {
     "rank": 9,
-    "category": "Weather",
-    "headline": "Deficient Rainfall Drives High Temperatures",
-    "summary": "Goa's ongoing heatwave is being fueled by deficient rainfall and an anticyclonic circulation pattern. Temperatures have consistently stayed above 36°C across the region."
+    "category": "Politics",
+    "headline": "December 19 Deadline for Kul-Mundkar Cases",
+    "summary": "CM Pramod Sawant has set a deadline of December 19 to resolve all pending Kul-Mundkar land cases in the state."
   },
   {
     "rank": 10,
-    "category": "Crime",
-    "headline": "Multi-Crore Scam Run From Goa Villa",
-    "summary": "Police uncovered how 12 young men operated an extensive cyber fraud network from a luxury villa in Goa. The group allegedly masterminded a multi-crore financial scam from the rented property."
+    "category": "Business",
+    "headline": "WPU-Goa Launches Doctoral Programmes",
+    "summary": "WPU-Goa has introduced new doctoral programmes aimed at boosting research opportunities for students and faculty."
   },
   {
     "rank": 11,
-    "category": "Tourism",
-    "headline": "Driving from Bengaluru to North Goa",
-    "summary": "Travel enthusiasts shared insights on the road conditions, route, and key stops for driving from Bengaluru to North Goa. The update provides practical tips for road-trippers heading to the coastal state."
+    "category": "Entertainment",
+    "headline": "SRFTI to Boost Film Fest Exposure",
+    "summary": "SRFTI will provide increased exposure and opportunities for students and faculty at the upcoming Goa film festival."
   },
   {
     "rank": 12,
-    "category": "Tourism",
-    "headline": "Opposition to Stray Dog Relocation",
-    "summary": "The tourism department's proposal to relocate stray dogs from popular beaches has drawn sharp opposition. Animal welfare advocates and locals are pushing back against the plan."
+    "category": "Civic",
+    "headline": "Centre Approves ESI Medical College",
+    "summary": "The central government has approved an ESI Medical College for Goa, which will include 25 reserved seats for local Goans."
   },
   {
     "rank": 13,
-    "category": "Civic",
-    "headline": "Govt Orders Probe Into Poor Air Quality",
-    "summary": "The Goa government has directed the State Pollution Board to investigate worsening air quality levels. Officials have been asked to identify primary pollution sources and take corrective action."
+    "category": "Tourism",
+    "headline": "Flight Fares Surge as Goa Gains Popularity",
+    "summary": "Travel fares have spiked significantly as Goa emerges as one of the top seasonal holiday picks alongside international destinations like Hanoi and Bangkok."
   },
   {
     "rank": 14,
     "category": "Business",
-    "headline": "KORE Mobile Opens New Store in Goa",
-    "summary": "KORE Mobile has launched its new retail outlet in Goa, offering genuine devices and expert guidance. Customers also stand a chance to win vehicles like Fortuners and Thars as part of promotional offers."
+    "headline": "Labour Shortage Anchors Fishing Trawlers",
+    "summary": "A severe labor crunch has left fishing trawlers anchored at ports months after the official monsoon fishing ban was lifted."
   },
   {
     "rank": 15,
-    "category": "Politics",
-    "headline": "High Court Hears Goa Voter Roll Plea",
-    "summary": "The Bombay High Court is hearing petitions regarding omissions in the Goa electoral rolls. The Election Commission of India defended the draft deletions and revisions during the proceedings."
+    "category": "Civic",
+    "headline": "Wet Waste Gap Persists in Margao",
+    "summary": "Although the Margao Municipal Council highlighted its 10-TPD gasification plant, a significant gap in wet waste treatment continues to remain."
   },
   {
     "rank": 16,
     "category": "Crime",
-    "headline": "Villas Used for Rs 900 Crore Cyber Scam",
-    "summary": "Investigations into a massive Rs 900 crore cyber fraud syndicate revealed that luxury rented villas in Goa served as operational hubs. Authorities are cracking down on the network utilizing high-end properties."
+    "headline": "Multi-Crore Cyber Scam Run From Villa",
+    "summary": "Investigations revealed how a group of 12 young men operated a multi-crore cyber fraud network from a luxury rented villa in Goa."
   },
   {
     "rank": 17,
     "category": "Tourism",
-    "headline": "Cordelia Sky Arrives in Mumbai for Cruises",
-    "summary": "The cruise liner Cordelia Sky has docked in Mumbai ahead of upcoming sailings to Goa, Lakshadweep, and other destinations. The vessel aims to boost regional cruise tourism."
+    "headline": "Travel Insights on Bengaluru to Goa Road Trip",
+    "summary": "A detailed travel account outlines the recommended routes, recommended stops, and current road conditions for driving from Bengaluru to North Goa."
   },
   {
     "rank": 18,
-    "category": "General",
-    "headline": "Goa Priest’s Ecological Legacy Documented",
-    "summary": "A new book has been released capturing the environmental contributions and conservation legacy of a Goan priest. The publication highlights grassroots efforts in local ecological preservation."
+    "category": "Civic",
+    "headline": "Govt Orders Probe Into Poor Air Quality",
+    "summary": "The Goa government has instructed the State Pollution Board to investigate the recent dip in air quality across the region."
   },
   {
     "rank": 19,
-    "category": "Entertainment",
-    "headline": "Details Emerge on Nana Patekar's Final Hours in Goa",
-    "summary": "Reports have detailed the events surrounding the final hours of Nana Patekar in Goa, including a caretaker's emergency call and prolonged CPR attempts. The incident occurred on October 8."
+    "category": "Tourism",
+    "headline": "Shack Owners Address Beach Stray Dogs",
+    "summary": "Coastal shack owners have called for a balanced and humane approach toward managing the stray dog population along Goa's beaches."
   },
   {
     "rank": 20,
     "category": "Politics",
-    "headline": "Revanth Reddy Criticizes BJP Over Drugs",
-    "summary": "Telangana Chief Minister Revanth Reddy accused the BJP of transforming Goa into a hub for drug peddlers. The remarks drew sharp political reactions within the state."
+    "headline": "High Court Hears Goa Voter Roll Plea",
+    "summary": "The Bombay High Court heard arguments regarding Goa voter rolls as the Election Commission of India defended omissions in the draft SIR."
   },
   {
     "rank": 21,
-    "category": "Crime",
-    "headline": "Fire Damages E-Scooter Centre in Bicholim",
-    "summary": "A sudden blaze caused significant damage to an e-scooter service center located in Bicholim. Firefighters rushed to the scene to bring the flames under control."
+    "category": "Business",
+    "headline": "KORE Mobile Opens New Store in Goa",
+    "summary": "KORE Mobile launched its new store in Goa, offering genuine mobile devices, expert guidance, and customer lucky draw prizes."
   },
   {
     "rank": 22,
-    "category": "Civic",
-    "headline": "South Goa Advocates Protest Revenue Delays",
-    "summary": "Lawyers in South Goa staged a protest outside revenue offices to condemn administrative delays and systemic corruption. The legal fraternity demanded immediate reforms in mutation and land record processing."
+    "category": "Tourism",
+    "headline": "Cordelia Sky Arrives in Mumbai for Cruises",
+    "summary": "The Cordelia Sky cruise ship has docked in Mumbai and is scheduled to begin regular sailing trips to Goa, Lakshadweep, and other destinations."
   },
   {
     "rank": 23,
-    "category": "Entertainment",
-    "headline": "Rubina Dilaik Talks Goa, Motherhood",
-    "summary": "Actor Rubina Dilaik shared her deep fondness for Goa, balancing motherhood, and the importance of responsible tourism in recent interviews. She reflected on her connection to nature and travel."
+    "category": "Business",
+    "headline": "New Direct Flights to Goa Announced",
+    "summary": "Starting December 1, additional direct flight routes connecting Chandigarh to Goa and Bengaluru will become operational."
   },
   {
     "rank": 24,
-    "category": "Politics",
-    "headline": "AAP Hits Back at BJP Over Guarantees",
-    "summary": "The Aam Aadmi Party defended its poll promises, stating they are genuine guarantees rather than empty political gimmicks. The rebuttal comes amid ongoing political sparring in the state."
+    "category": "Crime",
+    "headline": "Rented Villas Used in Cyber Fraud",
+    "summary": "Police investigations uncovered how rented villas in Goa served as the operational hubs for an alleged Rs 900 crore cyber fraud ring."
   },
   {
     "rank": 25,
-    "category": "General",
-    "headline": "NIO Goa Celebrates Foundation Day",
-    "summary": "The National Institute of Oceanography in Goa showcased glowing bacteria and microbial art during its Foundation Day celebrations. The event highlighted advancements and public interest in marine science."
+    "category": "Politics",
+    "headline": "Revanth Reddy Criticizes BJP on Drugs",
+    "summary": "Telangana Chief Minister Revanth Reddy accused the BJP of turning Goa into a major hub for drug peddlers."
   },
   {
     "rank": 26,
-    "category": "Weather",
-    "headline": "Relief From Heat Likely After Oct 16",
-    "summary": "Meteorological updates indicate that Goa's ongoing heatwave, which saw temperatures hit 37.2°C, is expected to ease starting October 16. Residents have been enduring unseasonably warm weather."
+    "category": "Crime",
+    "headline": "Worker Dies in Infrastructure Site Accident",
+    "summary": "A man tragically lost his life after falling onto exposed iron rods at an ongoing infrastructure work site."
   },
   {
     "rank": 27,
-    "category": "Politics",
-    "headline": "Voter Awareness Campaign Planned for Kushavati",
-    "summary": "Authorities and local bodies are planning targeted voter awareness campaigns in Kushavati ahead of the 2027 Goa assembly elections. The drive aims to boost civic participation and electoral literacy."
+    "category": "Civic",
+    "headline": "ASI Museum Overhauls Viceroy Portraits",
+    "summary": "The Archaeological Survey of India museum in Goa has given its collection of 120 Portuguese viceroy portraits a chronological rearrangement."
   },
   {
     "rank": 28,
-    "category": "Politics",
-    "headline": "Chodankar Condemns Deletion of Voters",
-    "summary": "Congress leader Girish Chodankar slammed the deletion of 1.39 lakh Goan voters, labeling the SIR process unconstitutional. The party is pressing authorities for immediate accountability."
+    "category": "General",
+    "headline": "Konkani Prime News Broadcast",
+    "summary": "Prudent Media aired its daily news broadcast in Konkani covering current local events and regional updates."
   },
   {
     "rank": 29,
-    "category": "Politics",
-    "headline": "EC Clarifies Stance on Voter Rolls to HC",
-    "summary": "The Election Commission informed the High Court that the SIR electoral roll is a de-novo exercise, clarifying that specific families were not deleted but rather left unincluded in the draft."
+    "category": "Crime",
+    "headline": "Fire Damages Bicholim Service Centre",
+    "summary": "A sudden blaze caused extensive damage to an e-scooter service and maintenance centre located in Bicholim."
   },
   {
     "rank": 30,
     "category": "Civic",
-    "headline": "Saligao Waste Plant Suspends Intake",
-    "summary": "The Saligao waste treatment plant has temporarily suspended the intake of garbage from eight local bodies for 25 days. The pause is intended for maintenance and operational adjustments."
+    "headline": "Goa Cleared for Second Medical College",
+    "summary": "The central government has approved Goa's second government medical college, which will introduce 50 new MBBS seats starting in the 2027-28 academic year."
   },
   {
     "rank": 31,
-    "category": "Tourism",
-    "headline": "CM Assures Stray-Free Beaches",
-    "summary": "Chief Minister Pramod Sawant assured the public that there will be no stray dog menace on Goa's beaches during the current tourism season. Measures are being implemented to ensure tourist safety and comfort."
+    "category": "General",
+    "headline": "Mizoram CM Meets Youth Delegations",
+    "summary": "Mizoram Chief Minister Lalduhoma interacted with visiting youth delegates from Goa and Chandigarh during their trip to the state."
   },
   {
     "rank": 32,
-    "category": "Politics",
-    "headline": "CM Sawant Cautions Against Alvara Land Sales",
-    "summary": "Chief Minister Pramod Sawant has issued a public warning regarding illegal transactions involving Alvara lands. The government is monitoring unauthorized commercial utilization of such properties."
+    "category": "Tourism",
+    "headline": "Opposition to Beach Stray Dog Relocation",
+    "summary": "Local animal welfare groups and residents have raised objections against the tourism department's proposed plans to relocate stray dogs from beaches."
   },
   {
     "rank": 33,
-    "category": "General",
-    "headline": "Konkani Prime News Bulletin",
-    "summary": "Prudent Media broadcasted its daily roundup of regional news and current affairs in Konkani. The bulletin covered key socio-political developments across the state."
+    "category": "Entertainment",
+    "headline": "Rubina Dilaik Shares Love for Goa",
+    "summary": "Television actress Rubina Dilaik spoke about her affection for Goa, her Pahadi heritage, motherhood, and the importance of responsible tourism."
   },
   {
     "rank": 34,
-    "category": "Civic",
-    "headline": "Pipeline Burst Disrupts Canacona Water Supply",
-    "summary": "A sudden pipeline burst has left three areas in Canacona grappling with acute water shortages. Municipal crews are working to repair the damaged infrastructure."
+    "category": "Politics",
+    "headline": "Congress Slams Deletions in Voter Rolls",
+    "summary": "Goa Congress leader Girish Chodankar termed the deletion of 1.39 lakh voters from the SIR draft roll as unconstitutional."
   },
   {
     "rank": 35,
-    "category": "Civic",
-    "headline": "NGT Halts Environment Clearance for Port",
-    "summary": "The National Green Tribunal has put a temporary halt on the environmental clearance granted for deepening the Mormugao port channel. Environmentalists had raised concerns over potential marine disruption."
+    "category": "Business",
+    "headline": "Industrial Scheme Drives Fresh Investment",
+    "summary": "A government scheme aimed at unlocking idle industrial plots has successfully attracted ₹165.3 crore in fresh investments into the state."
   },
   {
     "rank": 36,
     "category": "Politics",
-    "headline": "Congress Demands CM Resignation Over Job Scam",
-    "summary": "The Congress party has demanded Chief Minister Pramod Sawant's resignation, calling for a court-monitored SIT probe into the cash-for-jobs scam. Opposition leaders stepped up pressure on the administration."
+    "headline": "Congress Leads Goy Rakhon Yatra",
+    "summary": "The Congress party gained political momentum through its Goy Rakhon Yatra, though achieving widespread 'parivartan' remains a challenging task."
   },
   {
     "rank": 37,
     "category": "Civic",
-    "headline": "South Goa Lawyers Protest Corruption",
-    "summary": "Legal professionals in South Goa demonstrated against persistent delays in mutation and partition cases, pointing to systemic corruption. The protest highlighted hardships faced by citizens in land departments."
+    "headline": "South Goa Advocates Protest Revenue Delays",
+    "summary": "Advocates in South Goa staged protests against persistent delays and alleged corruption within local revenue offices."
   },
   {
     "rank": 38,
     "category": "Civic",
-    "headline": "New Industrial Safety Roadmap Drafted",
-    "summary": "A dedicated fire safety body has drafted a comprehensive industrial safety roadmap for manufacturing units across Goa. The guidelines aim to prevent industrial mishaps and upgrade emergency preparedness."
+    "headline": "Palika Bazaar Vendors Refuse Relocation",
+    "summary": "Vendors at Palika Bazaar have formally rejected the administration's proposal to shift their businesses to a temporary location."
   },
   {
     "rank": 39,
-    "category": "Civic",
-    "headline": "Saligao Plant Stops Accepting Civic Waste",
-    "summary": "The Saligao waste facility has temporarily closed its gates to municipal waste intake from surrounding jurisdictions for nearly a month. Local bodies are scrambling for alternative waste management solutions."
+    "category": "Crime",
+    "headline": "Three Arrested for Supplying Drugs",
+    "summary": "Goa Police arrested three local suspects involved in supplying illegal narcotics in the state."
   },
   {
     "rank": 40,
-    "category": "Civic",
-    "headline": "DMF Approves North Goa Mining Area Projects",
-    "summary": "The District Mineral Foundation in North Goa has cleared several development initiatives aimed at uplifting mining-affected communities. Funds will be directed toward local infrastructure and welfare."
+    "category": "Politics",
+    "headline": "Voter Awareness Drive Planned for Kushavati",
+    "summary": "A targeted voter awareness campaign is being planned for residents of Kushavati in anticipation of the upcoming 2027 Goa assembly elections."
   },
   {
     "rank": 41,
-    "category": "Health",
-    "headline": "Suspected Breast Cancer Cases at Sanquelim Camp",
-    "summary": "Two suspected cases of breast cancer were identified during a medical health camp held in Sanquelim. Patients have been referred for specialized oncological evaluations."
+    "category": "Civic",
+    "headline": "Saligao Waste Plant Suspends Intake",
+    "summary": "The Saligao waste treatment plant has temporarily suspended receiving waste from eight local governing bodies for a period of 25 days."
   },
   {
     "rank": 42,
-    "category": "Civic",
-    "headline": "Damaged Roof Forces School Activities Outdoors",
-    "summary": "With the roof of the government school in Morjim damaged, students are currently forced to hold activities on stage. Parents have urged authorities to expedite repairs before the monsoon returns."
+    "category": "Politics",
+    "headline": "EC Clarifies Stance on SIR Voter Rolls",
+    "summary": "The Election Commission clarified before the High Court that the SIR electoral roll is de-novo, meaning eligible families were not deleted but rather left unincluded in the draft."
   },
   {
     "rank": 43,
-    "category": "Crime",
-    "headline": "High Court Orders Release of Protesters",
-    "summary": "The Bombay High Court ordered the immediate release of seven protesters, noting that their detention in Goa may not have been authorized. The ruling came after a habeas corpus petition was filed."
+    "category": "Civic",
+    "headline": "NIO Showcase Marine Science Innovations",
+    "summary": "The National Institute of Oceanography in Goa celebrated its Foundation Day by displaying glowing bacteria and microbial art to highlight marine science."
   },
   {
     "rank": 44,
     "category": "Weather",
-    "headline": "Goa Ranks Among Hottest Places in India",
-    "summary": "Temperatures touching 36°C placed Goa among the ten hottest spots in the country. Meteorological departments noted the unusual warmth for the post-monsoon period."
+    "headline": "Panaji Records Hottest October Day",
+    "summary": "Panaji temperatures reached 37.2°C, marking the hottest October day recorded in the city in nearly twenty years."
   },
   {
     "rank": 45,
     "category": "Tourism",
-    "headline": "Turtle Panel Steps Up Night Patrols",
-    "summary": "The state's turtle conservation committee is reviewing Supreme Court standard operating procedures while ramping up night patrols along nesting beaches. The move aims to protect endangered marine species during breeding season."
+    "headline": "CM Promises Stance-Free Beaches",
+    "summary": "The Chief Minister assured that measures will be taken to ensure tourists face no inconvenience from stray dogs on Goan beaches this season."
   },
   {
     "rank": 46,
     "category": "Politics",
-    "headline": "Lokayukta Calls Out Leaders Over Assets",
-    "summary": "The Goa Lokayukta publicly named an MLA and several councillors for failing to file mandatory asset declarations. The strict measure aims to enforce transparency among elected representatives."
+    "headline": "RG Protests Land Zoning Changes",
+    "summary": "Revolutionary Goans have raised strong objections against proposed land zoning changes made in the village of Oxel."
   },
   {
     "rank": 47,
-    "category": "Business",
-    "headline": "NPCI to Implement UPI Merchant MDR",
-    "summary": "The National Payments Corporation of India plans to implement Merchant Discount Rates on select UPI transactions following Diwali. The decision will impact digital payment processing fees for merchants."
+    "category": "Politics",
+    "headline": "CM Cautions Against Alvara Land Sales",
+    "summary": "Chief Minister Pramod Sawant has issued a public warning urging caution against unauthorized transactions involving Alvara lands."
   },
   {
     "rank": 48,
-    "category": "Civic",
-    "headline": "South Collector Dismantles Mutation Cell",
-    "summary": "The South Goa Collector has dismantled the Salcete mutation cell, transferring pending files directly to Joint Mamlatdars. The administrative overhaul aims to clear the massive backlog of land records."
+    "category": "Weather",
+    "headline": "IMD Issues Rain and Thunderstorm Alert",
+    "summary": "The India Meteorological Department issued a thunderstorm alert for Goa spanning October 16 to 17, with intermittent rains likely to continue until October 20."
   },
   {
     "rank": 49,
-    "category": "Civic",
-    "headline": "Goa Commission Fills 83% Teacher Posts",
-    "summary": "The Goa Staff Selection Commission successfully filled 83 percent of vacancies for government primary school teachers. Recruitment drives continue to bridge staffing gaps in the education sector."
-  },
-  {
-    "rank": 50,
-    "category": "Politics",
-    "headline": "New Book Traces Goa’s Political History",
-    "summary": "A newly launched book titled 'Goa: Mukti Te Pragati' chronicles the state's political evolution and developmental milestones since liberation. The text offers a deep dive into Goa's democratic journey."
+    "category": "Weather",
+    "headline": "Anticyclonic Circulation Drives Goa Heat",
+    "summary": "Goa continues to experience high temperatures exceeding 36°C driven by a combination of deficient rainfall and ongoing anticyclonic circulation."
   }
 ]
