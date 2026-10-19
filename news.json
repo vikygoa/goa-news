@@ -1,176 +1,302 @@
 [
   {
     "rank": 1,
-    "category": "Crime",
-    "headline": "FIR Against 300 Over Anti-Hindutva Slogans",
-    "summary": "Goa police have filed an FIR against 300 unidentified protesters for allegedly raising communal and anti-Hindutva slogans during a demonstration in Panaji."
+    "category": "Politics",
+    "headline": "BJP made Goa a model for corruption: Rahul",
+    "summary": "Congress leader Rahul Gandhi accused the BJP government in Goa of rampant corruption during his visit. He claimed that the ruling party has transformed the state into a hub of corrupt practices."
   },
   {
     "rank": 2,
     "category": "Politics",
-    "headline": "Rahul Gandhi Joins Goa Yatra",
-    "summary": "Congress leader Rahul Gandhi participated in the 'Goy Rakhon Yatra' in Goa, walking two kilometres alongside party workers and supporters."
+    "headline": "Rahul targets Modi, Shah, and CEC",
+    "summary": "Rahul Gandhi launched a scathing attack on Prime Minister Narendra Modi, Home Minister Amit Shah, and Chief Election Commissioner Gyanesh Kumar. He questioned political accountability and ongoing electoral controversies."
   },
   {
     "rank": 3,
     "category": "Politics",
-    "headline": "Rahul Gandhi Slams BJP And CEC",
-    "summary": "During a rally in Goa, Rahul Gandhi criticized the BJP over land, jobs, and corruption while launching a fresh attack on the CEC regarding electoral integrity."
+    "headline": "Modi and CEC will face justice, says Rahul",
+    "summary": "Addressing a public gathering in Goa, Rahul Gandhi warned that top leaders and the CEC will eventually face legal consequences for vote theft. He asserted that accountability cannot be evaded."
   },
   {
     "rank": 4,
     "category": "Politics",
-    "headline": "GFP Chief Alleges SIR Voter Irregularities",
-    "summary": "The Goa Forward Party chief has claimed irregularities in voter rolls, alleging that Nepalese nationals were added as voters while eligible voters went missing."
+    "headline": "GFP chief alleges flaws in Goa voter rolls",
+    "summary": "Goa Forward Party chief Vijai Sardesai claimed significant irregularities in the state's voter lists. He alleged that Nepalese nationals have been wrongfully added while genuine voters are missing."
   },
   {
     "rank": 5,
-    "category": "Tourism",
-    "headline": "Thailand Trip Cheaper Than Goa Vacation",
-    "summary": "Travel creators have claimed on social media that a trip to Thailand cost them less than a comparable vacation within Goa."
+    "category": "Politics",
+    "headline": "Probe sought over voter list anomalies",
+    "summary": "The GFP chief demanded a thorough investigation into alleged irregularities in the Goa voter rolls. He highlighted the inclusion of non-citizens alongside the exclusion of eligible local voters."
   },
   {
     "rank": 6,
-    "category": "Business",
-    "headline": "Goan Artisan Wins National Award",
-    "summary": "A local Goan artisan has been honored with the prestigious National Handicrafts Award for exceptional craftsmanship."
+    "category": "Politics",
+    "headline": "Allegations over Nepalese voters in Goa",
+    "summary": "Political friction intensified as opposition leaders raised concerns regarding voter roll manipulation. Claims were reiterated that foreign nationals were improperly registered to vote."
   },
   {
     "rank": 7,
-    "category": "Civic",
-    "headline": "Fishers Demand CRZ Rollback",
-    "summary": "Fishing communities in Goa have demanded a rollback of recent CRZ relaxations, calling for stronger legal safeguards to protect their livelihoods."
+    "category": "Weather",
+    "headline": "Goa road accidents and deaths surge",
+    "summary": "Official data indicates that road crashes in Goa increased by 9% in September. Concurrently, fatalities resulting from these accidents rose sharply by 22% during the same month."
   },
   {
     "rank": 8,
-    "category": "Sports",
-    "headline": "FC Goa Prepares For AFC Challenge League",
-    "summary": "Football fans can catch the live streaming details for FC Goa's upcoming fixture in the AFC Challenge League against FC Regar-TadAZ."
+    "category": "Crime",
+    "headline": "Two detained over worker's murder",
+    "summary": "Goa police have detained two men from Bihar in connection with a migrant worker's murder case. Authorities are interrogating the suspects to determine the motive behind the crime."
   },
   {
     "rank": 9,
-    "category": "Civic",
-    "headline": "Traffic Diversions Due To Protests",
-    "summary": "Authorities have issued traffic updates and diversion routes via Nipani for commuters traveling between Goa and Pune during ongoing protests."
+    "category": "Crime",
+    "headline": "Mapusa businessman loses Rs 2 crore in scam",
+    "summary": "A Mapusa-based businessman fell victim to a sophisticated cyberfraud scheme known as the 'boss scam'. The fraudster swindled Rs 2 crore by impersonating a senior corporate executive."
   },
   {
     "rank": 10,
-    "category": "Weather",
-    "headline": "Rainfall And Housing Boom Threaten Water Security",
-    "summary": "A combination of deficient rainfall and a rapid mega housing boom pose a significant threat to Goa's long-term water security."
+    "category": "Sports",
+    "headline": "East Bengal thrash Churchill Brothers",
+    "summary": "East Bengal delivered a dominant performance to secure a resounding victory against Churchill Brothers. The four-goal win left the Goan side struggling to recover."
   },
   {
     "rank": 11,
-    "category": "Business",
-    "headline": "Goan Professional Receives Daily Job Offers",
-    "summary": "A Goa-based professional has shared his unique experience of receiving multiple job offers daily without actively applying to companies."
+    "category": "Sports",
+    "headline": "FC Goa vs Regar-TadAZ streaming details",
+    "summary": "Football fans can catch the live action of the upcoming AFC Challenge League match between FC Goa and FC Regar-TadAZ. Details regarding broadcast channels and timing have been released."
   },
   {
     "rank": 12,
-    "category": "Tourism",
-    "headline": "Moving To Goa: Former Delhiite Shares Anxious Experience",
-    "summary": "A woman who left her corporate 9-to-5 job in Delhi to relocate to Goa has opened up about the uncertainty and anxiety of her new life."
+    "category": "Sports",
+    "headline": "Micky heads new players' body",
+    "summary": "Micky has been elected to lead a newly formed players' organization following its historic inaugural elections. The body aims to represent and safeguard the interests of athletes."
   },
   {
     "rank": 13,
-    "category": "Tourism",
-    "headline": "Experiencing Peace In Anjuna",
-    "summary": "A travel writer shares their peaceful experience staying at a quiet seaside cottage in Anjuna, highlighting the calming sound of the ocean."
+    "category": "Business",
+    "headline": "Ex-Cognizant employee relocates to Goa",
+    "summary": "A former Delhi-based corporate employee quit her standard 9-to-5 job to move to Goa. She sought a lifestyle change and greater personal purpose amidst professional burnout."
   },
   {
     "rank": 14,
     "category": "Civic",
-    "headline": "Congress Demands Calangute Infra Safety",
-    "summary": "Congress leaders have urged authorities to expedite ongoing infrastructure works in Calangute to prevent accidents and mishaps."
+    "headline": "Saligao MLA offers drone tech funding",
+    "summary": "The Saligao MLA has announced financial support to help local farmers adopt modern drone technology. The initiative aims to enhance agricultural efficiency and crop management in the region."
   },
   {
     "rank": 15,
-    "category": "Civic",
-    "headline": "Smart Meter Report Raises Concerns",
-    "summary": "An activist group in Goa has flagged serious questions and concerns following the release of a recent report on smart electricity meters."
+    "category": "Business",
+    "headline": "Mormugao port approved for private 5G",
+    "summary": "Mormugao Port has received official clearance to establish a dedicated private 5G network. This digital milestone is expected to significantly boost operational efficiency and automation."
   },
   {
     "rank": 16,
-    "category": "Business",
-    "headline": "Vibrant Goa Summit Focuses On AI And Data Centres",
-    "summary": "The upcoming Vibrant Goa summit agenda will prominently feature investments in data centres and the development of an artificial intelligence city."
+    "category": "Crime",
+    "headline": "Foreign national alleges online rape",
+    "summary": "A foreign woman filed a police complaint alleging she was raped by a man she connected with online in Goa. Local authorities have launched an investigation into the incident."
   },
   {
     "rank": 17,
-    "category": "Business",
-    "headline": "IT Department Aims For 50,000 AI-Certified Goans",
-    "summary": "Goa's IT department has set a target to provide official artificial intelligence certifications to 50,000 residents by the year 2030."
+    "category": "Politics",
+    "headline": "Analyzing Goa Assembly poll dynamics",
+    "summary": "Political analysts are examining various social, political, and demographic factors that could influence outcomes in the upcoming Goa Assembly elections. Coalitions and local issues are expected to play vital roles."
   },
   {
     "rank": 18,
-    "category": "Civic",
-    "headline": "GoaMiles And Local Cabbies Clash",
-    "summary": "Tensions flared in Calangute as a physical altercation was reported between GoaMiles app-based taxi drivers and local traditional cabbies."
+    "category": "Entertainment",
+    "headline": "Goan artisan wins National Handicrafts Award",
+    "summary": "Goan artisan Amar Shet has been honored with the prestigious National Handicrafts Award. The recognition celebrates his dedication and exceptional craftsmanship in traditional arts."
   },
   {
     "rank": 19,
-    "category": "Weather",
-    "headline": "Dabolim Records 117mm Rain",
-    "summary": "Dabolim received 117mm of rainfall, bringing much-needed respite to residents after a spell of sweltering and humid weather."
+    "category": "Crime",
+    "headline": "FIR filed over CJP protest slogans",
+    "summary": "Goa police registered an FIR against participants of a recent protest organized by CJP. Authorities stated that the case was filed for promoting enmity and raising communal slogans."
   },
   {
     "rank": 20,
     "category": "Politics",
-    "headline": "Minister Rane Faces Public Ire",
-    "summary": "State Minister Rane faced strong criticism from locals regarding healthcare facilities, sewage issues, and alleged office harassment."
+    "headline": "Rahul Gandhi joins Goa Congress yatra",
+    "summary": "Senior Congress leader Rahul Gandhi is scheduled to participate in the party's ongoing 'Save Goa' yatra. He will also address a major public meeting ahead of the 2027 polls."
   },
   {
     "rank": 21,
-    "category": "Tourism",
-    "headline": "Goa Doesn't Need EDMs: Rohan Khaunte",
-    "summary": "State Tourism Minister Rohan Khaunte stated that Goa does not rely on electronic dance music festivals to attract visitors to the state."
+    "category": "Civic",
+    "headline": "Fishers demand stricter CRZ rules",
+    "summary": "Fishing communities in Goa have strongly protested against recent relaxations in Coastal Regulation Zone norms. They are demanding a complete rollback and stronger environmental safeguards."
   },
   {
     "rank": 22,
-    "category": "Civic",
-    "headline": "Government Probes Panelim Factory Encroachment",
-    "summary": "The state government has officially initiated a formal probe into the alleged land encroachment surrounding the Panelim gunpowder factory."
+    "category": "Business",
+    "headline": "Luxury second-home markets compared",
+    "summary": "A market analysis report compares emerging luxury second-home destinations including Goa, Alibaug, and Coorg heading into 2026. Buyer preferences are shifting toward tranquil and scenic locales."
   },
   {
     "rank": 23,
-    "category": "Crime",
-    "headline": "Man Found Murdered Near Kala Academy",
-    "summary": "A local man was found dead with injuries near the Kala Academy in Panaji, prompting an immediate police investigation into a suspected murder."
+    "category": "Civic",
+    "headline": "Water security threatened in Goa",
+    "summary": "Environmentalists and reports warn that a combination of deficit rainfall and an unchecked housing boom pose severe risks to Goa's future water security. Sustainable management is urgently called for."
   },
   {
     "rank": 24,
-    "category": "Civic",
-    "headline": "MPA Drops Baina Beach Leasing Plan",
-    "summary": "Facing intense local opposition and backlash, the Mormugao Port Authority has decided to abandon its controversial Baina beach leasing plan."
+    "category": "Weather",
+    "headline": "Traffic advisories issued for Goa-Pune route",
+    "summary": "Authorities have released traffic updates and diversion routes for travelers commuting from Goa to Pune via Nipani due to ongoing protests. Motorists are advised to plan their journeys accordingly."
   },
   {
     "rank": 25,
     "category": "Business",
-    "headline": "GSI Identifies Critical Minerals In Iron Ore Dumps",
-    "summary": "The Geological Survey of India has found that Goa's low-grade iron ore dumps contain valuable and critical mineral resources."
+    "headline": "Goan professional receives daily job offers",
+    "summary": "A Goa-based professional shared his unique experience of receiving multiple unsolicited job offers daily without actively applying. His profile has drawn considerable attention from recruiters."
   },
   {
     "rank": 26,
-    "category": "Sports",
-    "headline": "Four Candidates Contest GFA Presidency",
-    "summary": "A total of four candidates have officially entered the electoral fray competing for the position of Goa Football Association president."
+    "category": "Business",
+    "headline": "Ex-HR shares uncertainty of moving to Goa",
+    "summary": "Reflecting on her decision to quit her corporate job in Delhi for a simpler life in Goa, a former HR professional admitted to feeling anxious about the future. Her candid reflections resonated widely online."
   },
   {
     "rank": 27,
-    "category": "Business",
-    "headline": "GI Conclave Promotes Goan Supply Chains",
-    "summary": "A recently held Geographical Indication conclave emphasized the need for stronger supply chains to boost the market reach of authentic Goan products."
+    "category": "Politics",
+    "headline": "Rahul criticizes Goa regime and CEC",
+    "summary": "Continuing his tirade in Goa, Rahul Gandhi censured the state administration over governance failures and corruption. He also reiterated warnings directed at the election commission leadership."
   },
   {
     "rank": 28,
-    "category": "Civic",
-    "headline": "KTC Employees Union Calls Strike",
-    "summary": "The Kadamba Transport Corporation employees union has announced a state-wide strike starting November 12 over pending charter of demands."
+    "category": "Politics",
+    "headline": "Congress launches 'Save Goa' campaign",
+    "summary": "The Congress party has intensified its outreach in Goa by launching the 'Save Goa' yatra. The movement is aimed at galvanizing public support ahead of the 2027 state legislative elections."
   },
   {
     "rank": 29,
-    "category": "Weather",
-    "headline": "Dam Water Levels Drop Across Goa",
-    "summary": "Water levels have significantly dropped across all seven major dams in Goa, prompting the government to issue an urgent appeal for judicious water usage."
+    "category": "Tourism",
+    "headline": "Experiencing the tranquil side of Anjuna",
+    "summary": "A travel feature highlights a peaceful stay at an Anjuna cottage in Goa. The author describes how the soothing sounds of the ocean provided a therapeutic escape."
+  },
+  {
+    "rank": 30,
+    "category": "Politics",
+    "headline": "Rahul Gandhi slams government on vote theft",
+    "summary": "Rahul Gandhi renewed his attacks on central and state authorities during his Goa tour, focusing on allegations of systematic electoral manipulation. He addressed enthusiastic crowds regarding democratic integrity."
+  },
+  {
+    "rank": 31,
+    "category": "Politics",
+    "headline": "Rahul accuses CEC of enabling vote fraud",
+    "summary": "In his address, Rahul Gandhi alleged that the entire nation is aware of how CEC Gyanesh Kumar facilitates electoral malpractices. He vowed that opposition parties will hold authorities accountable."
+  },
+  {
+    "rank": 32,
+    "category": "Business",
+    "headline": "Former Delhi worker discusses Goa move",
+    "summary": "Leaving behind a conventional corporate career in the capital, a young professional embraced the uncertainties of relocating to Goa. Her journey highlights the growing trend of lifestyle migration."
+  },
+  {
+    "rank": 33,
+    "category": "Crime",
+    "headline": "Police case against 300 protesters",
+    "summary": "Goa police booked approximately 300 unidentified participants following a demonstration in Panaji. The FIR follows allegations that anti-Hindutva and provocative slogans were raised during the rally."
+  },
+  {
+    "rank": 34,
+    "category": "Tourism",
+    "headline": "Travelers find Thailand cheaper than Goa",
+    "summary": "Several content creators have sparked online discussions by claiming that a vacation in Thailand cost them less than a comparable trip to Goa. High domestic pricing was cited as a major factor."
+  },
+  {
+    "rank": 35,
+    "category": "Entertainment",
+    "headline": "Beethoven's music meets Goan garba",
+    "summary": "Cultural fusion took center stage in Goa as classical European compositions were uniquely blended with traditional festive garba beats. The experimental performance delighted local audiences."
+  },
+  {
+    "rank": 36,
+    "category": "Politics",
+    "headline": "Congress targets BJP on jobs and land",
+    "summary": "At a political rally in Goa, Rahul Gandhi criticized the BJP's handling of local employment, land preservation, and corruption. He urged voters to grant Congress a full majority in 2027."
+  },
+  {
+    "rank": 37,
+    "category": "Crime",
+    "headline": "FIR registered over Panaji protest",
+    "summary": "An official police complaint has been registered against hundreds of protestors involved in a demonstration in Panaji. Investigations are underway to identify individuals responsible for inflammatory actions."
+  },
+  {
+    "rank": 38,
+    "category": "Civic",
+    "headline": "Congress urges infrastructure safety in Calangute",
+    "summary": "Local Congress leaders have demanded the swift completion of ongoing infrastructure works in Calangute. They warned that delays are increasing the risk of accidents for commuters and pedestrians."
+  },
+  {
+    "rank": 39,
+    "category": "Tourism",
+    "headline": "Celebrating Makharotsav in Goa",
+    "summary": "The unique cultural festival of Makharotsav is being celebrated with traditional fervor across Goa. The event showcases rich local heritage and spiritual customs during the festive season."
+  },
+  {
+    "rank": 40,
+    "category": "Civic",
+    "headline": "Canacona tribal farmers shift to marigolds",
+    "summary": "Tribal farmers in Canacona have significantly expanded their cultivation of marigold flowers. This agricultural shift is helping local farmers tap into lucrative festive market demands."
+  },
+  {
+    "rank": 41,
+    "category": "Sports",
+    "headline": "Sesa Football Academy dominates GFA Awards",
+    "summary": "Sesa Football Academy emerged as the biggest winner at the Goa Football Association Awards, securing 11 accolades in recognition of their stellar performance and talent development."
+  },
+  {
+    "rank": 42,
+    "category": "Civic",
+    "headline": "Children from three countries create book",
+    "summary": "Underprivileged children hailing from three different nations collaborated to write, translate, and illustrate a new book. The cross-border project empowers young minds through creative expression."
+  },
+  {
+    "rank": 43,
+    "category": "Civic",
+    "headline": "Activist group questions smart meter report",
+    "summary": "A collective of local activists has raised serious concerns regarding the findings of a recent smart meter report in Goa. They are demanding greater transparency and accountability from authorities."
+  },
+  {
+    "rank": 44,
+    "category": "Tourism",
+    "headline": "Goan folk traditions showcased in Karnataka",
+    "summary": "Traditional Goan folk art and cultural performances came alive in the forested regions of neighboring Karnataka as part of Navratri celebrations. The event bridged regional cultural ties."
+  },
+  {
+    "rank": 45,
+    "category": "Civic",
+    "headline": "BPS Club land grant faces legal scrutiny",
+    "summary": "A historic land grant allotted to the BPS Club has run into legal challenges after 74 years. Authorities are reviewing the original allotment terms amidst emerging legal contentions."
+  },
+  {
+    "rank": 46,
+    "category": "Sports",
+    "headline": "Rinku Singh revives UP innings vs Goa",
+    "summary": "A stellar century by Rinku Singh helped Uttar Pradesh recover from a precarious start against Goa in a domestic cricket fixture. His resilient knock anchored the team's total."
+  },
+  {
+    "rank": 47,
+    "category": "Civic",
+    "headline": "Tillari canal scheduled for maintenance shutdown",
+    "summary": "The Tillari right bank canal will temporarily suspend operations starting October 20 for essential repair and maintenance works. Farmers and residents have been advised to manage water usage accordingly."
+  },
+  {
+    "rank": 48,
+    "category": "Crime",
+    "headline": "Religious sentiments charge in Goa stir",
+    "summary": "Police have invoked charges related to the outraging of religious feelings against protesters who participated in a recent demonstration in Goa. Legal proceedings are currently being pursued."
+  },
+  {
+    "rank": 49,
+    "category": "Business",
+    "headline": "Data centres and AI city eyed for Goa",
+    "summary": "Proposals for establishing advanced data centres and an AI city are prominently featured on the agenda for the upcoming Vibrant Goa summit. The state aims to position itself as a tech hub."
+  },
+  {
+    "rank": 50,
+    "category": "Business",
+    "headline": "Goa aims for 50,000 AI-certified youth by 2030",
+    "summary": "The state IT department has launched an ambitious initiative to ensure that 50,000 residents of Goa receive formal artificial intelligence certification by the year 2030."
   }
 ]
