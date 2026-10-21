@@ -1,302 +1,302 @@
 [
   {
     "rank": 1,
-    "category": "Crime",
-    "headline": "Bomb Threat Delays Chennai-Goa IndiGo Flight",
-    "summary": "An IndiGo flight from Chennai to Goa experienced a five-hour delay following a bomb threat that was later declared a hoax."
+    "category": "Civic",
+    "headline": "Mandovi River Contaminated with High Faecal Coliform Levels",
+    "summary": "A recent study warns that Goa's Mandovi River contains high levels of faecal coliform bacteria. The findings highlight growing environmental and public health concerns regarding sewage contamination in the river."
   },
   {
     "rank": 2,
-    "category": "Crime",
-    "headline": "Goa-Bound Flight Delayed Due to Hoax Bomb Threat",
-    "summary": "Passengers faced a lengthy delay on a Goa-bound flight after authorities received a bomb threat which turned out to be false."
+    "category": "Civic",
+    "headline": "Sewage Crisis in Mandovi River Triggers Public Outcry",
+    "summary": "Rising sewage pollution in the Mandovi River has sparked strong protests from local residents. Citizens are demanding urgent action from authorities to address the growing contamination."
   },
   {
     "rank": 3,
-    "category": "Crime",
-    "headline": "Hoax Bomb Threat Disrupts Goa Flight Schedule",
-    "summary": "A Goa-bound flight suffered a significant delay after a bomb threat was reported, which ultimately proved to be a hoax."
+    "category": "Civic",
+    "headline": "Pollution Board Informs High Court of Mandovi River Contamination",
+    "summary": "The Goa State Pollution Control Board informed the High Court that faecal coliform levels in the Mandovi River exceed safe limits. The admission comes amid ongoing legal scrutiny over river pollution."
   },
   {
     "rank": 4,
-    "category": "General",
-    "headline": "Ex-HR Professional Relocates to Goa",
-    "summary": "A former Delhi HR professional quit her corporate job to move to Goa in search of purpose, though she faced financial hurdles."
+    "category": "Politics",
+    "headline": "CM Sawant Dismisses Impact of Rahul Gandhi's Goa Visit",
+    "summary": "Goa Chief Minister Pramod Sawant stated that Rahul Gandhi's participation in a Congress rally will not affect state politics. He downplayed the political significance of the event."
   },
   {
     "rank": 5,
-    "category": "General",
-    "headline": "Corporate Employee Moves to Goa for New Life",
-    "summary": "A former Cognizant employee left her job in Delhi to relocate to Goa in search of personal meaning."
+    "category": "Politics",
+    "headline": "Rahul Gandhi Accuses Top Leaders and CEC of Electoral Misconduct",
+    "summary": "Congress leader Rahul Gandhi alleged electoral fraud during his visit to Goa, targeting top leaders and the Chief Election Commissioner. He claimed those responsible would eventually face accountability."
   },
   {
     "rank": 6,
-    "category": "General",
-    "headline": "Ex-HR Leaves 9-to-5 Job to Move to Goa",
-    "summary": "An ex-Cognizant HR professional left her routine corporate job in Delhi to find purpose in Goa, admitting she feels scared about the change."
+    "category": "Politics",
+    "headline": "CM Claims Rahul Gandhi's Brief Rally Walk Will Not Affect Goa",
+    "summary": "Chief Minister Pramod Sawant minimized Rahul Gandhi's brief appearance at a Goa rally, calling it ineffective. He stated that the visit would yield no political gains for the Congress party."
   },
   {
     "rank": 7,
-    "category": "Politics",
-    "headline": "Factors Shaping Goa Assembly Polls",
-    "summary": "Various social and political equations are being analyzed to determine what will influence the outcome of Goa's assembly elections."
+    "category": "General",
+    "headline": "Supercars Spotted on Porvorim Elevated Corridor Video",
+    "summary": "A viral video shows high-end supercars driving along Goa's newly constructed Porvorim Elevated Corridor. The footage highlights new infrastructure development in the state."
   },
   {
     "rank": 8,
-    "category": "Politics",
-    "headline": "CM Dismisses Impact of Rahul's Goa Yatra",
-    "summary": "Goa's Chief Minister stated that Rahul Gandhi attending a Congress yatra in the state will have no impact on local politics."
+    "category": "Tourism",
+    "headline": "Four Budget-Friendly Alternatives to Goa and Manali",
+    "summary": "Travel experts recommend four alternative destinations offering quality holiday experiences at lower costs than popular spots like Goa and Manali. The suggestions target budget-conscious travelers seeking scenic getaways."
   },
   {
     "rank": 9,
-    "category": "Politics",
-    "headline": "Rahul Gandhi Targets Leaders Over Vote Integrity",
-    "summary": "Rahul Gandhi claimed that Prime Minister Modi, Amit Shah, and CEC Kumar will face justice and pay the price for alleged vote tampering."
+    "category": "General",
+    "headline": "Article Highlights Dating Challenges in Goa",
+    "summary": "A report explores the social dynamics and challenges of finding romantic relationships in Goa. It examines how local culture, transient tourist populations, and lifestyle factors impact the dating scene."
   },
   {
     "rank": 10,
-    "category": "Crime",
-    "headline": "FIR Filed Over CJP Protest Slogans in Goa",
-    "summary": "Goa Police filed an FIR regarding a protest, stating that communal and anti-Hindutva slogans were raised during the rally."
+    "category": "Sports",
+    "headline": "Match Preview: Fortis FC Faces FC Goa in AFC Challenge League",
+    "summary": "FC Goa takes on Fortis FC in an upcoming AFC Challenge League fixture. The preview provides key details including kick-off timing, venue, and broadcast streaming options."
   },
   {
     "rank": 11,
-    "category": "Crime",
-    "headline": "Police Register FIR Against 300 CJP Protesters",
-    "summary": "An FIR has been registered against approximately 300 individuals following a CJP protest in Panaji over alleged slogans."
+    "category": "Civic",
+    "headline": "Centre Approves 50 MBBS Seats for New Government Medical College in Goa",
+    "summary": "The Union government has approved 50 MBBS seats at the ESIC hospital for the 2027-28 academic year, paving the way for Goa's second government medical college. The move aims to boost medical education and public healthcare infrastructure."
   },
   {
     "rank": 12,
     "category": "Crime",
-    "headline": "FIR Lodged Over Panaji Protest Slogans",
-    "summary": "Goa Police registered an FIR against 300 CJP protesters for chanting specific slogans during a rally in Panaji."
+    "headline": "Goa-Bound Flight Delayed Due to Hoax Bomb Threat",
+    "summary": "A Goa-bound flight experienced significant delays following a false bomb threat. Security officials inspected the aircraft before clearing it for travel."
   },
   {
     "rank": 13,
-    "category": "Civic",
-    "headline": "Video Highlights Supercars on Porvorim Corridor",
-    "summary": "A video showcasing supercars driving on Goa's newly opened Porvorim Elevated Corridor has surfaced."
+    "category": "Entertainment",
+    "headline": "Local Event Celebrates Creative Freedom and Artistic Expression",
+    "summary": "An event in Goa brought together artists and creators to highlight and celebrate artistic freedom. The gathering showcased diverse forms of creative expression."
   },
   {
     "rank": 14,
     "category": "Tourism",
-    "headline": "Exploring the Challenges of Finding Love in Goa",
-    "summary": "An analysis explores the unique social dynamics that make finding romantic relationships difficult for individuals living in Goa."
+    "headline": "Goa Featured Among India's Top Scenic Vistadome Train Routes",
+    "summary": "A travel list highlights seven spectacular Vistadome train journeys across India, including routes in Goa and Shimla. The featured journeys offer panoramic views of natural landscapes through large glass windows."
   },
   {
     "rank": 15,
-    "category": "Civic",
-    "headline": "Goa to Get Second Government Medical College",
-    "summary": "The Centre has approved 50 MBBS seats for the 2027-28 academic year at the ESIC hospital, paving the way for Goa's second government medical college."
+    "category": "Crime",
+    "headline": "FIR Naming 300 Protesters Registered Following Panaji Demonstration",
+    "summary": "Goa Police filed an FIR against approximately 300 protesters for shouting controversial slogans during a rally in Panaji organized by the Centre for Justice and Peace. Authorities are investigating the incident."
   },
   {
     "rank": 16,
-    "category": "Sports",
-    "headline": "Fortis FC vs FC Goa ACL Match Details",
-    "summary": "Information has been released on where to watch, the kick-off time, and the venue for the upcoming AFC Challenge League match between Fortis FC and FC Goa."
+    "category": "Politics",
+    "headline": "Rahul Gandhi Leads 2-Km Walk in Congress 'Goy Rakhon Yatra'",
+    "summary": "Congress leader Rahul Gandhi joined party workers in Goa for the 'Goy Rakhon Yatra', walking two kilometers during the rally. The event aimed to mobilize local support and highlight regional issues."
   },
   {
     "rank": 17,
-    "category": "Civic",
-    "headline": "Goa's Urban Property Card Drive Starts Slowly",
-    "summary": "The state-wide urban property card drive in Goa has experienced a slow start and low initial response rates."
+    "category": "Politics",
+    "headline": "Rahul Gandhi Targets CEC During Goa Political Speech",
+    "summary": "Speaking in Goa, Rahul Gandhi accused Chief Election Commissioner Gyanesh Kumar of facilitating electoral irregularities nationwide. He called for public awareness and institutional accountability."
   },
   {
     "rank": 18,
-    "category": "Crime",
-    "headline": "Probe Into Goa's Illegal Mining Falters",
-    "summary": "Goa's long-running investigation into illegal mining made little progress due to a lack of evidence and endless delays."
+    "category": "General",
+    "headline": "Former IT Employee Relocates to Goa Seeking New Lifestyle",
+    "summary": "A former Cognizant employee left her corporate job in Delhi to move to Goa in search of personal fulfillment. Her story highlights the growing trend of professionals seeking alternative lifestyles."
   },
   {
     "rank": 19,
-    "category": "Weather",
-    "headline": "NIO Warns of Drug-Resistant Bacteria on Beaches",
-    "summary": "The National Institute of Oceanography has issued a warning regarding the presence of drug-resistant bacteria on Goa’s beaches."
+    "category": "Crime",
+    "headline": "Police File FIR Against Contractor and Supervisor Following Worker's Death",
+    "summary": "Goa Police registered a case against a contractor and a supervisor after a construction worker lost his life in an accident. An investigation into potential negligence is underway."
   },
   {
     "rank": 20,
-    "category": "Entertainment",
-    "headline": "Goa Event Celebrates Creative Freedom",
-    "summary": "A local event in Goa was held to honor and celebrate the spirit of creative freedom."
+    "category": "Civic",
+    "headline": "Bhoma Villagers Protest Proposed Land Conversion After Highway Dispute",
+    "summary": "Residents of Bhoma village are opposing local land conversion plans after previously protesting against a highway expansion project. Villagers expressed concern over the impact on their community and environment."
   },
   {
     "rank": 21,
-    "category": "Crime",
-    "headline": "North Goa Police Seize Narcotics Worth ₹12.7 Lakh",
-    "summary": "North Goa Police arrested four individuals and seized illegal narcotics valued at ₹12.7 lakh in a major drug crackdown."
+    "category": "Politics",
+    "headline": "Goa Government Favors Retaining Shivaji Maharaj Statue at Current Site",
+    "summary": "Amid an ongoing controversy in Sada, the Goa government stated its preference to keep the Chhatrapati Shivaji Maharaj statue at its original location. Authorities hope to resolve community disputes over the site."
   },
   {
     "rank": 22,
-    "category": "Politics",
-    "headline": "Rahul Gandhi Critiques Top Leaders in Goa",
-    "summary": "During a visit to Goa, Congress leader Rahul Gandhi publicly criticized Prime Minister Modi, Amit Shah, and the Chief Election Commissioner."
+    "category": "Crime",
+    "headline": "Calls for SIT Investigation into Alleged Serula Land Forgery",
+    "summary": "Activists and locals are demanding a Special Investigation Team probe into disputed land transactions in the Serula comunidade following fresh allegations of forged documents."
   },
   {
     "rank": 23,
-    "category": "Civic",
-    "headline": "Goa's Tele-MANAS Crosses 40,000 Mental Health Calls",
-    "summary": "Goa's mental health helpline, Tele-MANAS, has surpassed 40,000 calls as the state works to expand mental healthcare access."
+    "category": "Politics",
+    "headline": "Tribal Body Issues Five-Day Ultimatum on Political Reservation",
+    "summary": "The United Tribal Associations Alliance gave the Goa government a five-day deadline to implement political reservation for Scheduled Tribes. The organization warned of further action if demands are unmet."
   },
   {
     "rank": 24,
-    "category": "Politics",
-    "headline": "Rahul Gandhi Alleges Vote Tampering in Goa",
-    "summary": "Rahul Gandhi stated during his Goa visit that CEC Gyanesh Kumar implements vote tampering known to the entire country."
+    "category": "Entertainment",
+    "headline": "A Glimpse Inside Actress Sameera Reddy's Goa Home",
+    "summary": "A feature offers a look inside actress Sameera Reddy's three-storey residence in Goa, surrounded by tropical gardens and coconut trees. The property reflects her serene lifestyle in the state."
   },
   {
     "rank": 25,
-    "category": "Crime",
-    "headline": "Bomb Threat Causes 5-Hour Delay on IndiGo Flight",
-    "summary": "Passengers on a Chennai-Goa IndiGo flight faced a five-hour delay and evacuation after a bomb threat was declared a hoax."
+    "category": "Civic",
+    "headline": "Urban Property Card Drive Registers Slow Initial Response in Goa",
+    "summary": "Goa's urban property card distribution initiative has seen a sluggish start across several municipal areas. Authorities are encouraging property owners to participate in the documentation process."
   },
   {
     "rank": 26,
-    "category": "General",
-    "headline": "Why an Ex-HR Professional Moved to Goa",
-    "summary": "A former corporate HR employee shared her reasons for leaving Delhi behind to build a new life in Goa."
+    "category": "Business",
+    "headline": "Agriculture Department Advises Farmers to Switch to Short-Duration Crops",
+    "summary": "Facing anticipated water scarcity, Goa's Agriculture Department plans to advise local farmers to cultivate short-duration crops. The measure aims to conserve water resources while protecting agricultural output."
   },
   {
     "rank": 27,
-    "category": "Crime",
-    "headline": "FIR Filed Against Contractor After Worker's Death",
-    "summary": "Goa authorities registered an FIR against a project contractor and supervisor following a worker's fatal accident."
+    "category": "Tourism",
+    "headline": "Travel Creators Compare Budget Vacation Costs Between Thailand and Goa",
+    "summary": "Content creators shared insights on how an international getaway to Thailand cost them less than a trip to Goa. Their viral breakdown highlights shifting trends among Indian budget travelers."
   },
   {
     "rank": 28,
-    "category": "Civic",
-    "headline": "Sewage Overflow Plagues Colva Beach",
-    "summary": "Sewage overflow issues have raised concerns and complaints regarding sanitation and environmental conditions at Colva beach."
+    "category": "Business",
+    "headline": "CM Assures KTC Employees of Wage Hikes and Pension Benefits",
+    "summary": "Chief Minister Pramod Sawant promised Kadamba Transport Corporation employees impending wage increases and EPFO retirement benefits. The announcement aims to resolve longstanding staff grievances."
   },
   {
     "rank": 29,
-    "category": "Crime",
-    "headline": "Demand for SIT Probe Into Serula Comunidade Land",
-    "summary": "Fresh forgery claims have prompted demands for a Special Investigation Team to probe land dealings involving the Serula comunidade."
+    "category": "Civic",
+    "headline": "Sewage Overflow Issues Plague Popular Colva Beach",
+    "summary": "Visitors and locals at Colva Beach face growing foul odors due to continuous sewage discharge. The issue threatens the reputation of one of Goa's popular coastal destinations."
   },
   {
     "rank": 30,
-    "category": "Entertainment",
-    "headline": "Inside Sameera Reddy's Three-Storey Goa Home",
-    "summary": "A look inside actor Sameera Reddy's spacious three-storey bungalow in Goa, which is surrounded by lush coconut gardens."
+    "category": "Civic",
+    "headline": "KTC Expands Concessions and Features on Public Bus Passes",
+    "summary": "The Kadamba Transport Corporation has upgraded its bus pass schemes to provide enhanced benefits and affordability for regular commuters in Goa."
   },
   {
     "rank": 31,
     "category": "Civic",
-    "headline": "HC Seeks Responses on Illegal Bainguinim Casting Yard",
-    "summary": "The High Court has sought official responses from the state and central governments regarding a petition against an illegal casting yard at Bainguinim."
+    "headline": "Tillari Canal Maintenance to Delay Water Supply Projects in Calangute",
+    "summary": "A planned shutdown of the Tillari irrigation canal will temporarily stall water supply improvement projects in Calangute. Authorities are working to mitigate the impact on local residents."
   },
   {
     "rank": 32,
-    "category": "Weather",
-    "headline": "Goa Agriculture Dept Anticipates Water Shortage",
-    "summary": "Expecting potential water shortages, Goa's agriculture department plans to issue an advisory urging farmers to switch to short-duration crops."
+    "category": "Civic",
+    "headline": "Corporation of City of Panaji Extends Garbage Collection Contract",
+    "summary": "The Corporation of the City of Panaji extended its municipal waste management contract by one year at a cost of Rs 4.7 crore. The extension aims to maintain uninterrupted sanitation services."
   },
   {
     "rank": 33,
     "category": "General",
-    "headline": "AWES Get-Together Celebrates Sporting Spirit",
-    "summary": "Old friends gathered for an AWES event in Goa to reminisce and celebrate sportsmanship and fond memories."
+    "headline": "Delhi Professional Shares Experience After Relocating to Goa",
+    "summary": "A former corporate employee recounted the challenges and uncertainties of quitting her job in Delhi to start afresh in Goa. She highlighted both the freedom and anxieties associated with lifestyle relocation."
   },
   {
     "rank": 34,
     "category": "Civic",
-    "headline": "CM Assures KTC Staff of Hikes and Benefits",
-    "summary": "Goa's Chief Minister assured KTC employees regarding salary hikes and EPFO benefits during a meeting."
+    "headline": "High Court Issues Notices Over Alleged Illegal Construction Yard in Bainguinim",
+    "summary": "The High Court of Bombay at Goa issued notices to state and central authorities following a petition against an unauthorized casting yard in Bainguinim. The court sought responses regarding environmental and zoning compliance."
   },
   {
     "rank": 35,
-    "category": "Crime",
-    "headline": "Passenger Killed in Mini Bus and Water Tanker Collision",
-    "summary": "A passenger lost their life after a mini bus collided with a water tanker in Goa."
+    "category": "General",
+    "headline": "One Dead After Bus Collides with Water Tanker in Goa",
+    "summary": "A passenger died after a mini bus rammed into a stationary water tanker in a severe road accident. Local police have registered a case and initiated an investigation."
   },
   {
     "rank": 36,
-    "category": "Civic",
-    "headline": "KTC Enhances Bus Pass Benefits for Commuters",
-    "summary": "The Kadamba Transport Corporation has introduced enhanced benefits for its bus pass holders."
+    "category": "Business",
+    "headline": "CM Sawant Urges Local Industries to Leverage Free Trade Agreements",
+    "summary": "Chief Minister Pramod Sawant urged Goa's business sector to capitalize on foreign Free Trade Agreements to boost regional exports. He emphasized economic growth through international commerce."
   },
   {
     "rank": 37,
-    "category": "Civic",
-    "headline": "Tillari Canal Shutdown to Delay Calangute Water Plans",
-    "summary": "Water supply plans for Calangute are set to face delays due to the scheduled shutdown of the Tillari irrigation project."
+    "category": "Business",
+    "headline": "Goa Accommodation Rates Surge Amid High Post-Diwali Tourist Demand",
+    "summary": "Luxury hotel room rates and villa rentals in Goa have skyrocketed following Diwali due to high holiday travel demand. Prices for premium stays have reached record seasonal highs."
   },
   {
     "rank": 38,
-    "category": "Business",
-    "headline": "Sawant Urges Goa to Leverage FTAs to Boost Exports",
-    "summary": "Goa Chief Minister Pramod Sawant stated that the state must take advantage of Free Trade Agreements to increase its exports."
+    "category": "Tourism",
+    "headline": "Heritage Tour Explores Indo-Portuguese History Across Daman and Goa",
+    "summary": "A newly highlighted heritage excursion offers travelers a journey through Indo-Portuguese architecture and historical landmarks in the region."
   },
   {
     "rank": 39,
     "category": "Business",
-    "headline": "Goa Sees 30% Rise in Marigold Cultivation",
-    "summary": "Marigold flower cultivation in Goa has increased by 30% compared to the previous year."
+    "headline": "Marigold Farming in Goa Sees 30 Percent Increase This Year",
+    "summary": "Marigold flower production in Goa recorded a 30 percent year-on-year increase driven by favorable weather and government agricultural support. The rise met strong festive season demand."
   },
   {
     "rank": 40,
     "category": "Sports",
-    "headline": "FC Goa Prepares for High-Stakes Clash Against Fortis",
-    "summary": "FC Goa faces Fortis in an important AFC Challenge League match where both teams will aim to avoid costly mistakes."
+    "headline": "FC Goa Seeks Crucial Win Against Fortis in AFC Challenge League",
+    "summary": "FC Goa approaches its upcoming AFC Challenge League match against Fortis FC with high stakes. The team aims for a flawless performance to advance in the tournament."
   },
   {
     "rank": 41,
-    "category": "Civic",
-    "headline": "ST Body Seeks Plans for Remote Tribal Villages",
-    "summary": "A Scheduled Tribe body in Goa has demanded official visits and time-bound development plans for remote tribal settlements."
+    "category": "Tourism",
+    "headline": "Travel Guide Suggests Affordable Beach Alternatives to Goa",
+    "summary": "A travel feature recommends four less crowded Indian coastal destinations as budget-friendly alternatives to Goa for the winter holiday season."
   },
   {
     "rank": 42,
     "category": "Civic",
-    "headline": "Urban Property Card Drive Sees Minimal Response",
-    "summary": "Goa's ongoing urban property card registration drive has received a poor response, recording only a 5% turnout."
+    "headline": "Tribal Body Demands Targeted Development Plans for Remote Villages",
+    "summary": "A Scheduled Tribes organization requested official government visits and time-bound action plans to address basic infrastructure gaps in Goa's remote tribal settlements."
   },
   {
     "rank": 43,
-    "category": "Crime",
-    "headline": "Colva Panchayat Member Booked for Assault",
-    "summary": "A panchayat member from Colva has had a criminal case filed against them for allegedly committing an assault during a gram sabha."
+    "category": "General",
+    "headline": "Daily News Bulletin Covers Key Regional Updates in Goa",
+    "summary": "A round-up of top news stories highlights major political, civic, and cultural developments across Goa."
   },
   {
     "rank": 44,
-    "category": "General",
-    "headline": "Low Adoption Rates for Stray Beach Dogs in Goa",
-    "summary": "Despite public sympathy, animal lovers in Goa have largely failed to follow through on adopting stray dogs found on local beaches."
+    "category": "Civic",
+    "headline": "Urban Property Card Initiative Records Low 5 Percent Participation",
+    "summary": "Official records show that Goa's urban property card registration campaign has achieved only a 5 percent response rate so far. Authorities are urging residents to register their property details."
   },
   {
     "rank": 45,
-    "category": "Tourism",
-    "headline": "Russian Tourist's Reaction to Bhel Goes Viral",
-    "summary": "A video of a Russian tourist trying bhel after rejecting pani puri in Goa has sparked online discussions."
+    "category": "Crime",
+    "headline": "Colva Panchayat Member Booked for Alleged Gram Sabha Assault",
+    "summary": "Police registered a case against a Colva panchayat member following an altercation and alleged physical assault during a recent gram sabha meeting."
   },
   {
     "rank": 46,
-    "category": "Entertainment",
-    "headline": "Divine Marriages Highlight Goan Dussehra Rituals",
-    "summary": "Traditional divine marriage ceremonies form a core part of the Dussehra festival celebrations across various Goan villages."
+    "category": "General",
+    "headline": "Stray Dog Adoption Drive on Goa Beaches Sees Low Take-Up",
+    "summary": "Despite verbal support from visitors and animal lovers, beach stray adoption initiatives in Goa have faced poor public participation. Local animal welfare groups continue to push for permanent shelter solutions."
   },
   {
     "rank": 47,
-    "category": "Weather",
-    "headline": "High Faecal Coliform Levels Found in Mandovi River",
-    "summary": "The Goa State Pollution Control Board informed the High Court that faecal coliform levels in the Mandovi river exceed permissible limits."
+    "category": "General",
+    "headline": "Traditional Divine Marriages Mark Dussehra Celebrations in Rural Goa",
+    "summary": "Villages across Goa celebrated Dussehra with sacred divine marriage rituals rooted in local folklore and tradition. The festivities drew devotees seeking blessings."
   },
   {
     "rank": 48,
-    "category": "Tourism",
-    "headline": "Exploring Indo-Portuguese Heritage via Daman Tour",
-    "summary": "A tourism initiative highlights the rich Indo-Portuguese heritage accessible through guided tours of Daman."
+    "category": "Civic",
+    "headline": "Concerns Raised Over Infrastructure Lapses at Margao Bus Terminus",
+    "summary": "Passengers and local representatives criticized planning delays and lack of basic amenities at the Margao bus terminal, calling for immediate infrastructural reform."
   },
   {
     "rank": 49,
-    "category": "General",
-    "headline": "Discussion on Migration Trends and Goa",
-    "summary": "An editorial discussion explores whether contemporary migration patterns into Goa resemble a form of reverse colonisation."
+    "category": "Entertainment",
+    "headline": "Russian Tourist's Goan Street Food Video Trends Online",
+    "summary": "A viral video captures a Russian tourist trying Indian street food on a Goa beach, sparking lively reactions from social media users."
   },
   {
     "rank": 50,
-    "category": "Crime",
-    "headline": "IndiGo Flight Delayed 5 Hours Over Hoax Threat",
-    "summary": "Passengers were evacuated from a Chennai-Goa IndiGo flight after a bomb threat forced a five-hour delay, which was later confirmed to be fake."
+    "category": "Business",
+    "headline": "CM Sawant Seeks Corporate Support to Enhance Goa Medical Assistance",
+    "summary": "Chief Minister Pramod Sawant appealed to private corporations for CSR contributions to strengthen the state's healthcare assistance funds."
   }
 ]
