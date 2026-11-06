@@ -1,1 +1,302 @@
-[]
+[
+  {
+    "rank": 1,
+    "category": "Sports",
+    "headline": "FC Goa Upset Over Late Winner",
+    "summary": "FC Goa expressed severe frustration following a controversial stoppage-time goal that secured a victory for Bengaluru FC."
+  },
+  {
+    "rank": 2,
+    "category": "Politics",
+    "headline": "HC Directs ECI on Electoral Rolls",
+    "summary": "The High Court ordered the Election Commission of India to restore the names of a Goa family whose entries were removed from the electoral rolls."
+  },
+  {
+    "rank": 3,
+    "category": "Civic",
+    "headline": "New Vande Bharat Speed Concerns",
+    "summary": "The newly announced Bengaluru-Mangaluru-Goa Vande Bharat is set to become the slowest Vande Bharat service in the country and may impact existing coastal train schedules."
+  },
+  {
+    "rank": 4,
+    "category": "Sports",
+    "headline": "Achievers Complete Goa Ironman 70.3",
+    "summary": "A retired pilot and a Kerala High Court judge successfully completed the grueling Goa Ironman 70.3 triathlon."
+  },
+  {
+    "rank": 5,
+    "category": "Politics",
+    "headline": "Status of Deleted Voters in Goa",
+    "summary": "Data reveals that roughly 80 percent of voters deleted from Goa's lists have either shifted locations, become untraceable, or face disqualification."
+  },
+  {
+    "rank": 6,
+    "category": "Politics",
+    "headline": "Cabinet Berth for Sankalp",
+    "summary": "Sankalp is set to receive a cabinet berth following a four-year wait."
+  },
+  {
+    "rank": 7,
+    "category": "Business",
+    "headline": "NIO Transfers Tech to Odisha Firm",
+    "summary": "The National Institute of Oceanography has transferred its coral reef monitoring technology to a firm based in Odisha."
+  },
+  {
+    "rank": 8,
+    "category": "Crime",
+    "headline": "Bail Granted in Job Fraud Case",
+    "summary": "A woman facing charges in connection with an overseas job fraud case has been granted bail by the court."
+  },
+  {
+    "rank": 9,
+    "category": "Tourism",
+    "headline": "First UK Charter Arrives in Goa",
+    "summary": "Goa welcomed its first charter flight of the season from the UK, bringing approximately 300 tourists to the state."
+  },
+  {
+    "rank": 10,
+    "category": "Politics",
+    "headline": "Amonkar to Join Goa Cabinet",
+    "summary": "Amonkar will be inducted into the Goa cabinet to fill a ministerial position that remained vacant following the passing of Ravi Naik."
+  },
+  {
+    "rank": 11,
+    "category": "Sports",
+    "headline": "Refereeing Sparks ISL Controversy",
+    "summary": "Controversial refereeing decisions played a notable role in Bengaluru FC's late winning goal against FC Goa in their recent ISL encounter."
+  },
+  {
+    "rank": 12,
+    "category": "Sports",
+    "headline": "Late Goal Seals Bengaluru Win",
+    "summary": "A late strike by Soham Varshneya allowed Bengaluru FC to edge past FC Goa with a 2-1 victory."
+  },
+  {
+    "rank": 13,
+    "category": "Sports",
+    "headline": "Examining the Goa vs Bengaluru Match",
+    "summary": "Discussions emerged over why refereeing controversies ultimately triggered the dramatic late winner in the ISL fixture."
+  },
+  {
+    "rank": 14,
+    "category": "Crime",
+    "headline": "Supreme Court Rejects Tejpal Plea",
+    "summary": "The Supreme Court dismissed Tarun Tejpal's petition seeking a stay on his conviction in the 2013 Goa rape case."
+  },
+  {
+    "rank": 15,
+    "category": "General",
+    "headline": "IIT Goa Exam Format Goes Viral",
+    "summary": "An innovative exam format designed by an IIT Goa professor to prevent AI assistance has captured widespread attention online."
+  },
+  {
+    "rank": 16,
+    "category": "Business",
+    "headline": "Goa's 'Mushroom Man' Builds Empire",
+    "summary": "Sangam Kurade successfully transformed mushroom farming in Goa into a business venture worth Rs 100 crore."
+  },
+  {
+    "rank": 17,
+    "category": "Sports",
+    "headline": "Varshneya Secures Thriller Win",
+    "summary": "Super-sub Soham Varshneya delivered a stoppage-time goal to hand Bengaluru FC a thrilling victory over FC Goa."
+  },
+  {
+    "rank": 18,
+    "category": "Tourism",
+    "headline": "Eco-Friendly Diwali Sees Shifts",
+    "summary": "Goa's traditional and eco-friendly Diwali celebrations are experiencing a noticeable shift toward modern practices."
+  },
+  {
+    "rank": 19,
+    "category": "Business",
+    "headline": "Centre Backs Goa Mining Expansion",
+    "summary": "The central government has pledged support for expanding mining activities in Goa while urging the use of technology to maintain transparency."
+  },
+  {
+    "rank": 20,
+    "category": "Crime",
+    "headline": "Telangana Man Arrested for Fraud",
+    "summary": "A man from Telangana has been arrested by authorities in connection with a cyber fraud case involving Rs 95 lakh."
+  },
+  {
+    "rank": 21,
+    "category": "Civic",
+    "headline": "Vande Bharat Impact on Coastal Trains",
+    "summary": "The introduction of the Bengaluru-Goa Vande Bharat train service is expected to cause disruptions or schedule adjustments for 13 existing trains along the coastal route."
+  },
+  {
+    "rank": 22,
+    "category": "General",
+    "headline": "NEP Textbooks Digitised on DIKSHA",
+    "summary": "Goa has successfully digitised National Education Policy textbooks for students in grades one through eight on the DIKSHA platform."
+  },
+  {
+    "rank": 23,
+    "category": "Civic",
+    "headline": "Protection for Pending Mhaje Ghar Applicants",
+    "summary": "The Chief Minister instructed mamlatdars and panchayats to halt any demolitions of houses that have pending applications under the Mhaje Ghar scheme."
+  },
+  {
+    "rank": 24,
+    "category": "Crime",
+    "headline": "Woman Succumbs to Scooter Injuries",
+    "summary": "A woman passed away days after sustaining injuries in a scooter accident that occurred in Mandrem."
+  },
+  {
+    "rank": 25,
+    "category": "Sports",
+    "headline": "Broadcast Details for ISL Fixture",
+    "summary": "Viewers were provided with television and online streaming options to watch the live telecast of the FC Goa versus Bengaluru FC ISL match."
+  },
+  {
+    "rank": 26,
+    "category": "Tourism",
+    "headline": "AI Deployed for Tourism Crowd Control",
+    "summary": "The Goa government has partnered with a data firm to implement artificial intelligence solutions for better tourism crowd management."
+  },
+  {
+    "rank": 27,
+    "category": "Crime",
+    "headline": "Multi-Crore Scam Operated from Villa",
+    "summary": "Law enforcement uncovered how twelve young men managed a multi-crore scam while operating out of a luxury villa in Goa."
+  },
+  {
+    "rank": 28,
+    "category": "Politics",
+    "headline": "Congress Demands CEC Resignation",
+    "summary": "The Congress party called for the resignation of Chief Election Commissioner Gyanesh Kumar, alleging widespread manipulation of voter lists."
+  },
+  {
+    "rank": 29,
+    "category": "Politics",
+    "headline": "Mhaje Ghar Law Defense Ready",
+    "summary": "Chief Minister Pramod Sawant stated that the Goa government is fully prepared to defend the Mhaje Ghar legislation up to the Supreme Court."
+  },
+  {
+    "rank": 30,
+    "category": "Business",
+    "headline": "Goa to Adopt AI for Scheme Delivery",
+    "summary": "Goa plans to implement AI governance systems to streamline and disburse government benefits and welfare schemes."
+  },
+  {
+    "rank": 31,
+    "category": "Sports",
+    "headline": "Bengaluru Edges Goa in ISL Match",
+    "summary": "Bengaluru FC defeated FC Goa 2-1 in their ISL fixture following a contentious late goal."
+  },
+  {
+    "rank": 32,
+    "category": "Politics",
+    "headline": "Court Orders ECI to Restore Names",
+    "summary": "The Goa High Court directed the ECI to reinstate Paresh Salgaonkar and five family members onto the voter rolls after their names were deleted."
+  },
+  {
+    "rank": 33,
+    "category": "Civic",
+    "headline": "South Goa Accident Stats Shift",
+    "summary": "Data shows that road accidents in South Goa increased by 12 percent, while fatalities dropped significantly by 30 percent."
+  },
+  {
+    "rank": 34,
+    "category": "Crime",
+    "headline": "Mandatory Tenant Verification in South Goa",
+    "summary": "Police verification for tenants has been made legally mandatory across the entirety of South Goa."
+  },
+  {
+    "rank": 35,
+    "category": "Civic",
+    "headline": "Speed Analysis of New Vande Bharat",
+    "summary": "Reports outline the factors contributing to the new Bengaluru-Goa train route holding the title of India's slowest Vande Bharat."
+  },
+  {
+    "rank": 36,
+    "category": "Crime",
+    "headline": "Compensation Allowed for Fire Victims",
+    "summary": "The Bombay High Court ruled that Rs 20 lakh must be provided to the family of each victim affected by the Goa nightclub fire."
+  },
+  {
+    "rank": 37,
+    "category": "Politics",
+    "headline": "Congress Alleges Fraud by BJP",
+    "summary": "The Congress party launched accusations against the ruling BJP concerning land, job, and voter list irregularities in Goa."
+  },
+  {
+    "rank": 38,
+    "category": "Sports",
+    "headline": "Goa Aims for First Home Win",
+    "summary": "FC Goa is seeking tactical stability and their first victory at home as they prepare to face an in-form Bengaluru FC side."
+  },
+  {
+    "rank": 39,
+    "category": "Politics",
+    "headline": "High Court Orders Roll Restoration",
+    "summary": "The Bombay High Court reiterated that six members of a Goa family whose names were deleted during voter revision must be added back to the rolls."
+  },
+  {
+    "rank": 40,
+    "category": "Business",
+    "headline": "IT Department Notifies Startup Incentives",
+    "summary": "Goa's IT department formally notified new startup policy incentives specifically aimed at supporting women and students."
+  },
+  {
+    "rank": 41,
+    "category": "Crime",
+    "headline": "Overstaying Foreign Nationals Detected",
+    "summary": "The FRRO in Goa identified five foreign nationals overstaying their visas in Querim and initiated their deportation processes."
+  },
+  {
+    "rank": 42,
+    "category": "Crime",
+    "headline": "Ugandan National Granted Bail",
+    "summary": "The court approved bail for a Ugandan national who had been previously arrested in possession of heroin."
+  },
+  {
+    "rank": 43,
+    "category": "Politics",
+    "headline": "HC Reinstates Deleted Voters",
+    "summary": "The High Court ordered that six voters whose names were removed from electoral lists by the ECI must be restored."
+  },
+  {
+    "rank": 44,
+    "category": "Sports",
+    "headline": "Gouramangi Cleared for BFC Match",
+    "summary": "Gouramangi received official clearance to be on the sidelines for the upcoming clash against Bengaluru FC."
+  },
+  {
+    "rank": 45,
+    "category": "Business",
+    "headline": "Man Wins Refund for Cancelled Flight",
+    "summary": "A passenger who was denied a full refund for a cancelled Goa-Delhi flight during Covid successfully won Rs 18,000 in consumer forum relief."
+  },
+  {
+    "rank": 46,
+    "category": "Sports",
+    "headline": "Churchill Brothers Suffer from Errors",
+    "summary": "Churchill paid the price for costly on-field errors during their recent football fixture."
+  },
+  {
+    "rank": 47,
+    "category": "Civic",
+    "headline": "Water Harvesting Target Set for Goa",
+    "summary": "Minister Shirodkar announced that Goa aims to construct 750 water harvesting structures across the state by June 2027."
+  },
+  {
+    "rank": 48,
+    "category": "Crime",
+    "headline": "Court Orders Payout for Fire Tragedy",
+    "summary": "The Bombay High Court directed Goa club owners to compensate the families of each victim from the 2025 fire tragedy with Rs 20 lakh."
+  },
+  {
+    "rank": 49,
+    "category": "Civic",
+    "headline": "Coastal Route Trains Affected",
+    "summary": "The newly routed Bengaluru-Goa Vande Bharat train service is anticipated to alter operations for 13 regular coastal trains."
+  },
+  {
+    "rank": 50,
+    "category": "Politics",
+    "headline": "High Court Orders Electoral Roll Correction",
+    "summary": "In the context of the Goa SIR process, the Bombay High Court mandated the ECI to restore six deleted voter names to the official rolls."
+  }
+]
